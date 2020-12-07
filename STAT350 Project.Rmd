@@ -1,0 +1,6 @@
+---
+title: "STAT350 Project"
+author: "Anna Pham"
+date: "December 8, 2020"
+output: html_document
+---

@@ -1,0 +1,3221 @@
+"","State","StateFIPS","CountyFIPS","AreaName","Insurance Coverage"
+"13","AK",2,13,"Aleutians East Borough, Alaska",3299
+"14","AK",2,16,"Aleutians West Census Area, Alaska",5510
+"15","AK",2,20,"Anchorage Municipality, Alaska",287811
+"16","AK",2,50,"Bethel Census Area, Alaska",17505
+"17","AK",2,60,"Bristol Bay Borough, Alaska",959
+"18","AK",2,68,"Denali Borough, Alaska",1999
+"19","AK",2,70,"Dillingham Census Area, Alaska",4961
+"20","AK",2,90,"Fairbanks North Star Borough, Alaska",93094
+"21","AK",2,100,"Haines Borough, Alaska",2554
+"22","AK",2,105,"Hoonah-Angoon Census Area, Alaska",2125
+"23","AK",2,110,"Juneau City and Borough, Alaska",31967
+"24","AK",2,122,"Kenai Peninsula Borough, Alaska",55927
+"25","AK",2,130,"Ketchikan Gateway Borough, Alaska",13376
+"26","AK",2,150,"Kodiak Island Borough, Alaska",13283
+"27","AK",2,158,"Kusilvak Census Area, Alaska",7901
+"28","AK",2,164,"Lake and Peninsula Borough, Alaska",1474
+"29","AK",2,170,"Matanuska-Susitna Borough, Alaska",94431
+"30","AK",2,180,"Nome Census Area, Alaska",9655
+"31","AK",2,185,"North Slope Borough, Alaska",9584
+"32","AK",2,188,"Northwest Arctic Borough, Alaska",7708
+"33","AK",2,195,"Petersburg Borough, Alaska",3204
+"34","AK",2,198,"Prince of Wales-Hyder Census Area, Alaska",6369
+"35","AK",2,220,"Sitka City and Borough, Alaska",8759
+"36","AK",2,230,"Skagway Municipality, Alaska",999
+"37","AK",2,240,"Southeast Fairbanks Census Area, Alaska",6862
+"38","AK",2,261,"Valdez-Cordova Census Area, Alaska",9412
+"39","AK",2,275,"Wrangell City and Borough, Alaska",2368
+"40","AK",2,282,"Yakutat City and Borough, Alaska",643
+"41","AK",2,290,"Yukon-Koyukuk Census Area, Alaska",5619
+"414","AL",1,1,"Autauga County, Alabama",54425
+"415","AL",1,3,"Baldwin County, Alabama",192770
+"416","AL",1,5,"Barbour County, Alabama",24060
+"417","AL",1,7,"Bibb County, Alabama",20770
+"418","AL",1,9,"Blount County, Alabama",57210
+"419","AL",1,11,"Bullock County, Alabama",10107
+"420","AL",1,13,"Butler County, Alabama",20070
+"421","AL",1,15,"Calhoun County, Alabama",115195
+"422","AL",1,17,"Chambers County, Alabama",33733
+"423","AL",1,19,"Cherokee County, Alabama",25672
+"424","AL",1,21,"Chilton County, Alabama",43499
+"425","AL",1,23,"Choctaw County, Alabama",13266
+"426","AL",1,25,"Clarke County, Alabama",24799
+"427","AL",1,27,"Clay County, Alabama",13265
+"428","AL",1,29,"Cleburne County, Alabama",14846
+"429","AL",1,31,"Coffee County, Alabama",48929
+"430","AL",1,33,"Colbert County, Alabama",54022
+"431","AL",1,35,"Conecuh County, Alabama",12818
+"432","AL",1,37,"Coosa County, Alabama",10750
+"433","AL",1,39,"Covington County, Alabama",37370
+"434","AL",1,41,"Crenshaw County, Alabama",13763
+"435","AL",1,43,"Cullman County, Alabama",80200
+"436","AL",1,45,"Dale County, Alabama",47170
+"437","AL",1,47,"Dallas County, Alabama",41839
+"438","AL",1,49,"DeKalb County, Alabama",70374
+"439","AL",1,51,"Elmore County, Alabama",75501
+"440","AL",1,53,"Escambia County, Alabama",35607
+"441","AL",1,55,"Etowah County, Alabama",102735
+"442","AL",1,57,"Fayette County, Alabama",16708
+"443","AL",1,59,"Franklin County, Alabama",31374
+"444","AL",1,61,"Geneva County, Alabama",26476
+"445","AL",1,63,"Greene County, Alabama",8646
+"446","AL",1,65,"Hale County, Alabama",14998
+"447","AL",1,67,"Henry County, Alabama",17026
+"448","AL",1,69,"Houston County, Alabama",102646
+"449","AL",1,71,"Jackson County, Alabama",52366
+"450","AL",1,73,"Jefferson County, Alabama",651597
+"451","AL",1,75,"Lamar County, Alabama",13989
+"452","AL",1,77,"Lauderdale County, Alabama",91962
+"453","AL",1,79,"Lawrence County, Alabama",33344
+"454","AL",1,81,"Lee County, Alabama",149037
+"455","AL",1,83,"Limestone County, Alabama",84805
+"456","AL",1,85,"Lowndes County, Alabama",10604
+"457","AL",1,87,"Macon County, Alabama",19809
+"458","AL",1,89,"Madison County, Alabama",342206
+"459","AL",1,91,"Marengo County, Alabama",20079
+"460","AL",1,93,"Marion County, Alabama",29729
+"461","AL",1,95,"Marshall County, Alabama",93431
+"462","AL",1,97,"Mobile County, Alabama",406218
+"463","AL",1,99,"Monroe County, Alabama",22002
+"464","AL",1,101,"Montgomery County, Alabama",222787
+"465","AL",1,103,"Morgan County, Alabama",118084
+"466","AL",1,105,"Perry County, Alabama",9888
+"467","AL",1,107,"Pickens County, Alabama",19254
+"468","AL",1,109,"Pike County, Alabama",32947
+"469","AL",1,111,"Randolph County, Alabama",22412
+"470","AL",1,113,"Russell County, Alabama",56373
+"471","AL",1,115,"St. Clair County, Alabama",84001
+"472","AL",1,117,"Shelby County, Alabama",201820
+"473","AL",1,119,"Sumter County, Alabama",13204
+"474","AL",1,121,"Talladega County, Alabama",78682
+"475","AL",1,123,"Tallapoosa County, Alabama",40616
+"476","AL",1,125,"Tuscaloosa County, Alabama",199008
+"477","AL",1,127,"Walker County, Alabama",65219
+"478","AL",1,129,"Washington County, Alabama",16869
+"479","AL",1,131,"Wilcox County, Alabama",10976
+"480","AL",1,133,"Winston County, Alabama",23829
+"1107","AR",5,1,"Arkansas County, Arkansas",18492
+"1108","AR",5,3,"Ashley County, Arkansas",21054
+"1109","AR",5,5,"Baxter County, Arkansas",40572
+"1110","AR",5,7,"Benton County, Arkansas",236524
+"1111","AR",5,9,"Boone County, Arkansas",36802
+"1112","AR",5,11,"Bradley County, Arkansas",11113
+"1113","AR",5,13,"Calhoun County, Arkansas",5186
+"1114","AR",5,15,"Carroll County, Arkansas",27422
+"1115","AR",5,17,"Chicot County, Arkansas",10686
+"1116","AR",5,19,"Clark County, Arkansas",22411
+"1117","AR",5,21,"Clay County, Arkansas",15266
+"1118","AR",5,23,"Cleburne County, Arkansas",25351
+"1119","AR",5,25,"Cleveland County, Arkansas",8432
+"1120","AR",5,27,"Columbia County, Arkansas",23904
+"1121","AR",5,29,"Conway County, Arkansas",20933
+"1122","AR",5,31,"Craighead County, Arkansas",100428
+"1123","AR",5,33,"Crawford County, Arkansas",61194
+"1124","AR",5,35,"Crittenden County, Arkansas",49204
+"1125","AR",5,37,"Cross County, Arkansas",17256
+"1126","AR",5,39,"Dallas County, Arkansas",7340
+"1127","AR",5,41,"Desha County, Arkansas",12306
+"1128","AR",5,43,"Drew County, Arkansas",18348
+"1129","AR",5,45,"Faulkner County, Arkansas",118057
+"1130","AR",5,47,"Franklin County, Arkansas",17580
+"1131","AR",5,49,"Fulton County, Arkansas",12040
+"1132","AR",5,51,"Garland County, Arkansas",95661
+"1133","AR",5,53,"Grant County, Arkansas",17897
+"1134","AR",5,55,"Greene County, Arkansas",42896
+"1135","AR",5,57,"Hempstead County, Arkansas",22092
+"1136","AR",5,59,"Hot Spring County, Arkansas",31416
+"1137","AR",5,61,"Howard County, Arkansas",13377
+"1138","AR",5,63,"Independence County, Arkansas",36451
+"1139","AR",5,65,"Izard County, Arkansas",12687
+"1140","AR",5,67,"Jackson County, Arkansas",14285
+"1141","AR",5,69,"Jefferson County, Arkansas",69255
+"1142","AR",5,71,"Johnson County, Arkansas",25728
+"1143","AR",5,73,"Lafayette County, Arkansas",7138
+"1144","AR",5,75,"Lawrence County, Arkansas",16715
+"1145","AR",5,77,"Lee County, Arkansas",8457
+"1146","AR",5,79,"Lincoln County, Arkansas",9818
+"1147","AR",5,81,"Little River County, Arkansas",12559
+"1148","AR",5,83,"Logan County, Arkansas",21753
+"1149","AR",5,85,"Lonoke County, Arkansas",69105
+"1150","AR",5,87,"Madison County, Arkansas",15631
+"1151","AR",5,89,"Marion County, Arkansas",16304
+"1152","AR",5,91,"Miller County, Arkansas",42456
+"1153","AR",5,93,"Mississippi County, Arkansas",44030
+"1154","AR",5,95,"Monroe County, Arkansas",7636
+"1155","AR",5,97,"Montgomery County, Arkansas",9056
+"1156","AR",5,99,"Nevada County, Arkansas",8594
+"1157","AR",5,101,"Newton County, Arkansas",7996
+"1158","AR",5,103,"Ouachita County, Arkansas",24648
+"1159","AR",5,105,"Perry County, Arkansas",10178
+"1160","AR",5,107,"Phillips County, Arkansas",20206
+"1161","AR",5,109,"Pike County, Arkansas",10934
+"1162","AR",5,111,"Poinsett County, Arkansas",23888
+"1163","AR",5,113,"Polk County, Arkansas",20226
+"1164","AR",5,115,"Pope County, Arkansas",62188
+"1165","AR",5,117,"Prairie County, Arkansas",8252
+"1166","AR",5,119,"Pulaski County, Arkansas",384831
+"1167","AR",5,121,"Randolph County, Arkansas",17350
+"1168","AR",5,123,"St. Francis County, Arkansas",23723
+"1169","AR",5,125,"Saline County, Arkansas",112566
+"1170","AR",5,127,"Scott County, Arkansas",10797
+"1171","AR",5,129,"Searcy County, Arkansas",7876
+"1172","AR",5,131,"Sebastian County, Arkansas",126151
+"1173","AR",5,133,"Sevier County, Arkansas",17080
+"1174","AR",5,135,"Sharp County, Arkansas",16877
+"1175","AR",5,137,"Stone County, Arkansas",12406
+"1176","AR",5,139,"Union County, Arkansas",40232
+"1177","AR",5,141,"Van Buren County, Arkansas",16806
+"1178","AR",5,143,"Washington County, Arkansas",214640
+"1179","AR",5,145,"White County, Arkansas",78043
+"1180","AR",5,147,"Woodruff County, Arkansas",6863
+"1181","AR",5,149,"Yell County, Arkansas",21538
+"1761","AZ",4,1,"Apache County, Arizona",71338
+"1762","AZ",4,3,"Cochise County, Arizona",116692
+"1763","AZ",4,5,"Coconino County, Arizona",135969
+"1764","AZ",4,7,"Gila County, Arizona",52434
+"1765","AZ",4,9,"Graham County, Arizona",33419
+"1766","AZ",4,11,"Greenlee County, Arizona",8983
+"1767","AZ",4,12,"La Paz County, Arizona",20108
+"1768","AZ",4,13,"Maricopa County, Arizona",3988822
+"1769","AZ",4,15,"Mohave County, Arizona",196922
+"1770","AZ",4,17,"Navajo County, Arizona",105475
+"1771","AZ",4,19,"Pima County, Arizona",980005
+"1772","AZ",4,21,"Pinal County, Arizona",367032
+"1773","AZ",4,23,"Santa Cruz County, Arizona",46827
+"1774","AZ",4,25,"Yavapai County, Arizona",214510
+"1775","AZ",4,27,"Yuma County, Arizona",194973
+"2259","CA",6,1,"Alameda County, California",1573351
+"2260","CA",6,3,"Alpine County, California",1131
+"2261","CA",6,5,"Amador County, California",32880
+"2262","CA",6,7,"Butte County, California",220313
+"2263","CA",6,9,"Calaveras County, California",44382
+"2264","CA",6,11,"Colusa County, California",21205
+"2265","CA",6,13,"Contra Costa County, California",1090556
+"2266","CA",6,15,"Del Norte County, California",24021
+"2267","CA",6,17,"El Dorado County, California",181005
+"2268","CA",6,19,"Fresno County, California",945353
+"2269","CA",6,21,"Glenn County, California",27732
+"2270","CA",6,23,"Humboldt County, California",133962
+"2271","CA",6,25,"Imperial County, California",167772
+"2272","CA",6,27,"Inyo County, California",17934
+"2273","CA",6,29,"Kern County, California",836745
+"2274","CA",6,31,"Kings County, California",130496
+"2275","CA",6,33,"Lake County, California",63470
+"2276","CA",6,35,"Lassen County, California",21971
+"2277","CA",6,37,"Los Angeles County, California",9968960
+"2278","CA",6,39,"Madera County, California",144677
+"2279","CA",6,41,"Marin County, California",253123
+"2280","CA",6,43,"Mariposa County, California",17616
+"2281","CA",6,45,"Mendocino County, California",86622
+"2282","CA",6,47,"Merced County, California",260892
+"2283","CA",6,49,"Modoc County, California",8940
+"2284","CA",6,51,"Mono County, California",14072
+"2285","CA",6,53,"Monterey County, California",410004
+"2286","CA",6,55,"Napa County, California",138394
+"2287","CA",6,57,"Nevada County, California",97618
+"2288","CA",6,59,"Orange County, California",3098794
+"2289","CA",6,61,"Placer County, California",363472
+"2290","CA",6,63,"Plumas County, California",18802
+"2291","CA",6,65,"Riverside County, California",2275526
+"2292","CA",6,67,"Sacramento County, California",1449885
+"2293","CA",6,69,"San Benito County, California",57395
+"2294","CA",6,71,"San Bernardino County, California",2050107
+"2295","CA",6,73,"San Diego County, California",3123555
+"2296","CA",6,75,"San Francisco County, California",836167
+"2297","CA",6,77,"San Joaquin County, California",699892
+"2298","CA",6,79,"San Luis Obispo County, California",269580
+"2299","CA",6,81,"San Mateo County, California",744848
+"2300","CA",6,83,"Santa Barbara County, California",428774
+"2301","CA",6,85,"Santa Clara County, California",1859170
+"2302","CA",6,87,"Santa Cruz County, California",268005
+"2303","CA",6,89,"Shasta County, California",177567
+"2304","CA",6,91,"Sierra County, California",2991
+"2305","CA",6,93,"Siskiyou County, California",43702
+"2306","CA",6,95,"Solano County, California",412693
+"2307","CA",6,97,"Sonoma County, California",490858
+"2308","CA",6,99,"Stanislaus County, California",524038
+"2309","CA",6,101,"Sutter County, California",94038
+"2310","CA",6,103,"Tehama County, California",62585
+"2311","CA",6,105,"Trinity County, California",13160
+"2312","CA",6,107,"Tulare County, California",449747
+"2313","CA",6,109,"Tuolumne County, California",50840
+"2314","CA",6,111,"Ventura County, California",834057
+"2315","CA",6,113,"Yolo County, California",205756
+"2316","CA",6,115,"Yuba County, California",71111
+"3938","CO",8,1,"Adams County, Colorado",467743
+"3939","CO",8,3,"Alamosa County, Colorado",15823
+"3940","CO",8,5,"Arapahoe County, Colorado",603211
+"3941","CO",8,7,"Archuleta County, Colorado",12068
+"3942","CO",8,9,"Baca County, Colorado",3600
+"3943","CO",8,11,"Bent County, Colorado",3624
+"3944","CO",8,13,"Boulder County, Colorado",307948
+"3945","CO",8,14,"Broomfield County, Colorado",60364
+"3946","CO",8,15,"Chaffee County, Colorado",17236
+"3947","CO",8,17,"Cheyenne County, Colorado",1957
+"3948","CO",8,19,"Clear Creek County, Colorado",9009
+"3949","CO",8,21,"Conejos County, Colorado",8208
+"3950","CO",8,23,"Costilla County, Colorado",3581
+"3951","CO",8,25,"Crowley County, Colorado",4421
+"3952","CO",8,27,"Custer County, Colorado",4286
+"3953","CO",8,29,"Delta County, Colorado",29217
+"3954","CO",8,31,"Denver County, Colorado",643117
+"3955","CO",8,33,"Dolores County, Colorado",1862
+"3956","CO",8,35,"Douglas County, Colorado",306019
+"3957","CO",8,37,"Eagle County, Colorado",52480
+"3958","CO",8,39,"Elbert County, Colorado",23761
+"3959","CO",8,41,"El Paso County, Colorado",624178
+"3960","CO",8,43,"Fremont County, Colorado",36178
+"3961","CO",8,45,"Garfield County, Colorado",56345
+"3962","CO",8,47,"Gilpin County, Colorado",5552
+"3963","CO",8,49,"Grand County, Colorado",14350
+"3964","CO",8,51,"Gunnison County, Colorado",15599
+"3965","CO",8,53,"Hinsdale County, Colorado",874
+"3966","CO",8,55,"Huerfano County, Colorado",6319
+"3967","CO",8,57,"Jackson County, Colorado",1330
+"3968","CO",8,59,"Jefferson County, Colorado",545981
+"3969","CO",8,61,"Kiowa County, Colorado",1434
+"3970","CO",8,63,"Kit Carson County, Colorado",7068
+"3971","CO",8,65,"Lake County, Colorado",7305
+"3972","CO",8,67,"La Plata County, Colorado",52684
+"3973","CO",8,69,"Larimer County, Colorado",315783
+"3974","CO",8,71,"Las Animas County, Colorado",14003
+"3975","CO",8,73,"Lincoln County, Colorado",3763
+"3976","CO",8,75,"Logan County, Colorado",21314
+"3977","CO",8,77,"Mesa County, Colorado",146558
+"3978","CO",8,79,"Mineral County, Colorado",733
+"3979","CO",8,81,"Moffat County, Colorado",12993
+"3980","CO",8,83,"Montezuma County, Colorado",25495
+"3981","CO",8,85,"Montrose County, Colorado",40413
+"3982","CO",8,87,"Morgan County, Colorado",27889
+"3983","CO",8,89,"Otero County, Colorado",18375
+"3984","CO",8,91,"Ouray County, Colorado",4580
+"3985","CO",8,93,"Park County, Colorado",16041
+"3986","CO",8,95,"Phillips County, Colorado",4306
+"3987","CO",8,97,"Pitkin County, Colorado",17363
+"3988","CO",8,99,"Prowers County, Colorado",12050
+"3989","CO",8,101,"Pueblo County, Colorado",157647
+"3990","CO",8,103,"Rio Blanco County, Colorado",6618
+"3991","CO",8,105,"Rio Grande County, Colorado",11525
+"3992","CO",8,107,"Routt County, Colorado",23508
+"3993","CO",8,109,"Saguache County, Colorado",6214
+"3994","CO",8,111,"San Juan County, Colorado",606
+"3995","CO",8,113,"San Miguel County, Colorado",7645
+"3996","CO",8,115,"Sedgwick County, Colorado",2335
+"3997","CO",8,117,"Summit County, Colorado",28857
+"3998","CO",8,119,"Teller County, Colorado",23103
+"3999","CO",8,121,"Washington County, Colorado",4522
+"4000","CO",8,123,"Weld County, Colorado",268202
+"4001","CO",8,125,"Yuma County, Colorado",10041
+"4495","CT",9,1,"Fairfield County, Connecticut",931369
+"4496","CT",9,3,"Hartford County, Connecticut",881615
+"4497","CT",9,5,"Litchfield County, Connecticut",184877
+"4498","CT",9,7,"Middlesex County, Connecticut",163258
+"4499","CT",9,9,"New Haven County, Connecticut",851629
+"4500","CT",9,11,"New London County, Connecticut",261251
+"4501","CT",9,13,"Tolland County, Connecticut",148817
+"4502","CT",9,15,"Windham County, Connecticut",115783
+"4662","DC",11,1,"District of Columbia, District of Columbia",636610
+"4673","DE",10,1,"Kent County, Delaware",166055
+"4674","DE",10,3,"New Castle County, Delaware",541226
+"4675","DE",10,5,"Sussex County, Delaware",204507
+"4769","FL",12,1,"Alachua County, Florida",251519
+"4770","FL",12,3,"Baker County, Florida",24631
+"4771","FL",12,5,"Bay County, Florida",171019
+"4772","FL",12,7,"Bradford County, Florida",23903
+"4773","FL",12,9,"Brevard County, Florida",548302
+"4774","FL",12,11,"Broward County, Florida",1832097
+"4775","FL",12,13,"Calhoun County, Florida",12585
+"4776","FL",12,15,"Charlotte County, Florida",162538
+"4777","FL",12,17,"Citrus County, Florida",137765
+"4778","FL",12,19,"Clay County, Florida",194380
+"4779","FL",12,21,"Collier County, Florida",339234
+"4780","FL",12,23,"Columbia County, Florida",63166
+"4781","FL",12,27,"DeSoto County, Florida",33136
+"4782","FL",12,29,"Dixie County, Florida",14574
+"4783","FL",12,31,"Duval County, Florida",872854
+"4784","FL",12,33,"Escambia County, Florida",290220
+"4785","FL",12,35,"Flagler County, Florida",100410
+"4786","FL",12,37,"Franklin County, Florida",9782
+"4787","FL",12,39,"Gadsden County, Florida",43969
+"4788","FL",12,41,"Gilchrist County, Florida",15808
+"4789","FL",12,43,"Glades County, Florida",11922
+"4790","FL",12,45,"Gulf County, Florida",13459
+"4791","FL",12,47,"Hamilton County, Florida",11047
+"4792","FL",12,49,"Hardee County, Florida",25794
+"4793","FL",12,51,"Hendry County, Florida",36827
+"4794","FL",12,53,"Hernando County, Florida",172961
+"4795","FL",12,55,"Highlands County, Florida",97283
+"4796","FL",12,57,"Hillsborough County, Florida",1290830
+"4797","FL",12,59,"Holmes County, Florida",17718
+"4798","FL",12,61,"Indian River County, Florida",141532
+"4799","FL",12,63,"Jackson County, Florida",41347
+"4800","FL",12,65,"Jefferson County, Florida",11742
+"4801","FL",12,67,"Lafayette County, Florida",7014
+"4802","FL",12,69,"Lake County, Florida",307095
+"4803","FL",12,71,"Lee County, Florida",658174
+"4804","FL",12,73,"Leon County, Florida",279510
+"4805","FL",12,75,"Levy County, Florida",39380
+"4806","FL",12,77,"Liberty County, Florida",6774
+"4807","FL",12,79,"Madison County, Florida",16683
+"4808","FL",12,81,"Manatee County, Florida",340989
+"4809","FL",12,83,"Marion County, Florida",328847
+"4810","FL",12,85,"Martin County, Florida",148755
+"4811","FL",12,86,"Miami-Dade County, Florida",2612203
+"4812","FL",12,87,"Monroe County, Florida",74196
+"4813","FL",12,89,"Nassau County, Florida",75138
+"4814","FL",12,91,"Okaloosa County, Florida",181098
+"4815","FL",12,93,"Okeechobee County, Florida",36234
+"4816","FL",12,95,"Orange County, Florida",1217194
+"4817","FL",12,97,"Osceola County, Florida",298835
+"4818","FL",12,99,"Palm Beach County, Florida",1366048
+"4819","FL",12,101,"Pasco County, Florida",473431
+"4820","FL",12,103,"Pinellas County, Florida",920233
+"4821","FL",12,105,"Polk County, Florida",617100
+"4822","FL",12,107,"Putnam County, Florida",71452
+"4823","FL",12,109,"St. Johns County, Florida",208644
+"4824","FL",12,111,"St. Lucie County, Florida",285832
+"4825","FL",12,113,"Santa Rosa County, Florida",152107
+"4826","FL",12,115,"Sarasota County, Florida",388233
+"4827","FL",12,117,"Seminole County, Florida",434616
+"4828","FL",12,119,"Sumter County, Florida",99400
+"4829","FL",12,121,"Suwannee County, Florida",42115
+"4830","FL",12,123,"Taylor County, Florida",18600
+"4831","FL",12,125,"Union County, Florida",10019
+"4832","FL",12,127,"Volusia County, Florida",497974
+"4833","FL",12,129,"Wakulla County, Florida",27517
+"4834","FL",12,131,"Walton County, Florida",57405
+"4835","FL",12,133,"Washington County, Florida",22051
+"5822","GA",13,1,"Appling County, Georgia",17953
+"5823","GA",13,3,"Atkinson County, Georgia",8268
+"5824","GA",13,5,"Bacon County, Georgia",10701
+"5825","GA",13,7,"Baker County, Georgia",3292
+"5826","GA",13,9,"Baldwin County, Georgia",43526
+"5827","GA",13,11,"Banks County, Georgia",18319
+"5828","GA",13,13,"Barrow County, Georgia",71798
+"5829","GA",13,15,"Bartow County, Georgia",100487
+"5830","GA",13,17,"Ben Hill County, Georgia",17157
+"5831","GA",13,19,"Berrien County, Georgia",18711
+"5832","GA",13,21,"Bibb County, Georgia",151161
+"5833","GA",13,23,"Bleckley County, Georgia",12381
+"5834","GA",13,25,"Brantley County, Georgia",18393
+"5835","GA",13,27,"Brooks County, Georgia",15598
+"5836","GA",13,29,"Bryan County, Georgia",32198
+"5837","GA",13,31,"Bulloch County, Georgia",71541
+"5838","GA",13,33,"Burke County, Georgia",22762
+"5839","GA",13,35,"Butts County, Georgia",20999
+"5840","GA",13,37,"Calhoun County, Georgia",4673
+"5841","GA",13,39,"Camden County, Georgia",47802
+"5842","GA",13,43,"Candler County, Georgia",10744
+"5843","GA",13,45,"Carroll County, Georgia",111432
+"5844","GA",13,47,"Catoosa County, Georgia",64855
+"5845","GA",13,49,"Charlton County, Georgia",11781
+"5846","GA",13,51,"Chatham County, Georgia",271319
+"5847","GA",13,53,"Chattahoochee County, Georgia",7229
+"5848","GA",13,55,"Chattooga County, Georgia",23369
+"5849","GA",13,57,"Cherokee County, Georgia",225041
+"5850","GA",13,59,"Clarke County, Georgia",119918
+"5851","GA",13,61,"Clay County, Georgia",3046
+"5852","GA",13,63,"Clayton County, Georgia",263996
+"5853","GA",13,65,"Clinch County, Georgia",6660
+"5854","GA",13,67,"Cobb County, Georgia",714030
+"5855","GA",13,69,"Coffee County, Georgia",39575
+"5856","GA",13,71,"Colquitt County, Georgia",45331
+"5857","GA",13,73,"Columbia County, Georgia",133209
+"5858","GA",13,75,"Cook County, Georgia",16889
+"5859","GA",13,77,"Coweta County, Georgia",132823
+"5860","GA",13,79,"Crawford County, Georgia",12391
+"5861","GA",13,81,"Crisp County, Georgia",22865
+"5862","GA",13,83,"Dade County, Georgia",16296
+"5863","GA",13,85,"Dawson County, Georgia",22490
+"5864","GA",13,87,"Decatur County, Georgia",26062
+"5865","GA",13,89,"DeKalb County, Georgia",708943
+"5866","GA",13,91,"Dodge County, Georgia",19211
+"5867","GA",13,93,"Dooly County, Georgia",12619
+"5868","GA",13,95,"Dougherty County, Georgia",91531
+"5869","GA",13,97,"Douglas County, Georgia",135343
+"5870","GA",13,99,"Early County, Georgia",10420
+"5871","GA",13,101,"Echols County, Georgia",4048
+"5872","GA",13,103,"Effingham County, Georgia",54056
+"5873","GA",13,105,"Elbert County, Georgia",19303
+"5874","GA",13,107,"Emanuel County, Georgia",21963
+"5875","GA",13,109,"Evans County, Georgia",10330
+"5876","GA",13,111,"Fannin County, Georgia",23583
+"5877","GA",13,113,"Fayette County, Georgia",107798
+"5878","GA",13,115,"Floyd County, Georgia",93997
+"5879","GA",13,117,"Forsyth County, Georgia",195631
+"5880","GA",13,119,"Franklin County, Georgia",21903
+"5881","GA",13,121,"Fulton County, Georgia",975177
+"5882","GA",13,123,"Gilmer County, Georgia",28425
+"5883","GA",13,125,"Glascock County, Georgia",2992
+"5884","GA",13,127,"Glynn County, Georgia",80782
+"5885","GA",13,129,"Gordon County, Georgia",55350
+"5886","GA",13,131,"Grady County, Georgia",25051
+"5887","GA",13,133,"Greene County, Georgia",16154
+"5888","GA",13,135,"Gwinnett County, Georgia",854130
+"5889","GA",13,137,"Habersham County, Georgia",41224
+"5890","GA",13,139,"Hall County, Georgia",186601
+"5891","GA",13,141,"Hancock County, Georgia",7013
+"5892","GA",13,143,"Haralson County, Georgia",28202
+"5893","GA",13,145,"Harris County, Georgia",32355
+"5894","GA",13,147,"Hart County, Georgia",24663
+"5895","GA",13,149,"Heard County, Georgia",11474
+"5896","GA",13,151,"Henry County, Georgia",210165
+"5897","GA",13,153,"Houston County, Georgia",144239
+"5898","GA",13,155,"Irwin County, Georgia",8866
+"5899","GA",13,157,"Jackson County, Georgia",60900
+"5900","GA",13,159,"Jasper County, Georgia",13493
+"5901","GA",13,161,"Jeff Davis County, Georgia",14874
+"5902","GA",13,163,"Jefferson County, Georgia",15866
+"5903","GA",13,165,"Jenkins County, Georgia",8840
+"5904","GA",13,167,"Johnson County, Georgia",9235
+"5905","GA",13,169,"Jones County, Georgia",28459
+"5906","GA",13,171,"Lamar County, Georgia",17838
+"5907","GA",13,173,"Lanier County, Georgia",9862
+"5908","GA",13,175,"Laurens County, Georgia",46839
+"5909","GA",13,177,"Lee County, Georgia",27618
+"5910","GA",13,179,"Liberty County, Georgia",58182
+"5911","GA",13,181,"Lincoln County, Georgia",7633
+"5912","GA",13,183,"Long County, Georgia",15583
+"5913","GA",13,185,"Lowndes County, Georgia",108519
+"5914","GA",13,187,"Lumpkin County, Georgia",30515
+"5915","GA",13,189,"McDuffie County, Georgia",21291
+"5916","GA",13,191,"McIntosh County, Georgia",13907
+"5917","GA",13,193,"Macon County, Georgia",12285
+"5918","GA",13,195,"Madison County, Georgia",28056
+"5919","GA",13,197,"Marion County, Georgia",8639
+"5920","GA",13,199,"Meriwether County, Georgia",21167
+"5921","GA",13,201,"Miller County, Georgia",5774
+"5922","GA",13,205,"Mitchell County, Georgia",20771
+"5923","GA",13,207,"Monroe County, Georgia",25646
+"5924","GA",13,209,"Montgomery County, Georgia",8591
+"5925","GA",13,211,"Morgan County, Georgia",17704
+"5926","GA",13,213,"Murray County, Georgia",39178
+"5927","GA",13,215,"Muscogee County, Georgia",187046
+"5928","GA",13,217,"Newton County, Georgia",101726
+"5929","GA",13,219,"Oconee County, Georgia",34200
+"5930","GA",13,221,"Oglethorpe County, Georgia",14546
+"5931","GA",13,223,"Paulding County, Georgia",146738
+"5932","GA",13,225,"Peach County, Georgia",26956
+"5933","GA",13,227,"Pickens County, Georgia",29468
+"5934","GA",13,229,"Pierce County, Georgia",18790
+"5935","GA",13,231,"Pike County, Georgia",17545
+"5936","GA",13,233,"Polk County, Georgia",40906
+"5937","GA",13,235,"Pulaski County, Georgia",10047
+"5938","GA",13,237,"Putnam County, Georgia",21081
+"5939","GA",13,239,"Quitman County, Georgia",2326
+"5940","GA",13,241,"Rabun County, Georgia",16067
+"5941","GA",13,243,"Randolph County, Georgia",7197
+"5942","GA",13,245,"Richmond County, Georgia",191649
+"5943","GA",13,247,"Rockdale County, Georgia",86178
+"5944","GA",13,249,"Schley County, Georgia",5074
+"5945","GA",13,251,"Screven County, Georgia",13811
+"5946","GA",13,253,"Seminole County, Georgia",8663
+"5947","GA",13,255,"Spalding County, Georgia",62794
+"5948","GA",13,257,"Stephens County, Georgia",25615
+"5949","GA",13,259,"Stewart County, Georgia",4298
+"5950","GA",13,261,"Sumter County, Georgia",30526
+"5951","GA",13,263,"Talbot County, Georgia",6470
+"5952","GA",13,265,"Taliaferro County, Georgia",1721
+"5953","GA",13,267,"Tattnall County, Georgia",19424
+"5954","GA",13,269,"Taylor County, Georgia",8193
+"5955","GA",13,271,"Telfair County, Georgia",12523
+"5956","GA",13,273,"Terrell County, Georgia",8883
+"5957","GA",13,275,"Thomas County, Georgia",44122
+"5958","GA",13,277,"Tift County, Georgia",40366
+"5959","GA",13,279,"Toombs County, Georgia",26872
+"5960","GA",13,281,"Towns County, Georgia",10636
+"5961","GA",13,283,"Treutlen County, Georgia",6365
+"5962","GA",13,285,"Troup County, Georgia",67435
+"5963","GA",13,287,"Turner County, Georgia",7984
+"5964","GA",13,289,"Twiggs County, Georgia",8419
+"5965","GA",13,291,"Union County, Georgia",21270
+"5966","GA",13,293,"Upson County, Georgia",25954
+"5967","GA",13,295,"Walker County, Georgia",66989
+"5968","GA",13,297,"Walton County, Georgia",85471
+"5969","GA",13,299,"Ware County, Georgia",33373
+"5970","GA",13,301,"Warren County, Georgia",5483
+"5971","GA",13,303,"Washington County, Georgia",19175
+"5972","GA",13,305,"Wayne County, Georgia",27877
+"5973","GA",13,307,"Webster County, Georgia",2715
+"5974","GA",13,309,"Wheeler County, Georgia",4349
+"5975","GA",13,311,"White County, Georgia",27592
+"5976","GA",13,313,"Whitfield County, Georgia",102695
+"5977","GA",13,315,"Wilcox County, Georgia",6939
+"5978","GA",13,317,"Wilkes County, Georgia",9818
+"5979","GA",13,319,"Wilkinson County, Georgia",9287
+"5980","GA",13,321,"Worth County, Georgia",20992
+"6669","HI",15,1,"Hawaii County, Hawaii",190327
+"6670","HI",15,3,"Honolulu County, Hawaii",933710
+"6671","HI",15,5,"Kalawao County, Hawaii",75
+"6672","HI",15,7,"Kauai County, Hawaii",68903
+"6673","HI",15,9,"Maui County, Hawaii",159335
+"6843","IA",19,1,"Adair County, Iowa",7287
+"6844","IA",19,3,"Adams County, Iowa",3822
+"6845","IA",19,5,"Allamakee County, Iowa",13753
+"6846","IA",19,7,"Appanoose County, Iowa",12538
+"6847","IA",19,9,"Audubon County, Iowa",5719
+"6848","IA",19,11,"Benton County, Iowa",25566
+"6849","IA",19,13,"Black Hawk County, Iowa",131212
+"6850","IA",19,15,"Boone County, Iowa",25769
+"6851","IA",19,17,"Bremer County, Iowa",24176
+"6852","IA",19,19,"Buchanan County, Iowa",20745
+"6853","IA",19,21,"Buena Vista County, Iowa",20234
+"6854","IA",19,23,"Butler County, Iowa",14705
+"6855","IA",19,25,"Calhoun County, Iowa",9381
+"6856","IA",19,27,"Carroll County, Iowa",20266
+"6857","IA",19,29,"Cass County, Iowa",13329
+"6858","IA",19,31,"Cedar County, Iowa",18133
+"6859","IA",19,33,"Cerro Gordo County, Iowa",42822
+"6860","IA",19,35,"Cherokee County, Iowa",11460
+"6861","IA",19,37,"Chickasaw County, Iowa",12116
+"6862","IA",19,39,"Clarke County, Iowa",9142
+"6863","IA",19,41,"Clay County, Iowa",16255
+"6864","IA",19,43,"Clayton County, Iowa",17569
+"6865","IA",19,45,"Clinton County, Iowa",47870
+"6866","IA",19,47,"Crawford County, Iowa",17051
+"6867","IA",19,49,"Dallas County, Iowa",74382
+"6868","IA",19,51,"Davis County, Iowa",8627
+"6869","IA",19,53,"Decatur County, Iowa",8140
+"6870","IA",19,55,"Delaware County, Iowa",17342
+"6871","IA",19,57,"Des Moines County, Iowa",39707
+"6872","IA",19,59,"Dickinson County, Iowa",16758
+"6873","IA",19,61,"Dubuque County, Iowa",94656
+"6874","IA",19,63,"Emmet County, Iowa",9645
+"6875","IA",19,65,"Fayette County, Iowa",20234
+"6876","IA",19,67,"Floyd County, Iowa",15841
+"6877","IA",19,69,"Franklin County, Iowa",10336
+"6878","IA",19,71,"Fremont County, Iowa",6983
+"6879","IA",19,73,"Greene County, Iowa",9059
+"6880","IA",19,75,"Grundy County, Iowa",12255
+"6881","IA",19,77,"Guthrie County, Iowa",10602
+"6882","IA",19,79,"Hamilton County, Iowa",15093
+"6883","IA",19,81,"Hancock County, Iowa",10940
+"6884","IA",19,83,"Hardin County, Iowa",16849
+"6885","IA",19,85,"Harrison County, Iowa",14218
+"6886","IA",19,87,"Henry County, Iowa",18884
+"6887","IA",19,89,"Howard County, Iowa",9320
+"6888","IA",19,91,"Humboldt County, Iowa",9557
+"6889","IA",19,93,"Ida County, Iowa",6942
+"6890","IA",19,95,"Iowa County, Iowa",16095
+"6891","IA",19,97,"Jackson County, Iowa",19381
+"6892","IA",19,99,"Jasper County, Iowa",35023
+"6893","IA",19,101,"Jefferson County, Iowa",17173
+"6894","IA",19,103,"Johnson County, Iowa",137748
+"6895","IA",19,105,"Jones County, Iowa",19236
+"6896","IA",19,107,"Keokuk County, Iowa",10168
+"6897","IA",19,109,"Kossuth County, Iowa",15022
+"6898","IA",19,111,"Lee County, Iowa",34700
+"6899","IA",19,113,"Linn County, Iowa",214649
+"6900","IA",19,115,"Louisa County, Iowa",11141
+"6901","IA",19,117,"Lucas County, Iowa",8598
+"6902","IA",19,119,"Lyon County, Iowa",11553
+"6903","IA",19,121,"Madison County, Iowa",15457
+"6904","IA",19,123,"Mahaska County, Iowa",22162
+"6905","IA",19,125,"Marion County, Iowa",32999
+"6906","IA",19,127,"Marshall County, Iowa",39971
+"6907","IA",19,129,"Mills County, Iowa",14622
+"6908","IA",19,131,"Mitchell County, Iowa",10545
+"6909","IA",19,133,"Monona County, Iowa",8876
+"6910","IA",19,135,"Monroe County, Iowa",7866
+"6911","IA",19,137,"Montgomery County, Iowa",10272
+"6912","IA",19,139,"Muscatine County, Iowa",42430
+"6913","IA",19,141,"O'Brien County, Iowa",13886
+"6914","IA",19,143,"Osceola County, Iowa",6107
+"6915","IA",19,145,"Page County, Iowa",14734
+"6916","IA",19,147,"Palo Alto County, Iowa",9005
+"6917","IA",19,149,"Plymouth County, Iowa",24561
+"6918","IA",19,151,"Pocahontas County, Iowa",6967
+"6919","IA",19,153,"Polk County, Iowa",447444
+"6920","IA",19,155,"Pottawattamie County, Iowa",92061
+"6921","IA",19,157,"Poweshiek County, Iowa",18388
+"6922","IA",19,159,"Ringgold County, Iowa",4874
+"6923","IA",19,161,"Sac County, Iowa",9907
+"6924","IA",19,163,"Scott County, Iowa",168281
+"6925","IA",19,165,"Shelby County, Iowa",11770
+"6926","IA",19,167,"Sioux County, Iowa",34084
+"6927","IA",19,169,"Story County, Iowa",92861
+"6928","IA",19,171,"Tama County, Iowa",17098
+"6929","IA",19,173,"Taylor County, Iowa",6111
+"6930","IA",19,175,"Union County, Iowa",12435
+"6931","IA",19,177,"Van Buren County, Iowa",7365
+"6932","IA",19,179,"Wapello County, Iowa",34926
+"6933","IA",19,181,"Warren County, Iowa",46957
+"6934","IA",19,183,"Washington County, Iowa",21694
+"6935","IA",19,185,"Wayne County, Iowa",6282
+"6936","IA",19,187,"Webster County, Iowa",35536
+"6937","IA",19,189,"Winnebago County, Iowa",10395
+"6938","IA",19,191,"Winneshiek County, Iowa",20604
+"6939","IA",19,193,"Woodbury County, Iowa",101578
+"6940","IA",19,195,"Worth County, Iowa",7462
+"6941","IA",19,197,"Wright County, Iowa",12757
+"7990","ID",16,1,"Ada County, Idaho",411477
+"7991","ID",16,3,"Adams County, Idaho",3848
+"7992","ID",16,5,"Bannock County, Idaho",82294
+"7993","ID",16,7,"Bear Lake County, Idaho",5900
+"7994","ID",16,9,"Benewah County, Idaho",9002
+"7995","ID",16,11,"Bingham County, Idaho",45141
+"7996","ID",16,13,"Blaine County, Idaho",21283
+"7997","ID",16,15,"Boise County, Idaho",6857
+"7998","ID",16,17,"Bonner County, Idaho",40722
+"7999","ID",16,19,"Bonneville County, Idaho",106589
+"8000","ID",16,21,"Boundary County, Idaho",10889
+"8001","ID",16,23,"Butte County, Idaho",2616
+"8002","ID",16,25,"Camas County, Idaho",1052
+"8003","ID",16,27,"Canyon County, Idaho",197420
+"8004","ID",16,29,"Caribou County, Idaho",6718
+"8005","ID",16,31,"Cassia County, Idaho",22988
+"8006","ID",16,33,"Clark County, Idaho",901
+"8007","ID",16,35,"Clearwater County, Idaho",7522
+"8008","ID",16,37,"Custer County, Idaho",4202
+"8009","ID",16,39,"Elmore County, Idaho",23910
+"8010","ID",16,41,"Franklin County, Idaho",12868
+"8011","ID",16,43,"Fremont County, Idaho",12342
+"8012","ID",16,45,"Gem County, Idaho",16590
+"8013","ID",16,47,"Gooding County, Idaho",15150
+"8014","ID",16,49,"Idaho County, Idaho",15788
+"8015","ID",16,51,"Jefferson County, Idaho",26733
+"8016","ID",16,53,"Jerome County, Idaho",22532
+"8017","ID",16,55,"Kootenai County, Idaho",143753
+"8018","ID",16,57,"Latah County, Idaho",38173
+"8019","ID",16,59,"Lemhi County, Idaho",7699
+"8020","ID",16,61,"Lewis County, Idaho",3758
+"8021","ID",16,63,"Lincoln County, Idaho",5221
+"8022","ID",16,65,"Madison County, Idaho",37715
+"8023","ID",16,67,"Minidoka County, Idaho",20180
+"8024","ID",16,69,"Nez Perce County, Idaho",39094
+"8025","ID",16,71,"Oneida County, Idaho",4212
+"8026","ID",16,73,"Owyhee County, Idaho",11224
+"8027","ID",16,75,"Payette County, Idaho",22548
+"8028","ID",16,77,"Power County, Idaho",7666
+"8029","ID",16,79,"Shoshone County, Idaho",12370
+"8030","ID",16,81,"Teton County, Idaho",10285
+"8031","ID",16,83,"Twin Falls County, Idaho",79068
+"8032","ID",16,85,"Valley County, Idaho",9637
+"8033","ID",16,87,"Washington County, Idaho",9887
+"8291","IL",17,1,"Adams County, Illinois",65791
+"8292","IL",17,3,"Alexander County, Illinois",7124
+"8293","IL",17,5,"Bond County, Illinois",16229
+"8294","IL",17,7,"Boone County, Illinois",53533
+"8295","IL",17,9,"Brown County, Illinois",5191
+"8296","IL",17,11,"Bureau County, Illinois",33724
+"8297","IL",17,13,"Calhoun County, Illinois",4919
+"8298","IL",17,15,"Carroll County, Illinois",14749
+"8299","IL",17,17,"Cass County, Illinois",13094
+"8300","IL",17,19,"Champaign County, Illinois",203872
+"8301","IL",17,21,"Christian County, Illinois",32419
+"8302","IL",17,23,"Clark County, Illinois",15928
+"8303","IL",17,25,"Clay County, Illinois",13406
+"8304","IL",17,27,"Clinton County, Illinois",36001
+"8305","IL",17,29,"Coles County, Illinois",52349
+"8306","IL",17,31,"Cook County, Illinois",5192597
+"8307","IL",17,33,"Crawford County, Illinois",18161
+"8308","IL",17,35,"Cumberland County, Illinois",10817
+"8309","IL",17,37,"DeKalb County, Illinois",103520
+"8310","IL",17,39,"De Witt County, Illinois",16149
+"8311","IL",17,41,"Douglas County, Illinois",19670
+"8312","IL",17,43,"DuPage County, Illinois",924581
+"8313","IL",17,45,"Edgar County, Illinois",17722
+"8314","IL",17,47,"Edwards County, Illinois",6615
+"8315","IL",17,49,"Effingham County, Illinois",33927
+"8316","IL",17,51,"Fayette County, Illinois",20497
+"8317","IL",17,53,"Ford County, Illinois",13424
+"8318","IL",17,55,"Franklin County, Illinois",39216
+"8319","IL",17,57,"Fulton County, Illinois",34089
+"8320","IL",17,59,"Gallatin County, Illinois",5385
+"8321","IL",17,61,"Greene County, Illinois",13244
+"8322","IL",17,63,"Grundy County, Illinois",50053
+"8323","IL",17,65,"Hamilton County, Illinois",8241
+"8324","IL",17,67,"Hancock County, Illinois",18572
+"8325","IL",17,69,"Hardin County, Illinois",4193
+"8326","IL",17,71,"Henderson County, Illinois",6977
+"8327","IL",17,73,"Henry County, Illinois",49117
+"8328","IL",17,75,"Iroquois County, Illinois",28596
+"8329","IL",17,77,"Jackson County, Illinois",58832
+"8330","IL",17,79,"Jasper County, Illinois",9572
+"8331","IL",17,81,"Jefferson County, Illinois",36536
+"8332","IL",17,83,"Jersey County, Illinois",22281
+"8333","IL",17,85,"Jo Daviess County, Illinois",22245
+"8334","IL",17,87,"Johnson County, Illinois",10939
+"8335","IL",17,89,"Kane County, Illinois",521685
+"8336","IL",17,91,"Kankakee County, Illinois",109894
+"8337","IL",17,93,"Kendall County, Illinois",119786
+"8338","IL",17,95,"Knox County, Illinois",49374
+"8339","IL",17,97,"Lake County, Illinois",687664
+"8340","IL",17,99,"LaSalle County, Illinois",109748
+"8341","IL",17,101,"Lawrence County, Illinois",11161
+"8342","IL",17,103,"Lee County, Illinois",32262
+"8343","IL",17,105,"Livingston County, Illinois",33693
+"8344","IL",17,107,"Logan County, Illinois",23997
+"8345","IL",17,109,"McDonough County, Illinois",31636
+"8346","IL",17,111,"McHenry County, Illinois",306094
+"8347","IL",17,113,"McLean County, Illinois",171960
+"8348","IL",17,115,"Macon County, Illinois",106773
+"8349","IL",17,117,"Macoupin County, Illinois",46284
+"8350","IL",17,119,"Madison County, Illinois",264937
+"8351","IL",17,121,"Marion County, Illinois",37954
+"8352","IL",17,123,"Marshall County, Illinois",11908
+"8353","IL",17,125,"Mason County, Illinois",13933
+"8354","IL",17,127,"Massac County, Illinois",14794
+"8355","IL",17,129,"Menard County, Illinois",12450
+"8356","IL",17,131,"Mercer County, Illinois",15851
+"8357","IL",17,133,"Monroe County, Illinois",33249
+"8358","IL",17,135,"Montgomery County, Illinois",23882
+"8359","IL",17,137,"Morgan County, Illinois",33363
+"8360","IL",17,139,"Moultrie County, Illinois",14605
+"8361","IL",17,141,"Ogle County, Illinois",51896
+"8362","IL",17,143,"Peoria County, Illinois",184842
+"8363","IL",17,145,"Perry County, Illinois",19713
+"8364","IL",17,147,"Piatt County, Illinois",16445
+"8365","IL",17,149,"Pike County, Illinois",15611
+"8366","IL",17,151,"Pope County, Illinois",4126
+"8367","IL",17,153,"Pulaski County, Illinois",5863
+"8368","IL",17,155,"Putnam County, Illinois",5816
+"8369","IL",17,157,"Randolph County, Illinois",29941
+"8370","IL",17,159,"Richland County, Illinois",15917
+"8371","IL",17,161,"Rock Island County, Illinois",144775
+"8372","IL",17,163,"St. Clair County, Illinois",261228
+"8373","IL",17,165,"Saline County, Illinois",24235
+"8374","IL",17,167,"Sangamon County, Illinois",196845
+"8375","IL",17,169,"Schuyler County, Illinois",7232
+"8376","IL",17,171,"Scott County, Illinois",5150
+"8377","IL",17,173,"Shelby County, Illinois",21923
+"8378","IL",17,175,"Stark County, Illinois",5758
+"8379","IL",17,177,"Stephenson County, Illinois",45878
+"8380","IL",17,179,"Tazewell County, Illinois",133362
+"8381","IL",17,181,"Union County, Illinois",17398
+"8382","IL",17,183,"Vermilion County, Illinois",78088
+"8383","IL",17,185,"Wabash County, Illinois",11569
+"8384","IL",17,187,"Warren County, Illinois",17508
+"8385","IL",17,189,"Washington County, Illinois",14248
+"8386","IL",17,191,"Wayne County, Illinois",16506
+"8387","IL",17,193,"White County, Illinois",14130
+"8388","IL",17,195,"Whiteside County, Illinois",56651
+"8389","IL",17,197,"Will County, Illinois",677429
+"8390","IL",17,199,"Williamson County, Illinois",65283
+"8391","IL",17,201,"Winnebago County, Illinois",287276
+"8392","IL",17,203,"Woodford County, Illinois",38548
+"9824","IN",18,1,"Adams County, Indiana",34218
+"9825","IN",18,3,"Allen County, Indiana",359824
+"9826","IN",18,5,"Bartholomew County, Indiana",78566
+"9827","IN",18,7,"Benton County, Indiana",8667
+"9828","IN",18,9,"Blackford County, Indiana",12304
+"9829","IN",18,11,"Boone County, Indiana",59913
+"9830","IN",18,13,"Brown County, Indiana",14880
+"9831","IN",18,15,"Carroll County, Indiana",19899
+"9832","IN",18,17,"Cass County, Indiana",37820
+"9833","IN",18,19,"Clark County, Indiana",111627
+"9834","IN",18,21,"Clay County, Indiana",26366
+"9835","IN",18,23,"Clinton County, Indiana",32184
+"9836","IN",18,25,"Crawford County, Indiana",10532
+"9837","IN",18,27,"Daviess County, Indiana",31951
+"9838","IN",18,29,"Dearborn County, Indiana",49118
+"9839","IN",18,31,"Decatur County, Indiana",25922
+"9840","IN",18,33,"DeKalb County, Indiana",42076
+"9841","IN",18,35,"Delaware County, Indiana",115861
+"9842","IN",18,37,"Dubois County, Indiana",41495
+"9843","IN",18,39,"Elkhart County, Indiana",198214
+"9844","IN",18,41,"Fayette County, Indiana",23452
+"9845","IN",18,43,"Floyd County, Indiana",74903
+"9846","IN",18,45,"Fountain County, Indiana",16715
+"9847","IN",18,47,"Franklin County, Indiana",22854
+"9848","IN",18,49,"Fulton County, Indiana",20298
+"9849","IN",18,51,"Gibson County, Indiana",33115
+"9850","IN",18,53,"Grant County, Indiana",67943
+"9851","IN",18,55,"Greene County, Indiana",32532
+"9852","IN",18,57,"Hamilton County, Indiana",295067
+"9853","IN",18,59,"Hancock County, Indiana",70706
+"9854","IN",18,61,"Harrison County, Indiana",39023
+"9855","IN",18,63,"Hendricks County, Indiana",150597
+"9856","IN",18,65,"Henry County, Indiana",45929
+"9857","IN",18,67,"Howard County, Indiana",81829
+"9858","IN",18,69,"Huntington County, Indiana",36376
+"9859","IN",18,71,"Jackson County, Indiana",42839
+"9860","IN",18,73,"Jasper County, Indiana",33101
+"9861","IN",18,75,"Jay County, Indiana",21039
+"9862","IN",18,77,"Jefferson County, Indiana",31004
+"9863","IN",18,79,"Jennings County, Indiana",27859
+"9864","IN",18,81,"Johnson County, Indiana",143494
+"9865","IN",18,83,"Knox County, Indiana",37249
+"9866","IN",18,85,"Kosciusko County, Indiana",77233
+"9867","IN",18,87,"LaGrange County, Indiana",37916
+"9868","IN",18,89,"Lake County, Indiana",488067
+"9869","IN",18,91,"LaPorte County, Indiana",102412
+"9870","IN",18,93,"Lawrence County, Indiana",45141
+"9871","IN",18,95,"Madison County, Indiana",125139
+"9872","IN",18,97,"Marion County, Indiana",916471
+"9873","IN",18,99,"Marshall County, Indiana",46483
+"9874","IN",18,101,"Martin County, Indiana",10169
+"9875","IN",18,103,"Miami County, Indiana",34162
+"9876","IN",18,105,"Monroe County, Indiana",141477
+"9877","IN",18,107,"Montgomery County, Indiana",37643
+"9878","IN",18,109,"Morgan County, Indiana",68670
+"9879","IN",18,111,"Newton County, Indiana",13854
+"9880","IN",18,113,"Noble County, Indiana",46727
+"9881","IN",18,115,"Ohio County, Indiana",5981
+"9882","IN",18,117,"Orange County, Indiana",19472
+"9883","IN",18,119,"Owen County, Indiana",21033
+"9884","IN",18,121,"Parke County, Indiana",15579
+"9885","IN",18,123,"Perry County, Indiana",17667
+"9886","IN",18,125,"Pike County, Indiana",12463
+"9887","IN",18,127,"Porter County, Indiana",165194
+"9888","IN",18,129,"Posey County, Indiana",25316
+"9889","IN",18,131,"Pulaski County, Indiana",12881
+"9890","IN",18,133,"Putnam County, Indiana",34374
+"9891","IN",18,135,"Randolph County, Indiana",25238
+"9892","IN",18,137,"Ripley County, Indiana",28150
+"9893","IN",18,139,"Rush County, Indiana",16804
+"9894","IN",18,141,"St. Joseph County, Indiana",264729
+"9895","IN",18,143,"Scott County, Indiana",23435
+"9896","IN",18,145,"Shelby County, Indiana",43728
+"9897","IN",18,147,"Spencer County, Indiana",20638
+"9898","IN",18,149,"Starke County, Indiana",23112
+"9899","IN",18,151,"Steuben County, Indiana",33987
+"9900","IN",18,153,"Sullivan County, Indiana",18933
+"9901","IN",18,155,"Switzerland County, Indiana",10388
+"9902","IN",18,157,"Tippecanoe County, Indiana",179254
+"9903","IN",18,159,"Tipton County, Indiana",15387
+"9904","IN",18,161,"Union County, Indiana",7237
+"9905","IN",18,163,"Vanderburgh County, Indiana",178797
+"9906","IN",18,165,"Vermillion County, Indiana",15649
+"9907","IN",18,167,"Vigo County, Indiana",103989
+"9908","IN",18,169,"Wabash County, Indiana",31394
+"9909","IN",18,171,"Warren County, Indiana",8275
+"9910","IN",18,173,"Warrick County, Indiana",60254
+"9911","IN",18,175,"Washington County, Indiana",27652
+"9912","IN",18,177,"Wayne County, Indiana",66730
+"9913","IN",18,179,"Wells County, Indiana",27231
+"9914","IN",18,181,"White County, Indiana",24139
+"9915","IN",18,183,"Whitley County, Indiana",32949
+"10655","KS",20,1,"Allen County, Kansas",12876
+"10656","KS",20,3,"Anderson County, Kansas",7794
+"10657","KS",20,5,"Atchison County, Kansas",16457
+"10658","KS",20,7,"Barber County, Kansas",4729
+"10659","KS",20,9,"Barton County, Kansas",26988
+"10660","KS",20,11,"Bourbon County, Kansas",14539
+"10661","KS",20,13,"Brown County, Kansas",9809
+"10662","KS",20,15,"Butler County, Kansas",64091
+"10663","KS",20,17,"Chase County, Kansas",2602
+"10664","KS",20,19,"Chautauqua County, Kansas",3443
+"10665","KS",20,21,"Cherokee County, Kansas",20731
+"10666","KS",20,23,"Cheyenne County, Kansas",2641
+"10667","KS",20,25,"Clark County, Kansas",2085
+"10668","KS",20,27,"Clay County, Kansas",8122
+"10669","KS",20,29,"Cloud County, Kansas",9114
+"10670","KS",20,31,"Coffey County, Kansas",8346
+"10671","KS",20,33,"Comanche County, Kansas",1936
+"10672","KS",20,35,"Cowley County, Kansas",34869
+"10673","KS",20,37,"Crawford County, Kansas",38676
+"10674","KS",20,39,"Decatur County, Kansas",2819
+"10675","KS",20,41,"Dickinson County, Kansas",19032
+"10676","KS",20,43,"Doniphan County, Kansas",7746
+"10677","KS",20,45,"Douglas County, Kansas",114257
+"10678","KS",20,47,"Edwards County, Kansas",2896
+"10679","KS",20,49,"Elk County, Kansas",2635
+"10680","KS",20,51,"Ellis County, Kansas",28717
+"10681","KS",20,53,"Ellsworth County, Kansas",5399
+"10682","KS",20,55,"Finney County, Kansas",36889
+"10683","KS",20,57,"Ford County, Kansas",34244
+"10684","KS",20,59,"Franklin County, Kansas",25591
+"10685","KS",20,61,"Geary County, Kansas",31646
+"10686","KS",20,63,"Gove County, Kansas",2681
+"10687","KS",20,65,"Graham County, Kansas",2565
+"10688","KS",20,67,"Grant County, Kansas",7737
+"10689","KS",20,69,"Gray County, Kansas",5979
+"10690","KS",20,71,"Greeley County, Kansas",1196
+"10691","KS",20,73,"Greenwood County, Kansas",6303
+"10692","KS",20,75,"Hamilton County, Kansas",2586
+"10693","KS",20,77,"Harper County, Kansas",5703
+"10694","KS",20,79,"Harvey County, Kansas",34201
+"10695","KS",20,81,"Haskell County, Kansas",4077
+"10696","KS",20,83,"Hodgeman County, Kansas",1904
+"10697","KS",20,85,"Jackson County, Kansas",13272
+"10698","KS",20,87,"Jefferson County, Kansas",18641
+"10699","KS",20,89,"Jewell County, Kansas",3011
+"10700","KS",20,91,"Johnson County, Kansas",562538
+"10701","KS",20,93,"Kearny County, Kansas",3876
+"10702","KS",20,95,"Kingman County, Kansas",7639
+"10703","KS",20,97,"Kiowa County, Kansas",2467
+"10704","KS",20,99,"Labette County, Kansas",20741
+"10705","KS",20,101,"Lane County, Kansas",1665
+"10706","KS",20,103,"Leavenworth County, Kansas",71129
+"10707","KS",20,105,"Lincoln County, Kansas",3088
+"10708","KS",20,107,"Linn County, Kansas",9458
+"10709","KS",20,109,"Logan County, Kansas",2753
+"10710","KS",20,111,"Lyon County, Kansas",33049
+"10711","KS",20,113,"McPherson County, Kansas",28617
+"10712","KS",20,115,"Marion County, Kansas",11948
+"10713","KS",20,117,"Marshall County, Kansas",9818
+"10714","KS",20,119,"Meade County, Kansas",4256
+"10715","KS",20,121,"Miami County, Kansas",32096
+"10716","KS",20,123,"Mitchell County, Kansas",6143
+"10717","KS",20,125,"Montgomery County, Kansas",33643
+"10718","KS",20,127,"Morris County, Kansas",5669
+"10719","KS",20,129,"Morton County, Kansas",3014
+"10720","KS",20,131,"Nemaha County, Kansas",9890
+"10721","KS",20,133,"Neosho County, Kansas",16195
+"10722","KS",20,135,"Ness County, Kansas",3020
+"10723","KS",20,137,"Norton County, Kansas",4754
+"10724","KS",20,139,"Osage County, Kansas",15874
+"10725","KS",20,141,"Osborne County, Kansas",3677
+"10726","KS",20,143,"Ottawa County, Kansas",5953
+"10727","KS",20,145,"Pawnee County, Kansas",5900
+"10728","KS",20,147,"Phillips County, Kansas",5383
+"10729","KS",20,149,"Pottawatomie County, Kansas",22150
+"10730","KS",20,151,"Pratt County, Kansas",9532
+"10731","KS",20,153,"Rawlins County, Kansas",2504
+"10732","KS",20,155,"Reno County, Kansas",61564
+"10733","KS",20,157,"Republic County, Kansas",4708
+"10734","KS",20,159,"Rice County, Kansas",9816
+"10735","KS",20,161,"Riley County, Kansas",68323
+"10736","KS",20,163,"Rooks County, Kansas",5029
+"10737","KS",20,165,"Rush County, Kansas",3118
+"10738","KS",20,167,"Russell County, Kansas",6864
+"10739","KS",20,169,"Saline County, Kansas",54933
+"10740","KS",20,171,"Scott County, Kansas",4847
+"10741","KS",20,173,"Sedgwick County, Kansas",500080
+"10742","KS",20,175,"Seward County, Kansas",23066
+"10743","KS",20,177,"Shawnee County, Kansas",175531
+"10744","KS",20,179,"Sheridan County, Kansas",2502
+"10745","KS",20,181,"Sherman County, Kansas",6000
+"10746","KS",20,183,"Smith County, Kansas",3682
+"10747","KS",20,185,"Stafford County, Kansas",4212
+"10748","KS",20,187,"Stanton County, Kansas",2113
+"10749","KS",20,189,"Stevens County, Kansas",5698
+"10750","KS",20,191,"Sumner County, Kansas",23155
+"10751","KS",20,193,"Thomas County, Kansas",7809
+"10752","KS",20,195,"Trego County, Kansas",2878
+"10753","KS",20,197,"Wabaunsee County, Kansas",6894
+"10754","KS",20,199,"Wallace County, Kansas",1577
+"10755","KS",20,201,"Washington County, Kansas",5553
+"10756","KS",20,203,"Wichita County, Kansas",2180
+"10757","KS",20,205,"Wilson County, Kansas",8935
+"10758","KS",20,207,"Woodson County, Kansas",3187
+"10759","KS",20,209,"Wyandotte County, Kansas",159604
+"11469","KY",21,1,"Adair County, Kentucky",18551
+"11470","KY",21,3,"Allen County, Kentucky",20168
+"11471","KY",21,5,"Anderson County, Kentucky",21651
+"11472","KY",21,7,"Ballard County, Kentucky",8126
+"11473","KY",21,9,"Barren County, Kentucky",42176
+"11474","KY",21,11,"Bath County, Kentucky",11882
+"11475","KY",21,13,"Bell County, Kentucky",27140
+"11476","KY",21,15,"Boone County, Kentucky",123734
+"11477","KY",21,17,"Bourbon County, Kentucky",19772
+"11478","KY",21,19,"Boyd County, Kentucky",46805
+"11479","KY",21,21,"Boyle County, Kentucky",28097
+"11480","KY",21,23,"Bracken County, Kentucky",8381
+"11481","KY",21,25,"Breathitt County, Kentucky",13444
+"11482","KY",21,27,"Breckinridge County, Kentucky",19782
+"11483","KY",21,29,"Bullitt County, Kentucky",76607
+"11484","KY",21,31,"Butler County, Kentucky",12620
+"11485","KY",21,33,"Caldwell County, Kentucky",12700
+"11486","KY",21,35,"Calloway County, Kentucky",37664
+"11487","KY",21,37,"Campbell County, Kentucky",90011
+"11488","KY",21,39,"Carlisle County, Kentucky",4914
+"11489","KY",21,41,"Carroll County, Kentucky",10593
+"11490","KY",21,43,"Carter County, Kentucky",27012
+"11491","KY",21,45,"Casey County, Kentucky",15623
+"11492","KY",21,47,"Christian County, Kentucky",65166
+"11493","KY",21,49,"Clark County, Kentucky",35232
+"11494","KY",21,51,"Clay County, Kentucky",19644
+"11495","KY",21,53,"Clinton County, Kentucky",10036
+"11496","KY",21,55,"Crittenden County, Kentucky",9028
+"11497","KY",21,57,"Cumberland County, Kentucky",6719
+"11498","KY",21,59,"Daviess County, Kentucky",96432
+"11499","KY",21,61,"Edmonson County, Kentucky",12008
+"11500","KY",21,63,"Elliott County, Kentucky",6703
+"11501","KY",21,65,"Estill County, Kentucky",14350
+"11502","KY",21,67,"Fayette County, Kentucky",303006
+"11503","KY",21,69,"Fleming County, Kentucky",14544
+"11504","KY",21,71,"Floyd County, Kentucky",38090
+"11505","KY",21,73,"Franklin County, Kentucky",48821
+"11506","KY",21,75,"Fulton County, Kentucky",5992
+"11507","KY",21,77,"Gallatin County, Kentucky",8457
+"11508","KY",21,79,"Garrard County, Kentucky",16873
+"11509","KY",21,81,"Grant County, Kentucky",24244
+"11510","KY",21,83,"Graves County, Kentucky",37071
+"11511","KY",21,85,"Grayson County, Kentucky",25601
+"11512","KY",21,87,"Green County, Kentucky",11035
+"11513","KY",21,89,"Greenup County, Kentucky",36053
+"11514","KY",21,91,"Hancock County, Kentucky",8614
+"11515","KY",21,93,"Hardin County, Kentucky",101722
+"11516","KY",21,95,"Harlan County, Kentucky",27920
+"11517","KY",21,97,"Harrison County, Kentucky",18444
+"11518","KY",21,99,"Hart County, Kentucky",18187
+"11519","KY",21,101,"Henderson County, Kentucky",45428
+"11520","KY",21,103,"Henry County, Kentucky",15377
+"11521","KY",21,105,"Hickman County, Kentucky",4520
+"11522","KY",21,107,"Hopkins County, Kentucky",45509
+"11523","KY",21,109,"Jackson County, Kentucky",13205
+"11524","KY",21,111,"Jefferson County, Kentucky",747569
+"11525","KY",21,113,"Jessamine County, Kentucky",49750
+"11526","KY",21,115,"Johnson County, Kentucky",22907
+"11527","KY",21,117,"Kenton County, Kentucky",161457
+"11528","KY",21,119,"Knott County, Kentucky",15818
+"11529","KY",21,121,"Knox County, Kentucky",31463
+"11530","KY",21,123,"Larue County, Kentucky",13867
+"11531","KY",21,125,"Laurel County, Kentucky",59011
+"11532","KY",21,127,"Lawrence County, Kentucky",15709
+"11533","KY",21,129,"Lee County, Kentucky",6294
+"11534","KY",21,131,"Leslie County, Kentucky",10749
+"11535","KY",21,133,"Letcher County, Kentucky",23480
+"11536","KY",21,135,"Lewis County, Kentucky",13642
+"11537","KY",21,137,"Lincoln County, Kentucky",24287
+"11538","KY",21,139,"Livingston County, Kentucky",9332
+"11539","KY",21,141,"Logan County, Kentucky",26580
+"11540","KY",21,143,"Lyon County, Kentucky",7061
+"11541","KY",21,145,"McCracken County, Kentucky",64261
+"11542","KY",21,147,"McCreary County, Kentucky",16422
+"11543","KY",21,149,"McLean County, Kentucky",9416
+"11544","KY",21,151,"Madison County, Kentucky",85027
+"11545","KY",21,153,"Magoffin County, Kentucky",12878
+"11546","KY",21,155,"Marion County, Kentucky",18674
+"11547","KY",21,157,"Marshall County, Kentucky",30661
+"11548","KY",21,159,"Martin County, Kentucky",11131
+"11549","KY",21,161,"Mason County, Kentucky",16989
+"11550","KY",21,163,"Meade County, Kentucky",28217
+"11551","KY",21,165,"Menifee County, Kentucky",6266
+"11552","KY",21,167,"Mercer County, Kentucky",21181
+"11553","KY",21,169,"Metcalfe County, Kentucky",9891
+"11554","KY",21,171,"Monroe County, Kentucky",10595
+"11555","KY",21,173,"Montgomery County, Kentucky",26808
+"11556","KY",21,175,"Morgan County, Kentucky",11772
+"11557","KY",21,177,"Muhlenberg County, Kentucky",30283
+"11558","KY",21,179,"Nelson County, Kentucky",44270
+"11559","KY",21,181,"Nicholas County, Kentucky",6969
+"11560","KY",21,183,"Ohio County, Kentucky",23752
+"11561","KY",21,185,"Oldham County, Kentucky",58819
+"11562","KY",21,187,"Owen County, Kentucky",10692
+"11563","KY",21,189,"Owsley County, Kentucky",4534
+"11564","KY",21,191,"Pendleton County, Kentucky",14418
+"11565","KY",21,193,"Perry County, Kentucky",27391
+"11566","KY",21,195,"Pike County, Kentucky",62696
+"11567","KY",21,197,"Powell County, Kentucky",12225
+"11568","KY",21,199,"Pulaski County, Kentucky",62837
+"11569","KY",21,201,"Robertson County, Kentucky",2147
+"11570","KY",21,203,"Rockcastle County, Kentucky",16644
+"11571","KY",21,205,"Rowan County, Kentucky",23387
+"11572","KY",21,207,"Russell County, Kentucky",17525
+"11573","KY",21,209,"Scott County, Kentucky",49941
+"11574","KY",21,211,"Shelby County, Kentucky",42975
+"11575","KY",21,213,"Simpson County, Kentucky",17386
+"11576","KY",21,215,"Spencer County, Kentucky",17454
+"11577","KY",21,217,"Taylor County, Kentucky",24638
+"11578","KY",21,219,"Todd County, Kentucky",12292
+"11579","KY",21,221,"Trigg County, Kentucky",14166
+"11580","KY",21,223,"Trimble County, Kentucky",8783
+"11581","KY",21,225,"Union County, Kentucky",14983
+"11582","KY",21,227,"Warren County, Kentucky",117678
+"11583","KY",21,229,"Washington County, Kentucky",11785
+"11584","KY",21,231,"Wayne County, Kentucky",20347
+"11585","KY",21,233,"Webster County, Kentucky",13064
+"11586","KY",21,235,"Whitley County, Kentucky",35173
+"11587","KY",21,237,"Wolfe County, Kentucky",7136
+"11588","KY",21,239,"Woodford County, Kentucky",25199
+"12171","LA",22,1,"Acadia Parish, Louisiana",61254
+"12172","LA",22,3,"Allen Parish, Louisiana",21329
+"12173","LA",22,5,"Ascension Parish, Louisiana",113905
+"12174","LA",22,7,"Assumption Parish, Louisiana",22862
+"12175","LA",22,9,"Avoyelles Parish, Louisiana",37787
+"12176","LA",22,11,"Beauregard Parish, Louisiana",35169
+"12177","LA",22,13,"Bienville Parish, Louisiana",13653
+"12178","LA",22,15,"Bossier Parish, Louisiana",118561
+"12179","LA",22,17,"Caddo Parish, Louisiana",249783
+"12180","LA",22,19,"Calcasieu Parish, Louisiana",193522
+"12181","LA",22,21,"Caldwell Parish, Louisiana",9512
+"12182","LA",22,23,"Cameron Parish, Louisiana",6694
+"12183","LA",22,25,"Catahoula Parish, Louisiana",9284
+"12184","LA",22,27,"Claiborne Parish, Louisiana",14706
+"12185","LA",22,29,"Concordia Parish, Louisiana",18419
+"12186","LA",22,31,"De Soto Parish, Louisiana",26808
+"12187","LA",22,33,"East Baton Rouge Parish, Louisiana",441718
+"12188","LA",22,35,"East Carroll Parish, Louisiana",6064
+"12189","LA",22,37,"East Feliciana Parish, Louisiana",17168
+"12190","LA",22,39,"Evangeline Parish, Louisiana",31605
+"12191","LA",22,41,"Franklin Parish, Louisiana",19107
+"12192","LA",22,43,"Grant Parish, Louisiana",18937
+"12193","LA",22,45,"Iberia Parish, Louisiana",73113
+"12194","LA",22,47,"Iberville Parish, Louisiana",29426
+"12195","LA",22,49,"Jackson Parish, Louisiana",15033
+"12196","LA",22,51,"Jefferson Parish, Louisiana",431764
+"12197","LA",22,53,"Jefferson Davis Parish, Louisiana",30863
+"12198","LA",22,55,"Lafayette Parish, Louisiana",229517
+"12199","LA",22,57,"Lafourche Parish, Louisiana",96636
+"12200","LA",22,59,"LaSalle Parish, Louisiana",13656
+"12201","LA",22,61,"Lincoln Parish, Louisiana",46735
+"12202","LA",22,63,"Livingston Parish, Louisiana",132996
+"12203","LA",22,65,"Madison Parish, Louisiana",10406
+"12204","LA",22,67,"Morehouse Parish, Louisiana",26211
+"12205","LA",22,69,"Natchitoches Parish, Louisiana",38611
+"12206","LA",22,71,"Orleans Parish, Louisiana",371599
+"12207","LA",22,73,"Ouachita Parish, Louisiana",149358
+"12208","LA",22,75,"Plaquemines Parish, Louisiana",22784
+"12209","LA",22,77,"Pointe Coupee Parish, Louisiana",22371
+"12210","LA",22,79,"Rapides Parish, Louisiana",129468
+"12211","LA",22,81,"Red River Parish, Louisiana",8726
+"12212","LA",22,83,"Richland Parish, Louisiana",19926
+"12213","LA",22,85,"Sabine Parish, Louisiana",23831
+"12214","LA",22,87,"St. Bernard Parish, Louisiana",42512
+"12215","LA",22,89,"St. Charles Parish, Louisiana",51981
+"12216","LA",22,91,"St. Helena Parish, Louisiana",10694
+"12217","LA",22,93,"St. James Parish, Louisiana",21427
+"12218","LA",22,95,"St. John the Baptist Parish, Louisiana",43461
+"12219","LA",22,97,"St. Landry Parish, Louisiana",82541
+"12220","LA",22,99,"St. Martin Parish, Louisiana",52860
+"12221","LA",22,101,"St. Mary Parish, Louisiana",52557
+"12222","LA",22,103,"St. Tammany Parish, Louisiana",240416
+"12223","LA",22,105,"Tangipahoa Parish, Louisiana",124745
+"12224","LA",22,107,"Tensas Parish, Louisiana",4757
+"12225","LA",22,109,"Terrebonne Parish, Louisiana",111508
+"12226","LA",22,111,"Union Parish, Louisiana",22111
+"12227","LA",22,113,"Vermilion Parish, Louisiana",58654
+"12228","LA",22,115,"Vernon Parish, Louisiana",46789
+"12229","LA",22,117,"Washington Parish, Louisiana",44770
+"12230","LA",22,119,"Webster Parish, Louisiana",39693
+"12231","LA",22,121,"West Baton Rouge Parish, Louisiana",23987
+"12232","LA",22,123,"West Carroll Parish, Louisiana",10682
+"12233","LA",22,125,"West Feliciana Parish, Louisiana",11992
+"12234","LA",22,127,"Winn Parish, Louisiana",13108
+"12745","MA",25,1,"Barnstable County, Massachusetts",212288
+"12746","MA",25,3,"Berkshire County, Massachusetts",127024
+"12747","MA",25,5,"Bristol County, Massachusetts",545791
+"12748","MA",25,7,"Dukes County, Massachusetts",16937
+"12749","MA",25,9,"Essex County, Massachusetts",756354
+"12750","MA",25,11,"Franklin County, Massachusetts",70394
+"12751","MA",25,13,"Hampden County, Massachusetts",462556
+"12752","MA",25,15,"Hampshire County, Massachusetts",159407
+"12753","MA",25,17,"Middlesex County, Massachusetts",1540469
+"12754","MA",25,19,"Nantucket County, Massachusetts",10504
+"12755","MA",25,21,"Norfolk County, Massachusetts",679055
+"12756","MA",25,23,"Plymouth County, Massachusetts",496174
+"12757","MA",25,25,"Suffolk County, Massachusetts",751838
+"12758","MA",25,27,"Worcester County, Massachusetts",798977
+"13034","MD",24,1,"Allegany County, Maryland",68163
+"13035","MD",24,3,"Anne Arundel County, Maryland",535171
+"13036","MD",24,5,"Baltimore County, Maryland",814797
+"13037","MD",24,9,"Calvert County, Maryland",88786
+"13038","MD",24,11,"Caroline County, Maryland",32269
+"13039","MD",24,13,"Carroll County, Maryland",165430
+"13040","MD",24,15,"Cecil County, Maryland",100822
+"13041","MD",24,17,"Charles County, Maryland",150136
+"13042","MD",24,19,"Dorchester County, Maryland",32095
+"13043","MD",24,21,"Frederick County, Maryland",239107
+"13044","MD",24,23,"Garrett County, Maryland",29331
+"13045","MD",24,25,"Harford County, Maryland",246279
+"13046","MD",24,27,"Howard County, Maryland",301598
+"13047","MD",24,29,"Kent County, Maryland",19572
+"13048","MD",24,31,"Montgomery County, Maryland",1009178
+"13049","MD",24,33,"Prince George's County, Maryland",886093
+"13050","MD",24,35,"Queen Anne's County, Maryland",48015
+"13051","MD",24,37,"St. Mary's County, Maryland",106903
+"13052","MD",24,39,"Somerset County, Maryland",21233
+"13053","MD",24,41,"Talbot County, Maryland",37409
+"13054","MD",24,43,"Washington County, Maryland",140964
+"13055","MD",24,45,"Wicomico County, Maryland",99857
+"13056","MD",24,47,"Worcester County, Maryland",50907
+"13057","MD",24,510,"Baltimore city, Maryland",612619
+"13605","ME",23,1,"Androscoggin County, Maine",106389
+"13606","ME",23,3,"Aroostook County, Maine",68954
+"13607","ME",23,5,"Cumberland County, Maine",282880
+"13608","ME",23,7,"Franklin County, Maine",30252
+"13609","ME",23,9,"Hancock County, Maine",54232
+"13610","ME",23,11,"Kennebec County, Maine",119741
+"13611","ME",23,13,"Knox County, Maine",38657
+"13612","ME",23,15,"Lincoln County, Maine",33649
+"13613","ME",23,17,"Oxford County, Maine",57044
+"13614","ME",23,19,"Penobscot County, Maine",151662
+"13615","ME",23,21,"Piscataquis County, Maine",17021
+"13616","ME",23,23,"Sagadahoc County, Maine",34889
+"13617","ME",23,25,"Somerset County, Maine",51065
+"13618","ME",23,27,"Waldo County, Maine",38747
+"13619","ME",23,29,"Washington County, Maine",31633
+"13620","ME",23,31,"York County, Maine",198009
+"13769","MI",26,1,"Alcona County, Michigan",10454
+"13770","MI",26,3,"Alger County, Michigan",8499
+"13771","MI",26,5,"Allegan County, Michigan",112118
+"13772","MI",26,7,"Alpena County, Michigan",28703
+"13773","MI",26,9,"Antrim County, Michigan",23101
+"13774","MI",26,11,"Arenac County, Michigan",15255
+"13775","MI",26,13,"Baraga County, Michigan",6387
+"13776","MI",26,15,"Barry County, Michigan",58660
+"13777","MI",26,17,"Bay County, Michigan",105742
+"13778","MI",26,19,"Benzie County, Michigan",17249
+"13779","MI",26,21,"Berrien County, Michigan",154339
+"13780","MI",26,23,"Branch County, Michigan",41575
+"13781","MI",26,25,"Calhoun County, Michigan",133138
+"13782","MI",26,27,"Cass County, Michigan",51817
+"13783","MI",26,29,"Charlevoix County, Michigan",25866
+"13784","MI",26,31,"Cheboygan County, Michigan",25387
+"13785","MI",26,33,"Chippewa County, Michigan",34898
+"13786","MI",26,35,"Clare County, Michigan",30387
+"13787","MI",26,37,"Clinton County, Michigan",76277
+"13788","MI",26,39,"Crawford County, Michigan",13713
+"13789","MI",26,41,"Delta County, Michigan",36302
+"13790","MI",26,43,"Dickinson County, Michigan",25640
+"13791","MI",26,45,"Eaton County, Michigan",107663
+"13792","MI",26,47,"Emmet County, Michigan",32678
+"13793","MI",26,49,"Genesee County, Michigan",413289
+"13794","MI",26,51,"Gladwin County, Michigan",25275
+"13795","MI",26,53,"Gogebic County, Michigan",14292
+"13796","MI",26,55,"Grand Traverse County, Michigan",87764
+"13797","MI",26,57,"Gratiot County, Michigan",37518
+"13798","MI",26,59,"Hillsdale County, Michigan",45781
+"13799","MI",26,61,"Houghton County, Michigan",36232
+"13800","MI",26,63,"Huron County, Michigan",31921
+"13801","MI",26,65,"Ingham County, Michigan",281784
+"13802","MI",26,67,"Ionia County, Michigan",60309
+"13803","MI",26,69,"Iosco County, Michigan",25079
+"13804","MI",26,71,"Iron County, Michigan",11225
+"13805","MI",26,73,"Isabella County, Michigan",70081
+"13806","MI",26,75,"Jackson County, Michigan",151972
+"13807","MI",26,77,"Kalamazoo County, Michigan",254844
+"13808","MI",26,79,"Kalkaska County, Michigan",17168
+"13809","MI",26,81,"Kent County, Michigan",618639
+"13810","MI",26,83,"Keweenaw County, Michigan",2190
+"13811","MI",26,85,"Lake County, Michigan",11059
+"13812","MI",26,87,"Lapeer County, Michigan",86725
+"13813","MI",26,89,"Leelanau County, Michigan",21631
+"13814","MI",26,91,"Lenawee County, Michigan",95725
+"13815","MI",26,93,"Livingston County, Michigan",183760
+"13816","MI",26,95,"Luce County, Michigan",5434
+"13817","MI",26,97,"Mackinac County, Michigan",10902
+"13818","MI",26,99,"Macomb County, Michigan",848168
+"13819","MI",26,101,"Manistee County, Michigan",23296
+"13820","MI",26,103,"Marquette County, Michigan",65440
+"13821","MI",26,105,"Mason County, Michigan",28407
+"13822","MI",26,107,"Mecosta County, Michigan",43073
+"13823","MI",26,109,"Menominee County, Michigan",23417
+"13824","MI",26,111,"Midland County, Michigan",83011
+"13825","MI",26,113,"Missaukee County, Michigan",14871
+"13826","MI",26,115,"Monroe County, Michigan",149557
+"13827","MI",26,117,"Montcalm County, Michigan",60537
+"13828","MI",26,119,"Montmorency County, Michigan",9289
+"13829","MI",26,121,"Muskegon County, Michigan",166589
+"13830","MI",26,123,"Newaygo County, Michigan",47509
+"13831","MI",26,125,"Oakland County, Michigan",1223588
+"13832","MI",26,127,"Oceana County, Michigan",26056
+"13833","MI",26,129,"Ogemaw County, Michigan",20952
+"13834","MI",26,131,"Ontonagon County, Michigan",6234
+"13835","MI",26,133,"Osceola County, Michigan",22972
+"13836","MI",26,135,"Oscoda County, Michigan",8401
+"13837","MI",26,137,"Otsego County, Michigan",23956
+"13838","MI",26,139,"Ottawa County, Michigan",271817
+"13839","MI",26,141,"Presque Isle County, Michigan",12877
+"13840","MI",26,143,"Roscommon County, Michigan",23841
+"13841","MI",26,145,"Saginaw County, Michigan",193164
+"13842","MI",26,147,"St. Clair County, Michigan",159239
+"13843","MI",26,149,"St. Joseph County, Michigan",60467
+"13844","MI",26,151,"Sanilac County, Michigan",41718
+"13845","MI",26,153,"Schoolcraft County, Michigan",8179
+"13846","MI",26,155,"Shiawassee County, Michigan",68665
+"13847","MI",26,157,"Tuscola County, Michigan",53502
+"13848","MI",26,159,"Van Buren County, Michigan",74891
+"13849","MI",26,161,"Washtenaw County, Michigan",349733
+"13850","MI",26,163,"Wayne County, Michigan",1766776
+"13851","MI",26,165,"Wexford County, Michigan",32506
+"14605","MN",27,1,"Aitkin County, Minnesota",15646
+"14606","MN",27,3,"Anoka County, Minnesota",336408
+"14607","MN",27,5,"Becker County, Minnesota",32743
+"14608","MN",27,7,"Beltrami County, Minnesota",44927
+"14609","MN",27,9,"Benton County, Minnesota",38711
+"14610","MN",27,11,"Big Stone County, Minnesota",5005
+"14611","MN",27,13,"Blue Earth County, Minnesota",64589
+"14612","MN",27,15,"Brown County, Minnesota",25049
+"14613","MN",27,17,"Carlton County, Minnesota",34565
+"14614","MN",27,19,"Carver County, Minnesota",95456
+"14615","MN",27,21,"Cass County, Minnesota",28299
+"14616","MN",27,23,"Chippewa County, Minnesota",11960
+"14617","MN",27,25,"Chisago County, Minnesota",52484
+"14618","MN",27,27,"Clay County, Minnesota",60385
+"14619","MN",27,29,"Clearwater County, Minnesota",8655
+"14620","MN",27,31,"Cook County, Minnesota",5150
+"14621","MN",27,33,"Cottonwood County, Minnesota",11436
+"14622","MN",27,35,"Crow Wing County, Minnesota",62344
+"14623","MN",27,37,"Dakota County, Minnesota",406645
+"14624","MN",27,39,"Dodge County, Minnesota",20144
+"14625","MN",27,41,"Douglas County, Minnesota",36230
+"14626","MN",27,43,"Faribault County, Minnesota",13919
+"14627","MN",27,45,"Fillmore County, Minnesota",20514
+"14628","MN",27,47,"Freeborn County, Minnesota",30425
+"14629","MN",27,49,"Goodhue County, Minnesota",45582
+"14630","MN",27,51,"Grant County, Minnesota",5901
+"14631","MN",27,53,"Hennepin County, Minnesota",1188371
+"14632","MN",27,55,"Houston County, Minnesota",18596
+"14633","MN",27,57,"Hubbard County, Minnesota",20483
+"14634","MN",27,59,"Isanti County, Minnesota",37978
+"14635","MN",27,61,"Itasca County, Minnesota",44584
+"14636","MN",27,63,"Jackson County, Minnesota",10090
+"14637","MN",27,65,"Kanabec County, Minnesota",15872
+"14638","MN",27,67,"Kandiyohi County, Minnesota",41832
+"14639","MN",27,69,"Kittson County, Minnesota",4359
+"14640","MN",27,71,"Koochiching County, Minnesota",12893
+"14641","MN",27,73,"Lac qui Parle County, Minnesota",6898
+"14642","MN",27,75,"Lake County, Minnesota",10581
+"14643","MN",27,77,"Lake of the Woods County, Minnesota",3895
+"14644","MN",27,79,"Le Sueur County, Minnesota",27530
+"14645","MN",27,81,"Lincoln County, Minnesota",5643
+"14646","MN",27,83,"Lyon County, Minnesota",25400
+"14647","MN",27,85,"McLeod County, Minnesota",35730
+"14648","MN",27,87,"Mahnomen County, Minnesota",5458
+"14649","MN",27,89,"Marshall County, Minnesota",9385
+"14650","MN",27,91,"Martin County, Minnesota",20122
+"14651","MN",27,93,"Meeker County, Minnesota",22831
+"14652","MN",27,95,"Mille Lacs County, Minnesota",25351
+"14653","MN",27,97,"Morrison County, Minnesota",32631
+"14654","MN",27,99,"Mower County, Minnesota",38848
+"14655","MN",27,101,"Murray County, Minnesota",8416
+"14656","MN",27,103,"Nicollet County, Minnesota",32906
+"14657","MN",27,105,"Nobles County, Minnesota",21399
+"14658","MN",27,107,"Norman County, Minnesota",6566
+"14659","MN",27,109,"Olmsted County, Minnesota",146740
+"14660","MN",27,111,"Otter Tail County, Minnesota",56796
+"14661","MN",27,113,"Pennington County, Minnesota",13907
+"14662","MN",27,115,"Pine County, Minnesota",27607
+"14663","MN",27,117,"Pipestone County, Minnesota",9192
+"14664","MN",27,119,"Polk County, Minnesota",30982
+"14665","MN",27,121,"Pope County, Minnesota",10772
+"14666","MN",27,123,"Ramsey County, Minnesota",523192
+"14667","MN",27,125,"Red Lake County, Minnesota",4038
+"14668","MN",27,127,"Redwood County, Minnesota",15453
+"14669","MN",27,129,"Renville County, Minnesota",14880
+"14670","MN",27,131,"Rice County, Minnesota",62009
+"14671","MN",27,133,"Rock County, Minnesota",9342
+"14672","MN",27,135,"Roseau County, Minnesota",15423
+"14673","MN",27,137,"St. Louis County, Minnesota",197164
+"14674","MN",27,139,"Scott County, Minnesota",135943
+"14675","MN",27,141,"Sherburne County, Minnesota",88511
+"14676","MN",27,143,"Sibley County, Minnesota",14892
+"14677","MN",27,145,"Stearns County, Minnesota",151431
+"14678","MN",27,147,"Steele County, Minnesota",36136
+"14679","MN",27,149,"Stevens County, Minnesota",9686
+"14680","MN",27,151,"Swift County, Minnesota",9388
+"14681","MN",27,153,"Todd County, Minnesota",24285
+"14682","MN",27,155,"Traverse County, Minnesota",3341
+"14683","MN",27,157,"Wabasha County, Minnesota",21194
+"14684","MN",27,159,"Wadena County, Minnesota",13467
+"14685","MN",27,161,"Waseca County, Minnesota",17928
+"14686","MN",27,163,"Washington County, Minnesota",243512
+"14687","MN",27,165,"Watonwan County, Minnesota",10919
+"14688","MN",27,167,"Wilkin County, Minnesota",6374
+"14689","MN",27,169,"Winona County, Minnesota",50728
+"14690","MN",27,171,"Wright County, Minnesota",127899
+"14691","MN",27,173,"Yellow Medicine County, Minnesota",9910
+"15639","MO",29,1,"Adair County, Missouri",25247
+"15640","MO",29,3,"Andrew County, Missouri",17114
+"15641","MO",29,5,"Atchison County, Missouri",5341
+"15642","MO",29,7,"Audrain County, Missouri",24108
+"15643","MO",29,9,"Barry County, Missouri",35431
+"15644","MO",29,11,"Barton County, Missouri",12050
+"15645","MO",29,13,"Bates County, Missouri",16349
+"15646","MO",29,15,"Benton County, Missouri",18650
+"15647","MO",29,17,"Bollinger County, Missouri",12270
+"15648","MO",29,19,"Boone County, Missouri",169402
+"15649","MO",29,21,"Buchanan County, Missouri",86721
+"15650","MO",29,23,"Butler County, Missouri",42337
+"15651","MO",29,25,"Caldwell County, Missouri",8895
+"15652","MO",29,27,"Callaway County, Missouri",42133
+"15653","MO",29,29,"Camden County, Missouri",43517
+"15654","MO",29,31,"Cape Girardeau County, Missouri",76555
+"15655","MO",29,33,"Carroll County, Missouri",9002
+"15656","MO",29,35,"Carter County, Missouri",6251
+"15657","MO",29,37,"Cass County, Missouri",99881
+"15658","MO",29,39,"Cedar County, Missouri",13749
+"15659","MO",29,41,"Chariton County, Missouri",7433
+"15660","MO",29,43,"Christian County, Missouri",80443
+"15661","MO",29,45,"Clark County, Missouri",6849
+"15662","MO",29,47,"Clay County, Missouri",228840
+"15663","MO",29,49,"Clinton County, Missouri",20033
+"15664","MO",29,51,"Cole County, Missouri",72548
+"15665","MO",29,53,"Cooper County, Missouri",16044
+"15666","MO",29,55,"Crawford County, Missouri",24375
+"15667","MO",29,57,"Dade County, Missouri",7484
+"15668","MO",29,59,"Dallas County, Missouri",16370
+"15669","MO",29,61,"Daviess County, Missouri",8077
+"15670","MO",29,63,"DeKalb County, Missouri",9351
+"15671","MO",29,65,"Dent County, Missouri",15437
+"15672","MO",29,67,"Douglas County, Missouri",13393
+"15673","MO",29,69,"Dunklin County, Missouri",30891
+"15674","MO",29,71,"Franklin County, Missouri",101062
+"15675","MO",29,73,"Gasconade County, Missouri",14675
+"15676","MO",29,75,"Gentry County, Missouri",6621
+"15677","MO",29,77,"Greene County, Missouri",279368
+"15678","MO",29,79,"Grundy County, Missouri",10072
+"15679","MO",29,81,"Harrison County, Missouri",8536
+"15680","MO",29,83,"Henry County, Missouri",21794
+"15681","MO",29,85,"Hickory County, Missouri",9254
+"15682","MO",29,87,"Holt County, Missouri",4498
+"15683","MO",29,89,"Howard County, Missouri",10055
+"15684","MO",29,91,"Howell County, Missouri",39891
+"15685","MO",29,93,"Iron County, Missouri",9979
+"15686","MO",29,95,"Jackson County, Missouri",674244
+"15687","MO",29,97,"Jasper County, Missouri",116067
+"15688","MO",29,99,"Jefferson County, Missouri",219981
+"15689","MO",29,101,"Johnson County, Missouri",50539
+"15690","MO",29,103,"Knox County, Missouri",3958
+"15691","MO",29,105,"Laclede County, Missouri",35120
+"15692","MO",29,107,"Lafayette County, Missouri",32404
+"15693","MO",29,109,"Lawrence County, Missouri",37657
+"15694","MO",29,111,"Lewis County, Missouri",9969
+"15695","MO",29,113,"Lincoln County, Missouri",53367
+"15696","MO",29,115,"Linn County, Missouri",12324
+"15697","MO",29,117,"Livingston County, Missouri",13764
+"15698","MO",29,119,"McDonald County, Missouri",22604
+"15699","MO",29,121,"Macon County, Missouri",15188
+"15700","MO",29,123,"Madison County, Missouri",12232
+"15701","MO",29,125,"Maries County, Missouri",8933
+"15702","MO",29,127,"Marion County, Missouri",28164
+"15703","MO",29,129,"Mercer County, Missouri",3662
+"15704","MO",29,131,"Miller County, Missouri",24678
+"15705","MO",29,133,"Mississippi County, Missouri",12506
+"15706","MO",29,135,"Moniteau County, Missouri",14477
+"15707","MO",29,137,"Monroe County, Missouri",8573
+"15708","MO",29,139,"Montgomery County, Missouri",11598
+"15709","MO",29,141,"Morgan County, Missouri",19908
+"15710","MO",29,143,"New Madrid County, Missouri",18042
+"15711","MO",29,145,"Newton County, Missouri",58120
+"15712","MO",29,147,"Nodaway County, Missouri",22284
+"15713","MO",29,149,"Oregon County, Missouri",10845
+"15714","MO",29,151,"Osage County, Missouri",13619
+"15715","MO",29,153,"Ozark County, Missouri",9480
+"15716","MO",29,155,"Pemiscot County, Missouri",17657
+"15717","MO",29,157,"Perry County, Missouri",18807
+"15718","MO",29,159,"Pettis County, Missouri",41448
+"15719","MO",29,161,"Phelps County, Missouri",44130
+"15720","MO",29,163,"Pike County, Missouri",16271
+"15721","MO",29,165,"Platte County, Missouri",92463
+"15722","MO",29,167,"Polk County, Missouri",30705
+"15723","MO",29,169,"Pulaski County, Missouri",40072
+"15724","MO",29,171,"Putnam County, Missouri",4842
+"15725","MO",29,173,"Ralls County, Missouri",10189
+"15726","MO",29,175,"Randolph County, Missouri",23198
+"15727","MO",29,177,"Ray County, Missouri",22750
+"15728","MO",29,179,"Reynolds County, Missouri",6444
+"15729","MO",29,181,"Ripley County, Missouri",13917
+"15730","MO",29,183,"St. Charles County, Missouri",373044
+"15731","MO",29,185,"St. Clair County, Missouri",9288
+"15732","MO",29,186,"Ste. Genevieve County, Missouri",17783
+"15733","MO",29,187,"St. Francois County, Missouri",58440
+"15734","MO",29,189,"St. Louis County, Missouri",989446
+"15735","MO",29,195,"Saline County, Missouri",22880
+"15736","MO",29,197,"Schuyler County, Missouri",4343
+"15737","MO",29,199,"Scotland County, Missouri",4778
+"15738","MO",29,201,"Scott County, Missouri",38597
+"15739","MO",29,203,"Shannon County, Missouri",8253
+"15740","MO",29,205,"Shelby County, Missouri",5972
+"15741","MO",29,207,"Stoddard County, Missouri",29436
+"15742","MO",29,209,"Stone County, Missouri",31121
+"15743","MO",29,211,"Sullivan County, Missouri",6455
+"15744","MO",29,213,"Taney County, Missouri",53103
+"15745","MO",29,215,"Texas County, Missouri",24270
+"15746","MO",29,217,"Vernon County, Missouri",20403
+"15747","MO",29,219,"Warren County, Missouri",32865
+"15748","MO",29,221,"Washington County, Missouri",23961
+"15749","MO",29,223,"Wayne County, Missouri",13255
+"15750","MO",29,225,"Webster County, Missouri",35820
+"15751","MO",29,227,"Worth County, Missouri",2022
+"15752","MO",29,229,"Wright County, Missouri",18252
+"15753","MO",29,510,"St. Louis city, Missouri",313086
+"16835","MS",28,1,"Adams County, Mississippi",29616
+"16836","MS",28,3,"Alcorn County, Mississippi",36788
+"16837","MS",28,5,"Amite County, Mississippi",12727
+"16838","MS",28,7,"Attala County, Mississippi",18868
+"16839","MS",28,9,"Benton County, Mississippi",8389
+"16840","MS",28,11,"Bolivar County, Mississippi",32976
+"16841","MS",28,13,"Calhoun County, Mississippi",14637
+"16842","MS",28,15,"Carroll County, Mississippi",10150
+"16843","MS",28,17,"Chickasaw County, Mississippi",17086
+"16844","MS",28,19,"Choctaw County, Mississippi",8254
+"16845","MS",28,21,"Claiborne County, Mississippi",9276
+"16846","MS",28,23,"Clarke County, Mississippi",16306
+"16847","MS",28,25,"Clay County, Mississippi",19994
+"16848","MS",28,27,"Coahoma County, Mississippi",24961
+"16849","MS",28,29,"Copiah County, Mississippi",28771
+"16850","MS",28,31,"Covington County, Mississippi",19222
+"16851","MS",28,33,"DeSoto County, Mississippi",167763
+"16852","MS",28,35,"Forrest County, Mississippi",75581
+"16853","MS",28,37,"Franklin County, Mississippi",7777
+"16854","MS",28,39,"George County, Mississippi",22634
+"16855","MS",28,41,"Greene County, Mississippi",10820
+"16856","MS",28,43,"Grenada County, Mississippi",21266
+"16857","MS",28,45,"Hancock County, Mississippi",45477
+"16858","MS",28,47,"Harrison County, Mississippi",188527
+"16859","MS",28,49,"Hinds County, Mississippi",243324
+"16860","MS",28,51,"Holmes County, Mississippi",18633
+"16861","MS",28,53,"Humphreys County, Mississippi",8897
+"16862","MS",28,55,"Issaquena County, Mississippi",1020
+"16863","MS",28,57,"Itawamba County, Mississippi",23216
+"16864","MS",28,59,"Jackson County, Mississippi",139314
+"16865","MS",28,61,"Jasper County, Mississippi",16472
+"16866","MS",28,63,"Jefferson County, Mississippi",7159
+"16867","MS",28,65,"Jefferson Davis County, Mississippi",11830
+"16868","MS",28,67,"Jones County, Mississippi",67522
+"16869","MS",28,69,"Kemper County, Mississippi",9667
+"16870","MS",28,71,"Lafayette County, Mississippi",50583
+"16871","MS",28,73,"Lamar County, Mississippi",57938
+"16872","MS",28,75,"Lauderdale County, Mississippi",76464
+"16873","MS",28,77,"Lawrence County, Mississippi",12573
+"16874","MS",28,79,"Leake County, Mississippi",22202
+"16875","MS",28,81,"Lee County, Mississippi",84014
+"16876","MS",28,83,"Leflore County, Mississippi",30856
+"16877","MS",28,85,"Lincoln County, Mississippi",34172
+"16878","MS",28,87,"Lowndes County, Mississippi",57903
+"16879","MS",28,89,"Madison County, Mississippi",99028
+"16880","MS",28,91,"Marion County, Mississippi",25353
+"16881","MS",28,93,"Marshall County, Mississippi",35104
+"16882","MS",28,95,"Monroe County, Mississippi",35760
+"16883","MS",28,97,"Montgomery County, Mississippi",10347
+"16884","MS",28,99,"Neshoba County, Mississippi",29135
+"16885","MS",28,101,"Newton County, Mississippi",21473
+"16886","MS",28,103,"Noxubee County, Mississippi",10946
+"16887","MS",28,105,"Oktibbeha County, Mississippi",48621
+"16888","MS",28,107,"Panola County, Mississippi",34174
+"16889","MS",28,109,"Pearl River County, Mississippi",54332
+"16890","MS",28,111,"Perry County, Mississippi",12083
+"16891","MS",28,113,"Pike County, Mississippi",39469
+"16892","MS",28,115,"Pontotoc County, Mississippi",30264
+"16893","MS",28,117,"Prentiss County, Mississippi",25091
+"16894","MS",28,119,"Quitman County, Mississippi",7587
+"16895","MS",28,121,"Rankin County, Mississippi",141092
+"16896","MS",28,123,"Scott County, Mississippi",28029
+"16897","MS",28,125,"Sharkey County, Mississippi",4707
+"16898","MS",28,127,"Simpson County, Mississippi",26768
+"16899","MS",28,129,"Smith County, Mississippi",16170
+"16900","MS",28,131,"Stone County, Mississippi",17417
+"16901","MS",28,133,"Sunflower County, Mississippi",24150
+"16902","MS",28,135,"Tallahatchie County, Mississippi",10513
+"16903","MS",28,137,"Tate County, Mississippi",27938
+"16904","MS",28,139,"Tippah County, Mississippi",21951
+"16905","MS",28,141,"Tishomingo County, Mississippi",19279
+"16906","MS",28,143,"Tunica County, Mississippi",10355
+"16907","MS",28,145,"Union County, Mississippi",27543
+"16908","MS",28,147,"Walthall County, Mississippi",14838
+"16909","MS",28,149,"Warren County, Mississippi",47593
+"16910","MS",28,151,"Washington County, Mississippi",49046
+"16911","MS",28,153,"Wayne County, Mississippi",20446
+"16912","MS",28,155,"Webster County, Mississippi",9913
+"16913","MS",28,157,"Wilkinson County, Mississippi",8340
+"16914","MS",28,159,"Winston County, Mississippi",18245
+"16915","MS",28,161,"Yalobusha County, Mississippi",12197
+"16916","MS",28,163,"Yazoo County, Mississippi",24267
+"17317","MT",30,1,"Beaverhead County, Montana",9157
+"17318","MT",30,3,"Big Horn County, Montana",13020
+"17319","MT",30,5,"Blaine County, Montana",6508
+"17320","MT",30,7,"Broadwater County, Montana",5642
+"17321","MT",30,9,"Carbon County, Montana",10200
+"17322","MT",30,11,"Carter County, Montana",1206
+"17323","MT",30,13,"Cascade County, Montana",78210
+"17324","MT",30,15,"Chouteau County, Montana",5810
+"17325","MT",30,17,"Custer County, Montana",11706
+"17326","MT",30,19,"Daniels County, Montana",1724
+"17327","MT",30,21,"Dawson County, Montana",9026
+"17328","MT",30,23,"Deer Lodge County, Montana",8722
+"17329","MT",30,25,"Fallon County, Montana",3020
+"17330","MT",30,27,"Fergus County, Montana",11248
+"17331","MT",30,29,"Flathead County, Montana",92729
+"17332","MT",30,31,"Gallatin County, Montana",94972
+"17333","MT",30,33,"Garfield County, Montana",1047
+"17334","MT",30,35,"Glacier County, Montana",13539
+"17335","MT",30,37,"Golden Valley County, Montana",756
+"17336","MT",30,39,"Granite County, Montana",3142
+"17337","MT",30,41,"Hill County, Montana",16389
+"17338","MT",30,43,"Jefferson County, Montana",11333
+"17339","MT",30,45,"Judith Basin County, Montana",1997
+"17340","MT",30,47,"Lake County, Montana",28986
+"17341","MT",30,49,"Lewis and Clark County, Montana",64717
+"17342","MT",30,51,"Liberty County, Montana",2347
+"17343","MT",30,53,"Lincoln County, Montana",19167
+"17344","MT",30,55,"McCone County, Montana",1706
+"17345","MT",30,57,"Madison County, Montana",7707
+"17346","MT",30,59,"Meagher County, Montana",1873
+"17347","MT",30,61,"Mineral County, Montana",4186
+"17348","MT",30,63,"Missoula County, Montana",111309
+"17349","MT",30,65,"Musselshell County, Montana",4756
+"17350","MT",30,67,"Park County, Montana",15618
+"17351","MT",30,69,"Petroleum County, Montana",443
+"17352","MT",30,71,"Phillips County, Montana",4127
+"17353","MT",30,73,"Pondera County, Montana",6134
+"17354","MT",30,75,"Powder River County, Montana",1670
+"17355","MT",30,77,"Powell County, Montana",5371
+"17356","MT",30,79,"Prairie County, Montana",1353
+"17357","MT",30,81,"Ravalli County, Montana",40570
+"17358","MT",30,83,"Richland County, Montana",11132
+"17359","MT",30,85,"Roosevelt County, Montana",10854
+"17360","MT",30,87,"Rosebud County, Montana",9269
+"17361","MT",30,89,"Sanders County, Montana",11210
+"17362","MT",30,91,"Sheridan County, Montana",3576
+"17363","MT",30,93,"Silver Bow County, Montana",33959
+"17364","MT",30,95,"Stillwater County, Montana",9229
+"17365","MT",30,97,"Sweet Grass County, Montana",3602
+"17366","MT",30,99,"Teton County, Montana",6005
+"17367","MT",30,101,"Toole County, Montana",4542
+"17368","MT",30,103,"Treasure County, Montana",812
+"17369","MT",30,105,"Valley County, Montana",7467
+"17370","MT",30,107,"Wheatland County, Montana",2082
+"17371","MT",30,109,"Wibaux County, Montana",962
+"17372","MT",30,111,"Yellowstone County, Montana",151369
+"17757","NC",37,1,"Alamance County, North Carolina",154193
+"17758","NC",37,3,"Alexander County, North Carolina",36026
+"17759","NC",37,5,"Alleghany County, North Carolina",10783
+"17760","NC",37,7,"Anson County, North Carolina",24351
+"17761","NC",37,9,"Ashe County, North Carolina",26853
+"17762","NC",37,11,"Avery County, North Carolina",15738
+"17763","NC",37,13,"Beaufort County, North Carolina",47198
+"17764","NC",37,15,"Bertie County, North Carolina",19281
+"17765","NC",37,17,"Bladen County, North Carolina",34298
+"17766","NC",37,19,"Brunswick County, North Carolina",114974
+"17767","NC",37,21,"Buncombe County, North Carolina",243514
+"17768","NC",37,23,"Burke County, North Carolina",87122
+"17769","NC",37,25,"Cabarrus County, North Carolina",187015
+"17770","NC",37,27,"Caldwell County, North Carolina",80896
+"17771","NC",37,29,"Camden County, North Carolina",9987
+"17772","NC",37,31,"Carteret County, North Carolina",66448
+"17773","NC",37,33,"Caswell County, North Carolina",22247
+"17774","NC",37,35,"Catawba County, North Carolina",153148
+"17775","NC",37,37,"Chatham County, North Carolina",66686
+"17776","NC",37,39,"Cherokee County, North Carolina",26810
+"17777","NC",37,41,"Chowan County, North Carolina",14388
+"17778","NC",37,43,"Clay County, North Carolina",10595
+"17779","NC",37,45,"Cleveland County, North Carolina",96865
+"17780","NC",37,47,"Columbus County, North Carolina",54532
+"17781","NC",37,49,"Craven County, North Carolina",96957
+"17782","NC",37,51,"Cumberland County, North Carolina",296804
+"17783","NC",37,53,"Currituck County, North Carolina",24191
+"17784","NC",37,55,"Dare County, North Carolina",34706
+"17785","NC",37,57,"Davidson County, North Carolina",162109
+"17786","NC",37,59,"Davie County, North Carolina",41057
+"17787","NC",37,61,"Duplin County, North Carolina",58825
+"17788","NC",37,63,"Durham County, North Carolina",283358
+"17789","NC",37,65,"Edgecombe County, North Carolina",54230
+"17790","NC",37,67,"Forsyth County, North Carolina",358604
+"17791","NC",37,69,"Franklin County, North Carolina",61238
+"17792","NC",37,71,"Gaston County, North Carolina",207685
+"17793","NC",37,73,"Gates County, North Carolina",11626
+"17794","NC",37,75,"Graham County, North Carolina",8586
+"17795","NC",37,77,"Granville County, North Carolina",55041
+"17796","NC",37,79,"Greene County, North Carolina",19281
+"17797","NC",37,81,"Guilford County, North Carolina",502863
+"17798","NC",37,83,"Halifax County, North Carolina",51993
+"17799","NC",37,85,"Harnett County, North Carolina",118095
+"17800","NC",37,87,"Haywood County, North Carolina",58670
+"17801","NC",37,89,"Henderson County, North Carolina",108640
+"17802","NC",37,91,"Hertford County, North Carolina",22172
+"17803","NC",37,93,"Hoke County, North Carolina",46879
+"17804","NC",37,95,"Hyde County, North Carolina",5027
+"17805","NC",37,97,"Iredell County, North Carolina",163879
+"17806","NC",37,99,"Jackson County, North Carolina",40485
+"17807","NC",37,101,"Johnston County, North Carolina",176726
+"17808","NC",37,103,"Jones County, North Carolina",10063
+"17809","NC",37,105,"Lee County, North Carolina",58185
+"17810","NC",37,107,"Lenoir County, North Carolina",57788
+"17811","NC",37,109,"Lincoln County, North Carolina",79010
+"17812","NC",37,111,"McDowell County, North Carolina",44019
+"17813","NC",37,113,"Macon County, North Carolina",33691
+"17814","NC",37,115,"Madison County, North Carolina",20794
+"17815","NC",37,117,"Martin County, North Carolina",23591
+"17816","NC",37,119,"Mecklenburg County, North Carolina",984628
+"17817","NC",37,121,"Mitchell County, North Carolina",15203
+"17818","NC",37,123,"Montgomery County, North Carolina",26764
+"17819","NC",37,125,"Moore County, North Carolina",89364
+"17820","NC",37,127,"Nash County, North Carolina",93222
+"17821","NC",37,129,"New Hanover County, North Carolina",210576
+"17822","NC",37,131,"Northampton County, North Carolina",20251
+"17823","NC",37,133,"Onslow County, North Carolina",153031
+"17824","NC",37,135,"Orange County, North Carolina",137930
+"17825","NC",37,137,"Pamlico County, North Carolina",12349
+"17826","NC",37,139,"Pasquotank County, North Carolina",38645
+"17827","NC",37,141,"Pender County, North Carolina",53499
+"17828","NC",37,143,"Perquimans County, North Carolina",13381
+"17829","NC",37,145,"Person County, North Carolina",38833
+"17830","NC",37,147,"Pitt County, North Carolina",172537
+"17831","NC",37,149,"Polk County, North Carolina",20057
+"17832","NC",37,151,"Randolph County, North Carolina",141201
+"17833","NC",37,153,"Richmond County, North Carolina",44736
+"17834","NC",37,155,"Robeson County, North Carolina",132645
+"17835","NC",37,157,"Rockingham County, North Carolina",91303
+"17836","NC",37,159,"Rowan County, North Carolina",135832
+"17837","NC",37,161,"Rutherford County, North Carolina",65969
+"17838","NC",37,163,"Sampson County, North Carolina",63251
+"17839","NC",37,165,"Scotland County, North Carolina",34137
+"17840","NC",37,167,"Stanly County, North Carolina",59190
+"17841","NC",37,169,"Stokes County, North Carolina",46221
+"17842","NC",37,171,"Surry County, North Carolina",72423
+"17843","NC",37,173,"Swain County, North Carolina",13974
+"17844","NC",37,175,"Transylvania County, North Carolina",32447
+"17845","NC",37,177,"Tyrrell County, North Carolina",3567
+"17846","NC",37,179,"Union County, North Carolina",212475
+"17847","NC",37,181,"Vance County, North Carolina",44375
+"17848","NC",37,183,"Wake County, North Carolina",967390
+"17849","NC",37,185,"Warren County, North Carolina",19452
+"17850","NC",37,187,"Washington County, North Carolina",12530
+"17851","NC",37,189,"Watauga County, North Carolina",51957
+"17852","NC",37,191,"Wayne County, North Carolina",119784
+"17853","NC",37,193,"Wilkes County, North Carolina",68086
+"17854","NC",37,195,"Wilson County, North Carolina",80444
+"17855","NC",37,197,"Yadkin County, North Carolina",37705
+"17856","NC",37,199,"Yancey County, North Carolina",17426
+"18662","ND",38,1,"Adams County, North Dakota",2291
+"18663","ND",38,3,"Barnes County, North Dakota",10904
+"18664","ND",38,5,"Benson County, North Dakota",6779
+"18665","ND",38,7,"Billings County, North Dakota",969
+"18666","ND",38,9,"Bottineau County, North Dakota",6465
+"18667","ND",38,11,"Bowman County, North Dakota",3156
+"18668","ND",38,13,"Burke County, North Dakota",2207
+"18669","ND",38,15,"Burleigh County, North Dakota",86343
+"18670","ND",38,17,"Cass County, North Dakota",161338
+"18671","ND",38,19,"Cavalier County, North Dakota",3794
+"18672","ND",38,21,"Dickey County, North Dakota",5049
+"18673","ND",38,23,"Divide County, North Dakota",2257
+"18674","ND",38,25,"Dunn County, North Dakota",4143
+"18675","ND",38,27,"Eddy County, North Dakota",2296
+"18676","ND",38,29,"Emmons County, North Dakota",3408
+"18677","ND",38,31,"Foster County, North Dakota",3300
+"18678","ND",38,33,"Golden Valley County, North Dakota",1767
+"18679","ND",38,35,"Grand Forks County, North Dakota",67070
+"18680","ND",38,37,"Grant County, North Dakota",2323
+"18681","ND",38,39,"Griggs County, North Dakota",2238
+"18682","ND",38,41,"Hettinger County, North Dakota",2459
+"18683","ND",38,43,"Kidder County, North Dakota",2430
+"18684","ND",38,45,"LaMoure County, North Dakota",4044
+"18685","ND",38,47,"Logan County, North Dakota",1870
+"18686","ND",38,49,"McHenry County, North Dakota",5738
+"18687","ND",38,51,"McIntosh County, North Dakota",2647
+"18688","ND",38,53,"McKenzie County, North Dakota",9549
+"18689","ND",38,55,"McLean County, North Dakota",9261
+"18690","ND",38,57,"Mercer County, North Dakota",8521
+"18691","ND",38,59,"Morton County, North Dakota",28438
+"18692","ND",38,61,"Mountrail County, North Dakota",9155
+"18693","ND",38,63,"Nelson County, North Dakota",2966
+"18694","ND",38,65,"Oliver County, North Dakota",1819
+"18695","ND",38,67,"Pembina County, North Dakota",7042
+"18696","ND",38,69,"Pierce County, North Dakota",4204
+"18697","ND",38,71,"Ramsey County, North Dakota",11065
+"18698","ND",38,73,"Ransom County, North Dakota",5301
+"18699","ND",38,75,"Renville County, North Dakota",2481
+"18700","ND",38,77,"Richland County, North Dakota",16147
+"18701","ND",38,79,"Rolette County, North Dakota",14374
+"18702","ND",38,81,"Sargent County, North Dakota",3837
+"18703","ND",38,83,"Sheridan County, North Dakota",1337
+"18704","ND",38,85,"Sioux County, North Dakota",4333
+"18705","ND",38,87,"Slope County, North Dakota",673
+"18706","ND",38,89,"Stark County, North Dakota",28174
+"18707","ND",38,91,"Steele County, North Dakota",1979
+"18708","ND",38,93,"Stutsman County, North Dakota",20163
+"18709","ND",38,95,"Towner County, North Dakota",2259
+"18710","ND",38,97,"Traill County, North Dakota",7897
+"18711","ND",38,99,"Walsh County, North Dakota",10827
+"18712","ND",38,101,"Ward County, North Dakota",63839
+"18713","ND",38,103,"Wells County, North Dakota",4119
+"18714","ND",38,105,"Williams County, North Dakota",29262
+"19137","NE",31,1,"Adams County, Nebraska",31158
+"19138","NE",31,3,"Antelope County, Nebraska",6389
+"19139","NE",31,5,"Arthur County, Nebraska",448
+"19140","NE",31,7,"Banner County, Nebraska",820
+"19141","NE",31,9,"Blaine County, Nebraska",551
+"19142","NE",31,11,"Boone County, Nebraska",5275
+"19143","NE",31,13,"Box Butte County, Nebraska",11146
+"19144","NE",31,15,"Boyd County, Nebraska",2012
+"19145","NE",31,17,"Brown County, Nebraska",3034
+"19146","NE",31,19,"Buffalo County, Nebraska",47356
+"19147","NE",31,21,"Burt County, Nebraska",6545
+"19148","NE",31,23,"Butler County, Nebraska",8085
+"19149","NE",31,25,"Cass County, Nebraska",24929
+"19150","NE",31,27,"Cedar County, Nebraska",8527
+"19151","NE",31,29,"Chase County, Nebraska",3830
+"19152","NE",31,31,"Cherry County, Nebraska",5711
+"19153","NE",31,33,"Cheyenne County, Nebraska",9978
+"19154","NE",31,35,"Clay County, Nebraska",6278
+"19155","NE",31,37,"Colfax County, Nebraska",10432
+"19156","NE",31,39,"Cuming County, Nebraska",8927
+"19157","NE",31,41,"Custer County, Nebraska",10679
+"19158","NE",31,43,"Dakota County, Nebraska",20582
+"19159","NE",31,45,"Dawes County, Nebraska",9061
+"19160","NE",31,47,"Dawson County, Nebraska",23795
+"19161","NE",31,49,"Deuel County, Nebraska",1925
+"19162","NE",31,51,"Dixon County, Nebraska",5781
+"19163","NE",31,53,"Dodge County, Nebraska",36136
+"19164","NE",31,55,"Douglas County, Nebraska",531473
+"19165","NE",31,57,"Dundy County, Nebraska",1977
+"19166","NE",31,59,"Fillmore County, Nebraska",5465
+"19167","NE",31,61,"Franklin County, Nebraska",3043
+"19168","NE",31,63,"Frontier County, Nebraska",2564
+"19169","NE",31,65,"Furnas County, Nebraska",4805
+"19170","NE",31,67,"Gage County, Nebraska",21533
+"19171","NE",31,69,"Garden County, Nebraska",1782
+"19172","NE",31,71,"Garfield County, Nebraska",1898
+"19173","NE",31,73,"Gosper County, Nebraska",1938
+"19174","NE",31,75,"Grant County, Nebraska",769
+"19175","NE",31,77,"Greeley County, Nebraska",2443
+"19176","NE",31,79,"Hall County, Nebraska",60015
+"19177","NE",31,81,"Hamilton County, Nebraska",8957
+"19178","NE",31,83,"Harlan County, Nebraska",3405
+"19179","NE",31,85,"Hayes County, Nebraska",1084
+"19180","NE",31,87,"Hitchcock County, Nebraska",2845
+"19181","NE",31,89,"Holt County, Nebraska",10233
+"19182","NE",31,91,"Hooker County, Nebraska",654
+"19183","NE",31,93,"Howard County, Nebraska",6327
+"19184","NE",31,95,"Jefferson County, Nebraska",7320
+"19185","NE",31,97,"Johnson County, Nebraska",4014
+"19186","NE",31,99,"Kearney County, Nebraska",6466
+"19187","NE",31,101,"Keith County, Nebraska",8084
+"19188","NE",31,103,"Keya Paha County, Nebraska",711
+"19189","NE",31,105,"Kimball County, Nebraska",3662
+"19190","NE",31,107,"Knox County, Nebraska",8325
+"19191","NE",31,109,"Lancaster County, Nebraska",293703
+"19192","NE",31,111,"Lincoln County, Nebraska",35503
+"19193","NE",31,113,"Logan County, Nebraska",850
+"19194","NE",31,115,"Loup County, Nebraska",548
+"19195","NE",31,117,"McPherson County, Nebraska",433
+"19196","NE",31,119,"Madison County, Nebraska",34466
+"19197","NE",31,121,"Merrick County, Nebraska",7661
+"19198","NE",31,123,"Morrill County, Nebraska",4722
+"19199","NE",31,125,"Nance County, Nebraska",3542
+"19200","NE",31,127,"Nemaha County, Nebraska",7050
+"19201","NE",31,129,"Nuckolls County, Nebraska",4309
+"19202","NE",31,131,"Otoe County, Nebraska",15553
+"19203","NE",31,133,"Pawnee County, Nebraska",2685
+"19204","NE",31,135,"Perkins County, Nebraska",2883
+"19205","NE",31,137,"Phelps County, Nebraska",8985
+"19206","NE",31,139,"Pierce County, Nebraska",7050
+"19207","NE",31,141,"Platte County, Nebraska",32343
+"19208","NE",31,143,"Polk County, Nebraska",5156
+"19209","NE",31,145,"Red Willow County, Nebraska",10685
+"19210","NE",31,147,"Richardson County, Nebraska",8046
+"19211","NE",31,149,"Rock County, Nebraska",1365
+"19212","NE",31,151,"Saline County, Nebraska",14051
+"19213","NE",31,153,"Sarpy County, Nebraska",165200
+"19214","NE",31,155,"Saunders County, Nebraska",20614
+"19215","NE",31,157,"Scotts Bluff County, Nebraska",36087
+"19216","NE",31,159,"Seward County, Nebraska",16732
+"19217","NE",31,161,"Sheridan County, Nebraska",5195
+"19218","NE",31,163,"Sherman County, Nebraska",3049
+"19219","NE",31,165,"Sioux County, Nebraska",1249
+"19220","NE",31,167,"Stanton County, Nebraska",6067
+"19221","NE",31,169,"Thayer County, Nebraska",5028
+"19222","NE",31,171,"Thomas County, Nebraska",675
+"19223","NE",31,173,"Thurston County, Nebraska",6890
+"19224","NE",31,175,"Valley County, Nebraska",4210
+"19225","NE",31,177,"Washington County, Nebraska",20069
+"19226","NE",31,179,"Wayne County, Nebraska",9385
+"19227","NE",31,181,"Webster County, Nebraska",3610
+"19228","NE",31,183,"Wheeler County, Nebraska",847
+"19229","NE",31,185,"York County, Nebraska",13256
+"19838","NH",33,1,"Belknap County, New Hampshire",59655
+"19839","NH",33,3,"Carroll County, New Hampshire",47097
+"19840","NH",33,5,"Cheshire County, New Hampshire",75685
+"19841","NH",33,7,"Coos County, New Hampshire",30371
+"19842","NH",33,9,"Grafton County, New Hampshire",88498
+"19843","NH",33,11,"Hillsborough County, New Hampshire",400028
+"19844","NH",33,13,"Merrimack County, New Hampshire",144174
+"19845","NH",33,15,"Rockingham County, New Hampshire",296931
+"19846","NH",33,17,"Strafford County, New Hampshire",123914
+"19847","NH",33,19,"Sullivan County, New Hampshire",42704
+"19961","NJ",34,1,"Atlantic County, New Jersey",272459
+"19962","NJ",34,3,"Bergen County, New Jersey",920477
+"19963","NJ",34,5,"Burlington County, New Jersey",436086
+"19964","NJ",34,7,"Camden County, New Jersey",506316
+"19965","NJ",34,9,"Cape May County, New Jersey",93627
+"19966","NJ",34,11,"Cumberland County, New Jersey",145461
+"19967","NJ",34,13,"Essex County, New Jersey",780124
+"19968","NJ",34,15,"Gloucester County, New Jersey",288920
+"19969","NJ",34,17,"Hudson County, New Jersey",659054
+"19970","NJ",34,19,"Hunterdon County, New Jersey",122298
+"19971","NJ",34,21,"Mercer County, New Jersey",363188
+"19972","NJ",34,23,"Middlesex County, New Jersey",820703
+"19973","NJ",34,25,"Monmouth County, New Jersey",624974
+"19974","NJ",34,27,"Morris County, New Jersey",494204
+"19975","NJ",34,29,"Ocean County, New Jersey",578118
+"19976","NJ",34,31,"Passaic County, New Jersey",503836
+"19977","NJ",34,33,"Salem County, New Jersey",63928
+"19978","NJ",34,35,"Somerset County, New Jersey",327821
+"19979","NJ",34,37,"Sussex County, New Jersey",144580
+"19980","NJ",34,39,"Union County, New Jersey",544225
+"19981","NJ",34,41,"Warren County, New Jersey",106205
+"20558","NM",35,1,"Bernalillo County, New Mexico",666484
+"20559","NM",35,3,"Catron County, New Mexico",3574
+"20560","NM",35,5,"Chaves County, New Mexico",64821
+"20561","NM",35,6,"Cibola County, New Mexico",25636
+"20562","NM",35,7,"Colfax County, New Mexico",12541
+"20563","NM",35,9,"Curry County, New Mexico",47988
+"20564","NM",35,11,"De Baca County, New Mexico",1995
+"20565","NM",35,13,"Doña Ana County, New Mexico",210603
+"20566","NM",35,15,"Eddy County, New Mexico",55089
+"20567","NM",35,17,"Grant County, New Mexico",28738
+"20568","NM",35,19,"Guadalupe County, New Mexico",3922
+"20569","NM",35,21,"Harding County, New Mexico",564
+"20570","NM",35,23,"Hidalgo County, New Mexico",4523
+"20571","NM",35,25,"Lea County, New Mexico",66553
+"20572","NM",35,27,"Lincoln County, New Mexico",19790
+"20573","NM",35,28,"Los Alamos County, New Mexico",17827
+"20574","NM",35,29,"Luna County, New Mexico",24422
+"20575","NM",35,31,"McKinley County, New Mexico",73637
+"20576","NM",35,33,"Mora County, New Mexico",4660
+"20577","NM",35,35,"Otero County, New Mexico",60517
+"20578","NM",35,37,"Quay County, New Mexico",8663
+"20579","NM",35,39,"Rio Arriba County, New Mexico",39683
+"20580","NM",35,41,"Roosevelt County, New Mexico",19424
+"20581","NM",35,43,"Sandoval County, New Mexico",135852
+"20582","NM",35,45,"San Juan County, New Mexico",123783
+"20583","NM",35,47,"San Miguel County, New Mexico",28105
+"20584","NM",35,49,"Santa Fe County, New Mexico",145285
+"20585","NM",35,51,"Sierra County, New Mexico",11374
+"20586","NM",35,53,"Socorro County, New Mexico",17392
+"20587","NM",35,55,"Taos County, New Mexico",32739
+"20588","NM",35,57,"Torrance County, New Mexico",15096
+"20589","NM",35,59,"Union County, New Mexico",3722
+"20590","NM",35,61,"Valencia County, New Mexico",74700
+"21067","NV",32,1,"Churchill County, Nevada",23345
+"21068","NV",32,3,"Clark County, Nevada",2012107
+"21069","NV",32,5,"Douglas County, Nevada",46896
+"21070","NV",32,7,"Elko County, Nevada",50942
+"21071","NV",32,9,"Esmeralda County, Nevada",1136
+"21072","NV",32,11,"Eureka County, Nevada",1664
+"21073","NV",32,13,"Humboldt County, Nevada",16839
+"21074","NV",32,15,"Lander County, Nevada",5908
+"21075","NV",32,17,"Lincoln County, Nevada",4819
+"21076","NV",32,19,"Lyon County, Nevada",51338
+"21077","NV",32,21,"Mineral County, Nevada",4484
+"21078","NV",32,23,"Nye County, Nevada",42252
+"21079","NV",32,27,"Pershing County, Nevada",4779
+"21080","NV",32,29,"Storey County, Nevada",3905
+"21081","NV",32,31,"Washoe County, Nevada",432043
+"21082","NV",32,33,"White Pine County, Nevada",8662
+"21083","NV",32,510,"Carson City, Nevada",52581
+"21240","NY",36,1,"Albany County, New York",303811
+"21241","NY",36,3,"Allegany County, New York",47597
+"21242","NY",36,5,"Bronx County, New York",1406091
+"21243","NY",36,7,"Broome County, New York",195125
+"21244","NY",36,9,"Cattaraugus County, New York",78228
+"21245","NY",36,11,"Cayuga County, New York",75997
+"21246","NY",36,13,"Chautauqua County, New York",130012
+"21247","NY",36,15,"Chemung County, New York",83978
+"21248","NY",36,17,"Chenango County, New York",48980
+"21249","NY",36,19,"Clinton County, New York",77192
+"21250","NY",36,21,"Columbia County, New York",60471
+"21251","NY",36,23,"Cortland County, New York",48573
+"21252","NY",36,25,"Delaware County, New York",46366
+"21253","NY",36,27,"Dutchess County, New York",289320
+"21254","NY",36,29,"Erie County, New York",909999
+"21255","NY",36,31,"Essex County, New York",36689
+"21256","NY",36,33,"Franklin County, New York",46449
+"21257","NY",36,35,"Fulton County, New York",53767
+"21258","NY",36,37,"Genesee County, New York",58923
+"21259","NY",36,39,"Greene County, New York",45396
+"21260","NY",36,41,"Hamilton County, New York",4736
+"21261","NY",36,43,"Herkimer County, New York",63372
+"21262","NY",36,45,"Jefferson County, New York",106421
+"21263","NY",36,47,"Kings County, New York",2585048
+"21264","NY",36,49,"Lewis County, New York",26772
+"21265","NY",36,51,"Livingston County, New York",62337
+"21266","NY",36,53,"Madison County, New York",71788
+"21267","NY",36,55,"Monroe County, New York",742169
+"21268","NY",36,57,"Montgomery County, New York",49025
+"21269","NY",36,59,"Nassau County, New York",1344466
+"21270","NY",36,61,"New York County, New York",1618623
+"21271","NY",36,63,"Niagara County, New York",212045
+"21272","NY",36,65,"Oneida County, New York",225782
+"21273","NY",36,67,"Onondaga County, New York",463030
+"21274","NY",36,69,"Ontario County, New York",108183
+"21275","NY",36,71,"Orange County, New York",365674
+"21276","NY",36,73,"Orleans County, New York",39378
+"21277","NY",36,75,"Oswego County, New York",120399
+"21278","NY",36,77,"Otsego County, New York",60741
+"21279","NY",36,79,"Putnam County, New York",98830
+"21280","NY",36,81,"Queens County, New York",2286325
+"21281","NY",36,83,"Rensselaer County, New York",158130
+"21282","NY",36,85,"Richmond County, New York",468626
+"21283","NY",36,87,"Rockland County, New York",318078
+"21284","NY",36,89,"St. Lawrence County, New York",108388
+"21285","NY",36,91,"Saratoga County, New York",220444
+"21286","NY",36,93,"Schenectady County, New York",153072
+"21287","NY",36,95,"Schoharie County, New York",31801
+"21288","NY",36,97,"Schuyler County, New York",18089
+"21289","NY",36,99,"Seneca County, New York",32465
+"21290","NY",36,101,"Steuben County, New York",97509
+"21291","NY",36,103,"Suffolk County, New York",1486195
+"21292","NY",36,105,"Sullivan County, New York",74047
+"21293","NY",36,107,"Tioga County, New York",49835
+"21294","NY",36,109,"Tompkins County, New York",102995
+"21295","NY",36,111,"Ulster County, New York",176979
+"21296","NY",36,113,"Warren County, New York",64588
+"21297","NY",36,115,"Washington County, New York",59719
+"21298","NY",36,117,"Wayne County, New York",91351
+"21299","NY",36,119,"Westchester County, New York",954315
+"21300","NY",36,121,"Wyoming County, New York",37747
+"21301","NY",36,123,"Yates County, New York",24829
+"22563","OH",39,1,"Adams County, Ohio",27966
+"22564","OH",39,3,"Allen County, Ohio",102608
+"22565","OH",39,5,"Ashland County, Ohio",52672
+"22566","OH",39,7,"Ashtabula County, Ohio",96631
+"22567","OH",39,9,"Athens County, Ohio",64283
+"22568","OH",39,11,"Auglaize County, Ohio",45362
+"22569","OH",39,13,"Belmont County, Ohio",65769
+"22570","OH",39,15,"Brown County, Ohio",43699
+"22571","OH",39,17,"Butler County, Ohio",369325
+"22572","OH",39,19,"Carroll County, Ohio",28078
+"22573","OH",39,21,"Champaign County, Ohio",38910
+"22574","OH",39,23,"Clark County, Ohio",135060
+"22575","OH",39,25,"Clermont County, Ohio",199032
+"22576","OH",39,27,"Clinton County, Ohio",41579
+"22577","OH",39,29,"Columbiana County, Ohio",102521
+"22578","OH",39,31,"Coshocton County, Ohio",36342
+"22579","OH",39,33,"Crawford County, Ohio",42194
+"22580","OH",39,35,"Cuyahoga County, Ohio",1247668
+"22581","OH",39,37,"Darke County, Ohio",51745
+"22582","OH",39,39,"Defiance County, Ohio",38359
+"22583","OH",39,41,"Delaware County, Ohio",184495
+"22584","OH",39,43,"Erie County, Ohio",75209
+"22585","OH",39,45,"Fairfield County, Ohio",146490
+"22586","OH",39,47,"Fayette County, Ohio",28270
+"22587","OH",39,49,"Franklin County, Ohio",1207823
+"22588","OH",39,51,"Fulton County, Ohio",42103
+"22589","OH",39,53,"Gallia County, Ohio",30146
+"22590","OH",39,55,"Geauga County, Ohio",93257
+"22591","OH",39,57,"Greene County, Ohio",160236
+"22592","OH",39,59,"Guernsey County, Ohio",39143
+"22593","OH",39,61,"Hamilton County, Ohio",796192
+"22594","OH",39,63,"Hancock County, Ohio",74608
+"22595","OH",39,65,"Hardin County, Ohio",31532
+"22596","OH",39,67,"Harrison County, Ohio",15381
+"22597","OH",39,69,"Henry County, Ohio",27653
+"22598","OH",39,71,"Highland County, Ohio",42754
+"22599","OH",39,73,"Hocking County, Ohio",28231
+"22600","OH",39,75,"Holmes County, Ohio",42660
+"22601","OH",39,77,"Huron County, Ohio",58421
+"22602","OH",39,79,"Jackson County, Ohio",32525
+"22603","OH",39,81,"Jefferson County, Ohio",67317
+"22604","OH",39,83,"Knox County, Ohio",60426
+"22605","OH",39,85,"Lake County, Ohio",227379
+"22606","OH",39,87,"Lawrence County, Ohio",61243
+"22607","OH",39,89,"Licking County, Ohio",167366
+"22608","OH",39,91,"Logan County, Ohio",45170
+"22609","OH",39,93,"Lorain County, Ohio",296570
+"22610","OH",39,95,"Lucas County, Ohio",430966
+"22611","OH",39,97,"Madison County, Ohio",38523
+"22612","OH",39,99,"Mahoning County, Ohio",229043
+"22613","OH",39,101,"Marion County, Ohio",59800
+"22614","OH",39,103,"Medina County, Ohio",173724
+"22615","OH",39,105,"Meigs County, Ohio",23265
+"22616","OH",39,107,"Mercer County, Ohio",40492
+"22617","OH",39,109,"Miami County, Ohio",102709
+"22618","OH",39,111,"Monroe County, Ohio",14401
+"22619","OH",39,113,"Montgomery County, Ohio",525410
+"22620","OH",39,115,"Morgan County, Ohio",14725
+"22621","OH",39,117,"Morrow County, Ohio",34697
+"22622","OH",39,119,"Muskingum County, Ohio",85156
+"22623","OH",39,121,"Noble County, Ohio",11978
+"22624","OH",39,123,"Ottawa County, Ohio",40733
+"22625","OH",39,125,"Paulding County, Ohio",19063
+"22626","OH",39,127,"Perry County, Ohio",35749
+"22627","OH",39,129,"Pickaway County, Ohio",52367
+"22628","OH",39,131,"Pike County, Ohio",28014
+"22629","OH",39,133,"Portage County, Ohio",160856
+"22630","OH",39,135,"Preble County, Ohio",41353
+"22631","OH",39,137,"Putnam County, Ohio",33921
+"22632","OH",39,139,"Richland County, Ohio",115826
+"22633","OH",39,141,"Ross County, Ohio",71564
+"22634","OH",39,143,"Sandusky County, Ohio",59335
+"22635","OH",39,145,"Scioto County, Ohio",75158
+"22636","OH",39,147,"Seneca County, Ohio",54935
+"22637","OH",39,149,"Shelby County, Ohio",48707
+"22638","OH",39,151,"Stark County, Ohio",370175
+"22639","OH",39,153,"Summit County, Ohio",536775
+"22640","OH",39,155,"Trumbull County, Ohio",202696
+"22641","OH",39,157,"Tuscarawas County, Ohio",91694
+"22642","OH",39,159,"Union County, Ohio",50228
+"22643","OH",39,161,"Van Wert County, Ohio",28295
+"22644","OH",39,163,"Vinton County, Ohio",13161
+"22645","OH",39,165,"Warren County, Ohio",213931
+"22646","OH",39,167,"Washington County, Ohio",60682
+"22647","OH",39,169,"Wayne County, Ohio",114292
+"22648","OH",39,171,"Williams County, Ohio",36246
+"22649","OH",39,173,"Wood County, Ohio",127646
+"22650","OH",39,175,"Wyandot County, Ohio",22203
+"23941","OK",40,1,"Adair County, Oklahoma",22137
+"23942","OK",40,3,"Alfalfa County, Oklahoma",4722
+"23943","OK",40,5,"Atoka County, Oklahoma",12472
+"23944","OK",40,7,"Beaver County, Oklahoma",5451
+"23945","OK",40,9,"Beckham County, Oklahoma",21633
+"23946","OK",40,11,"Blaine County, Oklahoma",8081
+"23947","OK",40,13,"Bryan County, Oklahoma",43563
+"23948","OK",40,15,"Caddo County, Oklahoma",28250
+"23949","OK",40,17,"Canadian County, Oklahoma",124317
+"23950","OK",40,19,"Carter County, Oklahoma",47815
+"23951","OK",40,21,"Cherokee County, Oklahoma",47520
+"23952","OK",40,23,"Choctaw County, Oklahoma",14942
+"23953","OK",40,25,"Cimarron County, Oklahoma",2318
+"23954","OK",40,27,"Cleveland County, Oklahoma",263176
+"23955","OK",40,29,"Coal County, Oklahoma",5746
+"23956","OK",40,31,"Comanche County, Oklahoma",112215
+"23957","OK",40,33,"Cotton County, Oklahoma",5990
+"23958","OK",40,35,"Craig County, Oklahoma",14004
+"23959","OK",40,37,"Creek County, Oklahoma",69960
+"23960","OK",40,39,"Custer County, Oklahoma",28530
+"23961","OK",40,41,"Delaware County, Oklahoma",41030
+"23962","OK",40,43,"Dewey County, Oklahoma",4759
+"23963","OK",40,45,"Ellis County, Oklahoma",4095
+"23964","OK",40,47,"Garfield County, Oklahoma",60096
+"23965","OK",40,49,"Garvin County, Oklahoma",27215
+"23966","OK",40,51,"Grady County, Oklahoma",53037
+"23967","OK",40,53,"Grant County, Oklahoma",4439
+"23968","OK",40,55,"Greer County, Oklahoma",5041
+"23969","OK",40,57,"Harmon County, Oklahoma",2760
+"23970","OK",40,59,"Harper County, Oklahoma",3750
+"23971","OK",40,61,"Haskell County, Oklahoma",12781
+"23972","OK",40,63,"Hughes County, Oklahoma",12105
+"23973","OK",40,65,"Jackson County, Oklahoma",24460
+"23974","OK",40,67,"Jefferson County, Oklahoma",6189
+"23975","OK",40,69,"Johnston County, Oklahoma",10902
+"23976","OK",40,71,"Kay County, Oklahoma",44921
+"23977","OK",40,73,"Kingfisher County, Oklahoma",15143
+"23978","OK",40,75,"Kiowa County, Oklahoma",9103
+"23979","OK",40,77,"Latimer County, Oklahoma",10566
+"23980","OK",40,79,"Le Flore County, Oklahoma",48745
+"23981","OK",40,81,"Lincoln County, Oklahoma",34103
+"23982","OK",40,83,"Logan County, Oklahoma",44138
+"23983","OK",40,85,"Love County, Oklahoma",9578
+"23984","OK",40,87,"McClain County, Oklahoma",36235
+"23985","OK",40,89,"McCurtain County, Oklahoma",32725
+"23986","OK",40,91,"McIntosh County, Oklahoma",19972
+"23987","OK",40,93,"Major County, Oklahoma",7636
+"23988","OK",40,95,"Marshall County, Oklahoma",15782
+"23989","OK",40,97,"Mayes County, Oklahoma",40570
+"23990","OK",40,99,"Murray County, Oklahoma",13324
+"23991","OK",40,101,"Muskogee County, Oklahoma",67393
+"23992","OK",40,103,"Noble County, Oklahoma",11406
+"23993","OK",40,105,"Nowata County, Oklahoma",10351
+"23994","OK",40,107,"Okfuskee County, Oklahoma",11348
+"23995","OK",40,109,"Oklahoma County, Oklahoma",742083
+"23996","OK",40,111,"Okmulgee County, Oklahoma",38801
+"23997","OK",40,113,"Osage County, Oklahoma",46626
+"23998","OK",40,115,"Ottawa County, Oklahoma",31642
+"23999","OK",40,117,"Pawnee County, Oklahoma",16343
+"24000","OK",40,119,"Payne County, Oklahoma",78326
+"24001","OK",40,121,"Pittsburg County, Oklahoma",43047
+"24002","OK",40,123,"Pontotoc County, Oklahoma",37600
+"24003","OK",40,125,"Pottawatomie County, Oklahoma",68859
+"24004","OK",40,127,"Pushmataha County, Oklahoma",11097
+"24005","OK",40,129,"Roger Mills County, Oklahoma",3757
+"24006","OK",40,131,"Rogers County, Oklahoma",88221
+"24007","OK",40,133,"Seminole County, Oklahoma",25041
+"24008","OK",40,135,"Sequoyah County, Oklahoma",41092
+"24009","OK",40,137,"Stephens County, Oklahoma",44204
+"24010","OK",40,139,"Texas County, Oklahoma",21458
+"24011","OK",40,141,"Tillman County, Oklahoma",7350
+"24012","OK",40,143,"Tulsa County, Oklahoma",618184
+"24013","OK",40,145,"Wagoner County, Oklahoma",75082
+"24014","OK",40,147,"Washington County, Oklahoma",51358
+"24015","OK",40,149,"Washita County, Oklahoma",11426
+"24016","OK",40,151,"Woods County, Oklahoma",8321
+"24017","OK",40,153,"Woodward County, Oklahoma",19966
+"24800","OR",41,1,"Baker County, Oregon",15537
+"24801","OR",41,3,"Benton County, Oregon",86245
+"24802","OR",41,5,"Clackamas County, Oregon",387875
+"24803","OR",41,7,"Clatsop County, Oregon",36606
+"24804","OR",41,9,"Columbia County, Oregon",49067
+"24805","OR",41,11,"Coos County, Oregon",61828
+"24806","OR",41,13,"Crook County, Oregon",20874
+"24807","OR",41,15,"Curry County, Oregon",22194
+"24808","OR",41,17,"Deschutes County, Oregon",165943
+"24809","OR",41,19,"Douglas County, Oregon",106547
+"24810","OR",41,21,"Gilliam County, Oregon",1870
+"24811","OR",41,23,"Grant County, Oregon",7142
+"24812","OR",41,25,"Harney County, Oregon",7123
+"24813","OR",41,27,"Hood River County, Oregon",22668
+"24814","OR",41,29,"Jackson County, Oregon",207284
+"24815","OR",41,31,"Jefferson County, Oregon",21300
+"24816","OR",41,33,"Josephine County, Oregon",82741
+"24817","OR",41,35,"Klamath County, Oregon",65452
+"24818","OR",41,37,"Lake County, Oregon",7361
+"24819","OR",41,39,"Lane County, Oregon",355540
+"24820","OR",41,41,"Lincoln County, Oregon",46066
+"24821","OR",41,43,"Linn County, Oregon",118233
+"24822","OR",41,45,"Malheur County, Oregon",27201
+"24823","OR",41,47,"Marion County, Oregon",317324
+"24824","OR",41,49,"Morrow County, Oregon",11196
+"24825","OR",41,51,"Multnomah County, Oregon",763208
+"24826","OR",41,53,"Polk County, Oregon",76884
+"24827","OR",41,55,"Sherman County, Oregon",1795
+"24828","OR",41,57,"Tillamook County, Oregon",24767
+"24829","OR",41,59,"Umatilla County, Oregon",72571
+"24830","OR",41,61,"Union County, Oregon",25457
+"24831","OR",41,63,"Wallowa County, Oregon",6763
+"24832","OR",41,65,"Wasco County, Oregon",25061
+"24833","OR",41,67,"Washington County, Oregon",552724
+"24834","OR",41,69,"Wheeler County, Oregon",1339
+"24835","OR",41,71,"Yamhill County, Oregon",98985
+"25250","PA",42,1,"Adams County, Pennsylvania",100449
+"25251","PA",42,3,"Allegheny County, Pennsylvania",1217037
+"25252","PA",42,5,"Armstrong County, Pennsylvania",67441
+"25253","PA",42,7,"Beaver County, Pennsylvania",168481
+"25254","PA",42,9,"Bedford County, Pennsylvania",48542
+"25255","PA",42,11,"Berks County, Pennsylvania",409151
+"25256","PA",42,13,"Blair County, Pennsylvania",124863
+"25257","PA",42,15,"Bradford County, Pennsylvania",61608
+"25258","PA",42,17,"Bucks County, Pennsylvania",620447
+"25259","PA",42,19,"Butler County, Pennsylvania",183650
+"25260","PA",42,21,"Cambria County, Pennsylvania",134825
+"25261","PA",42,23,"Cameron County, Pennsylvania",4824
+"25262","PA",42,25,"Carbon County, Pennsylvania",63824
+"25263","PA",42,27,"Centre County, Pennsylvania",154387
+"25264","PA",42,29,"Chester County, Pennsylvania",504927
+"25265","PA",42,31,"Clarion County, Pennsylvania",39031
+"25266","PA",42,33,"Clearfield County, Pennsylvania",75991
+"25267","PA",42,35,"Clinton County, Pennsylvania",39007
+"25268","PA",42,37,"Columbia County, Pennsylvania",66142
+"25269","PA",42,39,"Crawford County, Pennsylvania",85757
+"25270","PA",42,41,"Cumberland County, Pennsylvania",235088
+"25271","PA",42,43,"Dauphin County, Pennsylvania",267726
+"25272","PA",42,45,"Delaware County, Pennsylvania",554295
+"25273","PA",42,47,"Elk County, Pennsylvania",31047
+"25274","PA",42,49,"Erie County, Pennsylvania",274610
+"25275","PA",42,51,"Fayette County, Pennsylvania",131487
+"25276","PA",42,53,"Forest County, Pennsylvania",3669
+"25277","PA",42,55,"Franklin County, Pennsylvania",150972
+"25278","PA",42,57,"Fulton County, Pennsylvania",14650
+"25279","PA",42,59,"Greene County, Pennsylvania",34534
+"25280","PA",42,61,"Huntingdon County, Pennsylvania",42051
+"25281","PA",42,63,"Indiana County, Pennsylvania",86342
+"25282","PA",42,65,"Jefferson County, Pennsylvania",44211
+"25283","PA",42,67,"Juniata County, Pennsylvania",24561
+"25284","PA",42,69,"Lackawanna County, Pennsylvania",209690
+"25285","PA",42,71,"Lancaster County, Pennsylvania",523210
+"25286","PA",42,73,"Lawrence County, Pennsylvania",88121
+"25287","PA",42,75,"Lebanon County, Pennsylvania",134099
+"25288","PA",42,77,"Lehigh County, Pennsylvania",351921
+"25289","PA",42,79,"Luzerne County, Pennsylvania",312373
+"25290","PA",42,81,"Lycoming County, Pennsylvania",113522
+"25291","PA",42,83,"McKean County, Pennsylvania",40779
+"25292","PA",42,85,"Mercer County, Pennsylvania",111383
+"25293","PA",42,87,"Mifflin County, Pennsylvania",46117
+"25294","PA",42,89,"Monroe County, Pennsylvania",166883
+"25295","PA",42,91,"Montgomery County, Pennsylvania",799584
+"25296","PA",42,93,"Montour County, Pennsylvania",17899
+"25297","PA",42,95,"Northampton County, Pennsylvania",296646
+"25298","PA",42,97,"Northumberland County, Pennsylvania",89465
+"25299","PA",42,99,"Perry County, Pennsylvania",45172
+"25300","PA",42,101,"Philadelphia County, Pennsylvania",1540765
+"25301","PA",42,103,"Pike County, Pennsylvania",56218
+"25302","PA",42,105,"Potter County, Pennsylvania",17146
+"25303","PA",42,107,"Schuylkill County, Pennsylvania",139640
+"25304","PA",42,109,"Snyder County, Pennsylvania",39724
+"25305","PA",42,111,"Somerset County, Pennsylvania",71889
+"25306","PA",42,113,"Sullivan County, Pennsylvania",6191
+"25307","PA",42,115,"Susquehanna County, Pennsylvania",42064
+"25308","PA",42,117,"Tioga County, Pennsylvania",41871
+"25309","PA",42,119,"Union County, Pennsylvania",39395
+"25310","PA",42,121,"Venango County, Pennsylvania",53146
+"25311","PA",42,123,"Warren County, Pennsylvania",40254
+"25312","PA",42,125,"Washington County, Pennsylvania",206574
+"25313","PA",42,127,"Wayne County, Pennsylvania",48062
+"25314","PA",42,129,"Westmoreland County, Pennsylvania",356931
+"25315","PA",42,131,"Wyoming County, Pennsylvania",27903
+"25316","PA",42,133,"York County, Pennsylvania",434824
+"27145","PR",72,1,"Adjuntas Municipio, Puerto Rico",18917
+"27146","PR",72,3,"Aguada Municipio, Puerto Rico",40566
+"27147","PR",72,5,"Aguadilla Municipio, Puerto Rico",56461
+"27148","PR",72,7,"Aguas Buenas Municipio, Puerto Rico",27611
+"27149","PR",72,9,"Aibonito Municipio, Puerto Rico",24819
+"27150","PR",72,11,"Añasco Municipio, Puerto Rico",28507
+"27151","PR",72,13,"Arecibo Municipio, Puerto Rico",91222
+"27152","PR",72,15,"Arroyo Municipio, Puerto Rico",19007
+"27153","PR",72,17,"Barceloneta Municipio, Puerto Rico",24744
+"27154","PR",72,19,"Barranquitas Municipio, Puerto Rico",29730
+"27155","PR",72,21,"Bayamón Municipio, Puerto Rico",191952
+"27156","PR",72,23,"Cabo Rojo Municipio, Puerto Rico",50282
+"27157","PR",72,25,"Caguas Municipio, Puerto Rico",137787
+"27158","PR",72,27,"Camuy Municipio, Puerto Rico",33924
+"27159","PR",72,29,"Canóvanas Municipio, Puerto Rico",47370
+"27160","PR",72,31,"Carolina Municipio, Puerto Rico",167482
+"27161","PR",72,33,"Cataño Municipio, Puerto Rico",26680
+"27162","PR",72,35,"Cayey Municipio, Puerto Rico",46608
+"27163","PR",72,37,"Ceiba Municipio, Puerto Rico",12807
+"27164","PR",72,39,"Ciales Municipio, Puerto Rico",17912
+"27165","PR",72,41,"Cidra Municipio, Puerto Rico",42152
+"27166","PR",72,43,"Coamo Municipio, Puerto Rico",40220
+"27167","PR",72,45,"Comerío Municipio, Puerto Rico",20339
+"27168","PR",72,47,"Corozal Municipio, Puerto Rico",35755
+"27169","PR",72,49,"Culebra Municipio, Puerto Rico",1557
+"27170","PR",72,51,"Dorado Municipio, Puerto Rico",38052
+"27171","PR",72,53,"Fajardo Municipio, Puerto Rico",34481
+"27172","PR",72,54,"Florida Municipio, Puerto Rico",12395
+"27173","PR",72,55,"Guánica Municipio, Puerto Rico",18200
+"27174","PR",72,57,"Guayama Municipio, Puerto Rico",41702
+"27175","PR",72,59,"Guayanilla Municipio, Puerto Rico",20394
+"27176","PR",72,61,"Guaynabo Municipio, Puerto Rico",93634
+"27177","PR",72,63,"Gurabo Municipio, Puerto Rico",46569
+"27178","PR",72,65,"Hatillo Municipio, Puerto Rico",41545
+"27179","PR",72,67,"Hormigueros Municipio, Puerto Rico",16719
+"27180","PR",72,69,"Humacao Municipio, Puerto Rico",55915
+"27181","PR",72,71,"Isabela Municipio, Puerto Rico",44216
+"27182","PR",72,73,"Jayuya Municipio, Puerto Rico",15702
+"27183","PR",72,75,"Juana Díaz Municipio, Puerto Rico",48829
+"27184","PR",72,77,"Juncos Municipio, Puerto Rico",40049
+"27185","PR",72,79,"Lajas Municipio, Puerto Rico",24685
+"27186","PR",72,81,"Lares Municipio, Puerto Rico",28515
+"27187","PR",72,83,"Las Marías Municipio, Puerto Rico",9237
+"27188","PR",72,85,"Las Piedras Municipio, Puerto Rico",38539
+"27189","PR",72,87,"Loíza Municipio, Puerto Rico",28429
+"27190","PR",72,89,"Luquillo Municipio, Puerto Rico",19414
+"27191","PR",72,91,"Manatí Municipio, Puerto Rico",41741
+"27192","PR",72,93,"Maricao Municipio, Puerto Rico",6315
+"27193","PR",72,95,"Maunabo Municipio, Puerto Rico",11696
+"27194","PR",72,97,"Mayagüez Municipio, Puerto Rico",82759
+"27195","PR",72,99,"Moca Municipio, Puerto Rico",38600
+"27196","PR",72,101,"Morovis Municipio, Puerto Rico",32278
+"27197","PR",72,103,"Naguabo Municipio, Puerto Rico",26769
+"27198","PR",72,105,"Naranjito Municipio, Puerto Rico",29698
+"27199","PR",72,107,"Orocovis Municipio, Puerto Rico",22490
+"27200","PR",72,109,"Patillas Municipio, Puerto Rico",18441
+"27201","PR",72,111,"Peñuelas Municipio, Puerto Rico",22734
+"27202","PR",72,113,"Ponce Municipio, Puerto Rico",153432
+"27203","PR",72,115,"Quebradillas Municipio, Puerto Rico",25199
+"27204","PR",72,117,"Rincón Municipio, Puerto Rico",14804
+"27205","PR",72,119,"Río Grande Municipio, Puerto Rico",52084
+"27206","PR",72,121,"Sabana Grande Municipio, Puerto Rico",24201
+"27207","PR",72,123,"Salinas Municipio, Puerto Rico",29906
+"27208","PR",72,125,"San Germán Municipio, Puerto Rico",34038
+"27209","PR",72,127,"San Juan Municipio, Puerto Rico",367929
+"27210","PR",72,129,"San Lorenzo Municipio, Puerto Rico",39713
+"27211","PR",72,131,"San Sebastián Municipio, Puerto Rico",40361
+"27212","PR",72,133,"Santa Isabel Municipio, Puerto Rico",22890
+"27213","PR",72,135,"Toa Alta Municipio, Puerto Rico",74526
+"27214","PR",72,137,"Toa Baja Municipio, Puerto Rico",85054
+"27215","PR",72,139,"Trujillo Alto Municipio, Puerto Rico",71596
+"27216","PR",72,141,"Utuado Municipio, Puerto Rico",31454
+"27217","PR",72,143,"Vega Alta Municipio, Puerto Rico",38556
+"27218","PR",72,145,"Vega Baja Municipio, Puerto Rico",56683
+"27219","PR",72,147,"Vieques Municipio, Puerto Rico",9130
+"27220","PR",72,149,"Villalba Municipio, Puerto Rico",24480
+"27221","PR",72,151,"Yabucoa Municipio, Puerto Rico",36199
+"27222","PR",72,153,"Yauco Municipio, Puerto Rico",39211
+"27496","RI",44,1,"Bristol County, Rhode Island",48507
+"27497","RI",44,3,"Kent County, Rhode Island",163548
+"27498","RI",44,5,"Newport County, Rhode Island",79904
+"27499","RI",44,7,"Providence County, Rhode Island",620609
+"27500","RI",44,9,"Washington County, Rhode Island",125362
+"27552","SC",45,1,"Abbeville County, South Carolina",24801
+"27553","SC",45,3,"Aiken County, South Carolina",162139
+"27554","SC",45,5,"Allendale County, South Carolina",8757
+"27555","SC",45,7,"Anderson County, South Carolina",189921
+"27556","SC",45,9,"Bamberg County, South Carolina",15271
+"27557","SC",45,11,"Barnwell County, South Carolina",21806
+"27558","SC",45,13,"Beaufort County, South Carolina",163892
+"27559","SC",45,15,"Berkeley County, South Carolina",188037
+"27560","SC",45,17,"Calhoun County, South Carolina",14838
+"27561","SC",45,19,"Charleston County, South Carolina",365883
+"27562","SC",45,21,"Cherokee County, South Carolina",55514
+"27563","SC",45,23,"Chester County, South Carolina",32349
+"27564","SC",45,25,"Chesterfield County, South Carolina",45727
+"27565","SC",45,27,"Clarendon County, South Carolina",32587
+"27566","SC",45,29,"Colleton County, South Carolina",37414
+"27567","SC",45,31,"Darlington County, South Carolina",67166
+"27568","SC",45,33,"Dillon County, South Carolina",31060
+"27569","SC",45,35,"Dorchester County, South Carolina",142852
+"27570","SC",45,37,"Edgefield County, South Carolina",23791
+"27571","SC",45,39,"Fairfield County, South Carolina",22777
+"27572","SC",45,41,"Florence County, South Carolina",136742
+"27573","SC",45,43,"Georgetown County, South Carolina",59938
+"27574","SC",45,45,"Greenville County, South Carolina",470429
+"27575","SC",45,47,"Greenwood County, South Carolina",68496
+"27576","SC",45,49,"Hampton County, South Carolina",19094
+"27577","SC",45,51,"Horry County, South Carolina",289466
+"27578","SC",45,53,"Jasper County, South Carolina",25872
+"27579","SC",45,55,"Kershaw County, South Carolina",62171
+"27580","SC",45,57,"Lancaster County, South Carolina",79423
+"27581","SC",45,59,"Laurens County, South Carolina",65194
+"27582","SC",45,61,"Lee County, South Carolina",16853
+"27583","SC",45,63,"Lexington County, South Carolina",270767
+"27584","SC",45,65,"McCormick County, South Carolina",8621
+"27585","SC",45,67,"Marion County, South Carolina",31964
+"27586","SC",45,69,"Marlboro County, South Carolina",24891
+"27587","SC",45,71,"Newberry County, South Carolina",37183
+"27588","SC",45,73,"Oconee County, South Carolina",74384
+"27589","SC",45,75,"Orangeburg County, South Carolina",89850
+"27590","SC",45,77,"Pickens County, South Carolina",119389
+"27591","SC",45,79,"Richland County, South Carolina",373652
+"27592","SC",45,81,"Saluda County, South Carolina",19822
+"27593","SC",45,83,"Spartanburg County, South Carolina",287075
+"27594","SC",45,85,"Sumter County, South Carolina",103948
+"27595","SC",45,87,"Union County, South Carolina",27652
+"27596","SC",45,89,"Williamsburg County, South Carolina",31411
+"27597","SC",45,91,"York County, South Carolina",238627
+"28030","SD",46,3,"Aurora County, South Dakota",2611
+"28031","SD",46,5,"Beadle County, South Dakota",17861
+"28032","SD",46,7,"Bennett County, South Dakota",3398
+"28033","SD",46,9,"Bon Homme County, South Dakota",5582
+"28034","SD",46,11,"Brookings County, South Dakota",32914
+"28035","SD",46,13,"Brown County, South Dakota",37510
+"28036","SD",46,15,"Brule County, South Dakota",5190
+"28037","SD",46,17,"Buffalo County, South Dakota",2038
+"28038","SD",46,19,"Butte County, South Dakota",10160
+"28039","SD",46,21,"Campbell County, South Dakota",1548
+"28040","SD",46,23,"Charles Mix County, South Dakota",9006
+"28041","SD",46,25,"Clark County, South Dakota",3561
+"28042","SD",46,27,"Clay County, South Dakota",13803
+"28043","SD",46,29,"Codington County, South Dakota",27448
+"28044","SD",46,31,"Corson County, South Dakota",4149
+"28045","SD",46,33,"Custer County, South Dakota",8088
+"28046","SD",46,35,"Davison County, South Dakota",19408
+"28047","SD",46,37,"Day County, South Dakota",5458
+"28048","SD",46,39,"Deuel County, South Dakota",4273
+"28049","SD",46,41,"Dewey County, South Dakota",5534
+"28050","SD",46,43,"Douglas County, South Dakota",2877
+"28051","SD",46,45,"Edmunds County, South Dakota",3897
+"28052","SD",46,47,"Fall River County, South Dakota",6703
+"28053","SD",46,49,"Faulk County, South Dakota",2304
+"28054","SD",46,51,"Grant County, South Dakota",7180
+"28055","SD",46,53,"Gregory County, South Dakota",4176
+"28056","SD",46,55,"Haakon County, South Dakota",2044
+"28057","SD",46,57,"Hamlin County, South Dakota",5841
+"28058","SD",46,59,"Hand County, South Dakota",3320
+"28059","SD",46,61,"Hanson County, South Dakota",3383
+"28060","SD",46,63,"Harding County, South Dakota",1305
+"28061","SD",46,65,"Hughes County, South Dakota",16493
+"28062","SD",46,67,"Hutchinson County, South Dakota",6983
+"28063","SD",46,69,"Hyde County, South Dakota",1376
+"28064","SD",46,71,"Jackson County, South Dakota",3194
+"28065","SD",46,73,"Jerauld County, South Dakota",1990
+"28066","SD",46,75,"Jones County, South Dakota",781
+"28067","SD",46,77,"Kingsbury County, South Dakota",5019
+"28068","SD",46,79,"Lake County, South Dakota",11936
+"28069","SD",46,81,"Lawrence County, South Dakota",24398
+"28070","SD",46,83,"Lincoln County, South Dakota",49595
+"28071","SD",46,85,"Lyman County, South Dakota",3815
+"28072","SD",46,87,"McCook County, South Dakota",5464
+"28073","SD",46,89,"McPherson County, South Dakota",2175
+"28074","SD",46,91,"Marshall County, South Dakota",4636
+"28075","SD",46,93,"Meade County, South Dakota",25065
+"28076","SD",46,95,"Mellette County, South Dakota",2052
+"28077","SD",46,97,"Miner County, South Dakota",2264
+"28078","SD",46,99,"Minnehaha County, South Dakota",176195
+"28079","SD",46,101,"Moody County, South Dakota",6383
+"28080","SD",46,102,"Oglala Lakota County, South Dakota",14133
+"28081","SD",46,103,"Pennington County, South Dakota",103140
+"28082","SD",46,105,"Perkins County, South Dakota",2936
+"28083","SD",46,107,"Potter County, South Dakota",2231
+"28084","SD",46,109,"Roberts County, South Dakota",10120
+"28085","SD",46,111,"Sanborn County, South Dakota",2285
+"28086","SD",46,115,"Spink County, South Dakota",6420
+"28087","SD",46,117,"Stanley County, South Dakota",2962
+"28088","SD",46,119,"Sully County, South Dakota",1469
+"28089","SD",46,121,"Todd County, South Dakota",9903
+"28090","SD",46,123,"Tripp County, South Dakota",5360
+"28091","SD",46,125,"Turner County, South Dakota",8145
+"28092","SD",46,127,"Union County, South Dakota",14722
+"28093","SD",46,129,"Walworth County, South Dakota",5317
+"28094","SD",46,135,"Yankton County, South Dakota",21146
+"28095","SD",46,137,"Ziebach County, South Dakota",2833
+"28512","TN",47,1,"Anderson County, Tennessee",74596
+"28513","TN",47,3,"Bedford County, Tennessee",45593
+"28514","TN",47,5,"Benton County, Tennessee",16100
+"28515","TN",47,7,"Bledsoe County, Tennessee",12463
+"28516","TN",47,9,"Blount County, Tennessee",124016
+"28517","TN",47,11,"Bradley County, Tennessee",101133
+"28518","TN",47,13,"Campbell County, Tennessee",39650
+"28519","TN",47,15,"Cannon County, Tennessee",13619
+"28520","TN",47,17,"Carroll County, Tennessee",27872
+"28521","TN",47,19,"Carter County, Tennessee",55874
+"28522","TN",47,21,"Cheatham County, Tennessee",39103
+"28523","TN",47,23,"Chester County, Tennessee",17248
+"28524","TN",47,25,"Claiborne County, Tennessee",31218
+"28525","TN",47,27,"Clay County, Tennessee",7687
+"28526","TN",47,29,"Cocke County, Tennessee",35031
+"28527","TN",47,31,"Coffee County, Tennessee",52868
+"28528","TN",47,33,"Crockett County, Tennessee",14387
+"28529","TN",47,35,"Cumberland County, Tennessee",56807
+"28530","TN",47,37,"Davidson County, Tennessee",650581
+"28531","TN",47,39,"Decatur County, Tennessee",11459
+"28532","TN",47,41,"DeKalb County, Tennessee",18791
+"28533","TN",47,43,"Dickson County, Tennessee",49955
+"28534","TN",47,45,"Dyer County, Tennessee",37515
+"28535","TN",47,47,"Fayette County, Tennessee",38379
+"28536","TN",47,49,"Fentress County, Tennessee",17696
+"28537","TN",47,51,"Franklin County, Tennessee",40788
+"28538","TN",47,53,"Gibson County, Tennessee",48521
+"28539","TN",47,55,"Giles County, Tennessee",28560
+"28540","TN",47,57,"Grainger County, Tennessee",22590
+"28541","TN",47,59,"Greene County, Tennessee",67397
+"28542","TN",47,61,"Grundy County, Tennessee",13338
+"28543","TN",47,63,"Hamblen County, Tennessee",62258
+"28544","TN",47,65,"Hamilton County, Tennessee",344364
+"28545","TN",47,67,"Hancock County, Tennessee",6479
+"28546","TN",47,69,"Hardeman County, Tennessee",22802
+"28547","TN",47,71,"Hardin County, Tennessee",25508
+"28548","TN",47,73,"Hawkins County, Tennessee",56027
+"28549","TN",47,75,"Haywood County, Tennessee",18015
+"28550","TN",47,77,"Henderson County, Tennessee",27739
+"28551","TN",47,79,"Henry County, Tennessee",31727
+"28552","TN",47,81,"Hickman County, Tennessee",22813
+"28553","TN",47,83,"Houston County, Tennessee",8097
+"28554","TN",47,85,"Humphreys County, Tennessee",18027
+"28555","TN",47,87,"Jackson County, Tennessee",11318
+"28556","TN",47,89,"Jefferson County, Tennessee",51725
+"28557","TN",47,91,"Johnson County, Tennessee",16192
+"28558","TN",47,93,"Knox County, Tennessee",440820
+"28559","TN",47,95,"Lake County, Tennessee",4981
+"28560","TN",47,97,"Lauderdale County, Tennessee",24557
+"28561","TN",47,99,"Lawrence County, Tennessee",41783
+"28562","TN",47,101,"Lewis County, Tennessee",11710
+"28563","TN",47,103,"Lincoln County, Tennessee",33176
+"28564","TN",47,105,"Loudon County, Tennessee",49828
+"28565","TN",47,107,"McMinn County, Tennessee",51683
+"28566","TN",47,109,"McNairy County, Tennessee",25751
+"28567","TN",47,111,"Macon County, Tennessee",22441
+"28568","TN",47,113,"Madison County, Tennessee",97034
+"28569","TN",47,115,"Marion County, Tennessee",27991
+"28570","TN",47,117,"Marshall County, Tennessee",30836
+"28571","TN",47,119,"Maury County, Tennessee",82911
+"28572","TN",47,121,"Meigs County, Tennessee",11575
+"28573","TN",47,123,"Monroe County, Tennessee",44782
+"28574","TN",47,125,"Montgomery County, Tennessee",172586
+"28575","TN",47,127,"Moore County, Tennessee",6257
+"28576","TN",47,129,"Morgan County, Tennessee",18563
+"28577","TN",47,131,"Obion County, Tennessee",30710
+"28578","TN",47,133,"Overton County, Tennessee",21805
+"28579","TN",47,135,"Perry County, Tennessee",7731
+"28580","TN",47,137,"Pickett County, Tennessee",5005
+"28581","TN",47,139,"Polk County, Tennessee",16450
+"28582","TN",47,141,"Putnam County, Tennessee",73034
+"28583","TN",47,143,"Rhea County, Tennessee",32021
+"28584","TN",47,145,"Roane County, Tennessee",52611
+"28585","TN",47,147,"Robertson County, Tennessee",66647
+"28586","TN",47,149,"Rutherford County, Tennessee",280190
+"28587","TN",47,151,"Scott County, Tennessee",21736
+"28588","TN",47,153,"Sequatchie County, Tennessee",14371
+"28589","TN",47,155,"Sevier County, Tennessee",92740
+"28590","TN",47,157,"Shelby County, Tennessee",925427
+"28591","TN",47,159,"Smith County, Tennessee",18891
+"28592","TN",47,161,"Stewart County, Tennessee",13096
+"28593","TN",47,163,"Sullivan County, Tennessee",155057
+"28594","TN",47,165,"Sumner County, Tennessee",168087
+"28595","TN",47,167,"Tipton County, Tennessee",60770
+"28596","TN",47,169,"Trousdale County, Tennessee",7742
+"28597","TN",47,171,"Unicoi County, Tennessee",17734
+"28598","TN",47,173,"Union County, Tennessee",18935
+"28599","TN",47,175,"Van Buren County, Tennessee",5495
+"28600","TN",47,177,"Warren County, Tennessee",39483
+"28601","TN",47,179,"Washington County, Tennessee",123533
+"28602","TN",47,181,"Wayne County, Tennessee",14789
+"28603","TN",47,183,"Weakley County, Tennessee",33955
+"28604","TN",47,185,"White County, Tennessee",25845
+"28605","TN",47,187,"Williamson County, Tennessee",198893
+"28606","TN",47,189,"Wilson County, Tennessee",121457
+"29083","TX",48,1,"Anderson County, Texas",44901
+"29084","TX",48,3,"Andrews County, Texas",16683
+"29085","TX",48,5,"Angelina County, Texas",85572
+"29086","TX",48,7,"Aransas County, Texas",23866
+"29087","TX",48,9,"Archer County, Texas",8708
+"29088","TX",48,11,"Armstrong County, Texas",1878
+"29089","TX",48,13,"Atascosa County, Texas",46593
+"29090","TX",48,15,"Austin County, Texas",28641
+"29091","TX",48,17,"Bailey County, Texas",6996
+"29092","TX",48,19,"Bandera County, Texas",20602
+"29093","TX",48,21,"Bastrop County, Texas",74866
+"29094","TX",48,23,"Baylor County, Texas",3555
+"29095","TX",48,25,"Bee County, Texas",25088
+"29096","TX",48,27,"Bell County, Texas",303696
+"29097","TX",48,29,"Bexar County, Texas",1793642
+"29098","TX",48,31,"Blanco County, Texas",10611
+"29099","TX",48,33,"Borden County, Texas",705
+"29100","TX",48,35,"Bosque County, Texas",17623
+"29101","TX",48,37,"Bowie County, Texas",87842
+"29102","TX",48,39,"Brazoria County, Texas",321393
+"29103","TX",48,41,"Brazos County, Texas",201420
+"29104","TX",48,43,"Brewster County, Texas",9153
+"29105","TX",48,45,"Briscoe County, Texas",1670
+"29106","TX",48,47,"Brooks County, Texas",6898
+"29107","TX",48,49,"Brown County, Texas",36802
+"29108","TX",48,51,"Burleson County, Texas",17120
+"29109","TX",48,53,"Burnet County, Texas",43830
+"29110","TX",48,55,"Caldwell County, Texas",37433
+"29111","TX",48,57,"Calhoun County, Texas",21472
+"29112","TX",48,59,"Callahan County, Texas",13451
+"29113","TX",48,61,"Cameron County, Texas",415215
+"29114","TX",48,63,"Camp County, Texas",12448
+"29115","TX",48,65,"Carson County, Texas",6020
+"29116","TX",48,67,"Cass County, Texas",29920
+"29117","TX",48,69,"Castro County, Texas",7858
+"29118","TX",48,71,"Chambers County, Texas",37046
+"29119","TX",48,73,"Cherokee County, Texas",48955
+"29120","TX",48,75,"Childress County, Texas",5823
+"29121","TX",48,77,"Clay County, Texas",10403
+"29122","TX",48,79,"Cochran County, Texas",2949
+"29123","TX",48,81,"Coke County, Texas",3121
+"29124","TX",48,83,"Coleman County, Texas",8499
+"29125","TX",48,85,"Collin County, Texas",859074
+"29126","TX",48,87,"Collingsworth County, Texas",2996
+"29127","TX",48,89,"Colorado County, Texas",20417
+"29128","TX",48,91,"Comal County, Texas",118666
+"29129","TX",48,93,"Comanche County, Texas",13429
+"29130","TX",48,95,"Concho County, Texas",2685
+"29131","TX",48,97,"Cooke County, Texas",38252
+"29132","TX",48,99,"Coryell County, Texas",58975
+"29133","TX",48,101,"Cottle County, Texas",1510
+"29134","TX",48,103,"Crane County, Texas",4636
+"29135","TX",48,105,"Crockett County, Texas",3619
+"29136","TX",48,107,"Crosby County, Texas",5916
+"29137","TX",48,109,"Culberson County, Texas",2283
+"29138","TX",48,111,"Dallam County, Texas",6975
+"29139","TX",48,113,"Dallas County, Texas",2464732
+"29140","TX",48,115,"Dawson County, Texas",11622
+"29141","TX",48,117,"Deaf Smith County, Texas",19058
+"29142","TX",48,119,"Delta County, Texas",5152
+"29143","TX",48,121,"Denton County, Texas",727409
+"29144","TX",48,123,"DeWitt County, Texas",18776
+"29145","TX",48,125,"Dickens County, Texas",2077
+"29146","TX",48,127,"Dimmit County, Texas",10587
+"29147","TX",48,129,"Donley County, Texas",3540
+"29148","TX",48,131,"Duval County, Texas",11046
+"29149","TX",48,133,"Eastland County, Texas",18060
+"29150","TX",48,135,"Ector County, Texas",148173
+"29151","TX",48,137,"Edwards County, Texas",1894
+"29152","TX",48,139,"Ellis County, Texas",155792
+"29153","TX",48,141,"El Paso County, Texas",804897
+"29154","TX",48,143,"Erath County, Texas",39547
+"29155","TX",48,145,"Falls County, Texas",15532
+"29156","TX",48,147,"Fannin County, Texas",30827
+"29157","TX",48,149,"Fayette County, Texas",24428
+"29158","TX",48,151,"Fisher County, Texas",3834
+"29159","TX",48,153,"Floyd County, Texas",6129
+"29160","TX",48,155,"Foard County, Texas",1164
+"29161","TX",48,157,"Fort Bend County, Texas",653193
+"29162","TX",48,159,"Franklin County, Texas",10485
+"29163","TX",48,161,"Freestone County, Texas",18067
+"29164","TX",48,163,"Frio County, Texas",15055
+"29165","TX",48,165,"Gaines County, Texas",18808
+"29166","TX",48,167,"Galveston County, Texas",303734
+"29167","TX",48,169,"Garza County, Texas",4154
+"29168","TX",48,171,"Gillespie County, Texas",25005
+"29169","TX",48,173,"Glasscock County, Texas",1180
+"29170","TX",48,175,"Goliad County, Texas",7293
+"29171","TX",48,177,"Gonzales County, Texas",19883
+"29172","TX",48,179,"Gray County, Texas",21337
+"29173","TX",48,181,"Grayson County, Texas",121443
+"29174","TX",48,183,"Gregg County, Texas",121269
+"29175","TX",48,185,"Grimes County, Texas",23710
+"29176","TX",48,187,"Guadalupe County, Texas",141235
+"29177","TX",48,189,"Hale County, Texas",33432
+"29178","TX",48,191,"Hall County, Texas",3145
+"29179","TX",48,193,"Hamilton County, Texas",8032
+"29180","TX",48,195,"Hansford County, Texas",5489
+"29181","TX",48,197,"Hardeman County, Texas",3980
+"29182","TX",48,199,"Hardin County, Texas",54935
+"29183","TX",48,201,"Harris County, Texas",4335831
+"29184","TX",48,203,"Harrison County, Texas",65766
+"29185","TX",48,205,"Hartley County, Texas",4624
+"29186","TX",48,207,"Haskell County, Texas",5021
+"29187","TX",48,209,"Hays County, Texas",175818
+"29188","TX",48,211,"Hemphill County, Texas",4063
+"29189","TX",48,213,"Henderson County, Texas",78125
+"29190","TX",48,215,"Hidalgo County, Texas",811347
+"29191","TX",48,217,"Hill County, Texas",34256
+"29192","TX",48,219,"Hockley County, Texas",23173
+"29193","TX",48,221,"Hood County, Texas",52422
+"29194","TX",48,223,"Hopkins County, Texas",35207
+"29195","TX",48,225,"Houston County, Texas",19766
+"29196","TX",48,227,"Howard County, Texas",30882
+"29197","TX",48,229,"Hudspeth County, Texas",2959
+"29198","TX",48,231,"Hunt County, Texas",87220
+"29199","TX",48,233,"Hutchinson County, Texas",21700
+"29200","TX",48,235,"Irion County, Texas",1642
+"29201","TX",48,237,"Jack County, Texas",7733
+"29202","TX",48,239,"Jackson County, Texas",14249
+"29203","TX",48,241,"Jasper County, Texas",34866
+"29204","TX",48,243,"Jeff Davis County, Texas",2169
+"29205","TX",48,245,"Jefferson County, Texas",239027
+"29206","TX",48,247,"Jim Hogg County, Texas",5216
+"29207","TX",48,249,"Jim Wells County, Texas",41061
+"29208","TX",48,251,"Johnson County, Texas",152853
+"29209","TX",48,253,"Jones County, Texas",12532
+"29210","TX",48,255,"Karnes County, Texas",12189
+"29211","TX",48,257,"Kaufman County, Texas",108297
+"29212","TX",48,259,"Kendall County, Texas",36902
+"29213","TX",48,261,"Kenedy County, Texas",565
+"29214","TX",48,263,"Kent County, Texas",771
+"29215","TX",48,265,"Kerr County, Texas",49209
+"29216","TX",48,267,"Kimble County, Texas",4427
+"29217","TX",48,269,"King County, Texas",267
+"29218","TX",48,271,"Kinney County, Texas",3223
+"29219","TX",48,273,"Kleberg County, Texas",31362
+"29220","TX",48,275,"Knox County, Texas",3667
+"29221","TX",48,277,"Lamar County, Texas",48900
+"29222","TX",48,279,"Lamb County, Texas",13540
+"29223","TX",48,281,"Lampasas County, Texas",19729
+"29224","TX",48,283,"La Salle County, Texas",6290
+"29225","TX",48,285,"Lavaca County, Texas",19114
+"29226","TX",48,287,"Lee County, Texas",16176
+"29227","TX",48,289,"Leon County, Texas",16720
+"29228","TX",48,291,"Liberty County, Texas",71431
+"29229","TX",48,293,"Limestone County, Texas",22481
+"29230","TX",48,295,"Lipscomb County, Texas",3438
+"29231","TX",48,297,"Live Oak County, Texas",10284
+"29232","TX",48,299,"Llano County, Texas",19070
+"29233","TX",48,301,"Loving County, Texas",117
+"29234","TX",48,303,"Lubbock County, Texas",286551
+"29235","TX",48,305,"Lynn County, Texas",5733
+"29236","TX",48,307,"McCulloch County, Texas",8146
+"29237","TX",48,309,"McLennan County, Texas",237186
+"29238","TX",48,311,"McMullen County, Texas",778
+"29239","TX",48,313,"Madison County, Texas",9649
+"29240","TX",48,315,"Marion County, Texas",10100
+"29241","TX",48,317,"Martin County, Texas",5187
+"29242","TX",48,319,"Mason County, Texas",4057
+"29243","TX",48,321,"Matagorda County, Texas",36183
+"29244","TX",48,323,"Maverick County, Texas",55840
+"29245","TX",48,325,"Medina County, Texas",44775
+"29246","TX",48,327,"Menard County, Texas",2135
+"29247","TX",48,329,"Midland County, Texas",150249
+"29248","TX",48,331,"Milam County, Texas",23890
+"29249","TX",48,333,"Mills County, Texas",4719
+"29250","TX",48,335,"Mitchell County, Texas",6741
+"29251","TX",48,337,"Montague County, Texas",19179
+"29252","TX",48,339,"Montgomery County, Texas",499565
+"29253","TX",48,341,"Moore County, Texas",22083
+"29254","TX",48,343,"Morris County, Texas",12559
+"29255","TX",48,345,"Motley County, Texas",1071
+"29256","TX",48,347,"Nacogdoches County, Texas",64677
+"29257","TX",48,349,"Navarro County, Texas",47382
+"29258","TX",48,351,"Newton County, Texas",13874
+"29259","TX",48,353,"Nolan County, Texas",14875
+"29260","TX",48,355,"Nueces County, Texas",347131
+"29261","TX",48,357,"Ochiltree County, Texas",10582
+"29262","TX",48,359,"Oldham County, Texas",1637
+"29263","TX",48,361,"Orange County, Texas",82514
+"29264","TX",48,363,"Palo Pinto County, Texas",27642
+"29265","TX",48,365,"Panola County, Texas",23702
+"29266","TX",48,367,"Parker County, Texas",118993
+"29267","TX",48,369,"Parmer County, Texas",9922
+"29268","TX",48,371,"Pecos County, Texas",13766
+"29269","TX",48,373,"Polk County, Texas",42098
+"29270","TX",48,375,"Potter County, Texas",115824
+"29271","TX",48,377,"Presidio County, Texas",7304
+"29272","TX",48,379,"Rains County, Texas",10970
+"29273","TX",48,381,"Randall County, Texas",125914
+"29274","TX",48,383,"Reagan County, Texas",3566
+"29275","TX",48,385,"Real County, Texas",3265
+"29276","TX",48,387,"Red River County, Texas",12360
+"29277","TX",48,389,"Reeves County, Texas",11364
+"29278","TX",48,391,"Refugio County, Texas",7118
+"29279","TX",48,393,"Roberts County, Texas",931
+"29280","TX",48,395,"Robertson County, Texas",16336
+"29281","TX",48,397,"Rockwall County, Texas",84784
+"29282","TX",48,399,"Runnels County, Texas",10236
+"29283","TX",48,401,"Rusk County, Texas",48869
+"29284","TX",48,403,"Sabine County, Texas",10357
+"29285","TX",48,405,"San Augustine County, Texas",8487
+"29286","TX",48,407,"San Jacinto County, Texas",26876
+"29287","TX",48,409,"San Patricio County, Texas",65254
+"29288","TX",48,411,"San Saba County, Texas",5240
+"29289","TX",48,413,"Schleicher County, Texas",3224
+"29290","TX",48,415,"Scurry County, Texas",15754
+"29291","TX",48,417,"Shackelford County, Texas",3333
+"29292","TX",48,419,"Shelby County, Texas",25545
+"29293","TX",48,421,"Sherman County, Texas",3023
+"29294","TX",48,423,"Smith County, Texas",215234
+"29295","TX",48,425,"Somervell County, Texas",8420
+"29296","TX",48,427,"Starr County, Texas",62096
+"29297","TX",48,429,"Stephens County, Texas",8781
+"29298","TX",48,431,"Sterling County, Texas",1308
+"29299","TX",48,433,"Stonewall County, Texas",1363
+"29300","TX",48,435,"Sutton County, Texas",3941
+"29301","TX",48,437,"Swisher County, Texas",7104
+"29302","TX",48,439,"Tarrant County, Texas",1899050
+"29303","TX",48,441,"Taylor County, Texas",129730
+"29304","TX",48,443,"Terrell County, Texas",921
+"29305","TX",48,445,"Terry County, Texas",11613
+"29306","TX",48,447,"Throckmorton County, Texas",1534
+"29307","TX",48,449,"Titus County, Texas",32259
+"29308","TX",48,451,"Tom Green County, Texas",109946
+"29309","TX",48,453,"Travis County, Texas",1114221
+"29310","TX",48,455,"Trinity County, Texas",14331
+"29311","TX",48,457,"Tyler County, Texas",19038
+"29312","TX",48,459,"Upshur County, Texas",39602
+"29313","TX",48,461,"Upton County, Texas",3347
+"29314","TX",48,463,"Uvalde County, Texas",26595
+"29315","TX",48,465,"Val Verde County, Texas",46360
+"29316","TX",48,467,"Van Zandt County, Texas",52072
+"29317","TX",48,469,"Victoria County, Texas",89003
+"29318","TX",48,471,"Walker County, Texas",52158
+"29319","TX",48,473,"Waller County, Texas",45592
+"29320","TX",48,475,"Ward County, Texas",11095
+"29321","TX",48,477,"Washington County, Texas",33578
+"29322","TX",48,479,"Webb County, Texas",260902
+"29323","TX",48,481,"Wharton County, Texas",40954
+"29324","TX",48,483,"Wheeler County, Texas",5548
+"29325","TX",48,485,"Wichita County, Texas",117339
+"29326","TX",48,487,"Wilbarger County, Texas",12994
+"29327","TX",48,489,"Willacy County, Texas",19512
+"29328","TX",48,491,"Williamson County, Texas",469711
+"29329","TX",48,493,"Wilson County, Texas",44857
+"29330","TX",48,495,"Winkler County, Texas",7469
+"29331","TX",48,497,"Wise County, Texas",60270
+"29332","TX",48,499,"Wood County, Texas",41903
+"29333","TX",48,501,"Yoakum County, Texas",8202
+"29334","TX",48,503,"Young County, Texas",18056
+"29335","TX",48,505,"Zapata County, Texas",14274
+"29336","TX",48,507,"Zavala County, Texas",11806
+"31200","UT",49,1,"Beaver County, Utah",6383
+"31201","UT",49,3,"Box Elder County, Utah",50590
+"31202","UT",49,5,"Cache County, Utah",116715
+"31203","UT",49,7,"Carbon County, Utah",20711
+"31204","UT",49,9,"Daggett County, Utah",651
+"31205","UT",49,11,"Davis County, Utah",320325
+"31206","UT",49,13,"Duchesne County, Utah",19447
+"31207","UT",49,15,"Emery County, Utah",10676
+"31208","UT",49,17,"Garfield County, Utah",4841
+"31209","UT",49,19,"Grand County, Utah",9323
+"31210","UT",49,21,"Iron County, Utah",46698
+"31211","UT",49,23,"Juab County, Utah",10257
+"31212","UT",49,25,"Kane County, Utah",7110
+"31213","UT",49,27,"Millard County, Utah",12430
+"31214","UT",49,29,"Morgan County, Utah",10246
+"31215","UT",49,31,"Piute County, Utah",1826
+"31216","UT",49,33,"Rich County, Utah",2287
+"31217","UT",49,35,"Salt Lake County, Utah",1070940
+"31218","UT",49,37,"San Juan County, Utah",14885
+"31219","UT",49,39,"Sanpete County, Utah",25686
+"31220","UT",49,41,"Sevier County, Utah",20514
+"31221","UT",49,43,"Summit County, Utah",38397
+"31222","UT",49,45,"Tooele County, Utah",60387
+"31223","UT",49,47,"Uintah County, Utah",35348
+"31224","UT",49,49,"Utah County, Utah",548331
+"31225","UT",49,51,"Wasatch County, Utah",26487
+"31226","UT",49,53,"Washington County, Utah",146773
+"31227","UT",49,55,"Wayne County, Utah",2704
+"31228","UT",49,57,"Weber County, Utah",235865
+"31580","VA",51,1,"Accomack County, Virginia",32709
+"31581","VA",51,3,"Albemarle County, Virginia",101532
+"31582","VA",51,5,"Alleghany County, Virginia",15826
+"31583","VA",51,7,"Amelia County, Virginia",12678
+"31584","VA",51,9,"Amherst County, Virginia",31970
+"31585","VA",51,11,"Appomattox County, Virginia",15137
+"31586","VA",51,13,"Arlington County, Virginia",220280
+"31587","VA",51,15,"Augusta County, Virginia",70232
+"31588","VA",51,17,"Bath County, Virginia",4521
+"31589","VA",51,19,"Bedford County, Virginia",76027
+"31590","VA",51,21,"Bland County, Virginia",5727
+"31591","VA",51,23,"Botetourt County, Virginia",32886
+"31592","VA",51,25,"Brunswick County, Virginia",15216
+"31593","VA",51,27,"Buchanan County, Virginia",22446
+"31594","VA",51,29,"Buckingham County, Virginia",15040
+"31595","VA",51,31,"Campbell County, Virginia",54526
+"31596","VA",51,33,"Caroline County, Virginia",27198
+"31597","VA",51,35,"Carroll County, Virginia",29718
+"31598","VA",51,36,"Charles City County, Virginia",7095
+"31599","VA",51,37,"Charlotte County, Virginia",12175
+"31600","VA",51,41,"Chesterfield County, Virginia",325417
+"31601","VA",51,43,"Clarke County, Virginia",14104
+"31602","VA",51,45,"Craig County, Virginia",5195
+"31603","VA",51,47,"Culpeper County, Virginia",46825
+"31604","VA",51,49,"Cumberland County, Virginia",9859
+"31605","VA",51,51,"Dickenson County, Virginia",15068
+"31606","VA",51,53,"Dinwiddie County, Virginia",27685
+"31607","VA",51,57,"Essex County, Virginia",11075
+"31608","VA",51,59,"Fairfax County, Virginia",1115267
+"31609","VA",51,61,"Fauquier County, Virginia",67009
+"31610","VA",51,63,"Floyd County, Virginia",15435
+"31611","VA",51,65,"Fluvanna County, Virginia",24710
+"31612","VA",51,67,"Franklin County, Virginia",55986
+"31613","VA",51,69,"Frederick County, Virginia",80365
+"31614","VA",51,71,"Giles County, Virginia",16774
+"31615","VA",51,73,"Gloucester County, Virginia",36176
+"31616","VA",51,75,"Goochland County, Virginia",20409
+"31617","VA",51,77,"Grayson County, Virginia",15297
+"31618","VA",51,79,"Greene County, Virginia",18728
+"31619","VA",51,81,"Greensville County, Virginia",7564
+"31620","VA",51,83,"Halifax County, Virginia",34794
+"31621","VA",51,85,"Hanover County, Virginia",100598
+"31622","VA",51,87,"Henrico County, Virginia",316845
+"31623","VA",51,89,"Henry County, Virginia",51968
+"31624","VA",51,91,"Highland County, Virginia",2244
+"31625","VA",51,93,"Isle of Wight County, Virginia",35270
+"31626","VA",51,95,"James City County, Virginia",69082
+"31627","VA",51,97,"King and Queen County, Virginia",7106
+"31628","VA",51,99,"King George County, Virginia",24508
+"31629","VA",51,101,"King William County, Virginia",16038
+"31630","VA",51,103,"Lancaster County, Virginia",11043
+"31631","VA",51,105,"Lee County, Virginia",23781
+"31632","VA",51,107,"Loudoun County, Virginia",349284
+"31633","VA",51,109,"Louisa County, Virginia",33888
+"31634","VA",51,111,"Lunenburg County, Virginia",11191
+"31635","VA",51,113,"Madison County, Virginia",12971
+"31636","VA",51,115,"Mathews County, Virginia",8761
+"31637","VA",51,117,"Mecklenburg County, Virginia",30192
+"31638","VA",51,119,"Middlesex County, Virginia",10350
+"31639","VA",51,121,"Montgomery County, Virginia",95900
+"31640","VA",51,125,"Nelson County, Virginia",14801
+"31641","VA",51,127,"New Kent County, Virginia",19020
+"31642","VA",51,131,"Northampton County, Virginia",11886
+"31643","VA",51,133,"Northumberland County, Virginia",12304
+"31644","VA",51,135,"Nottoway County, Virginia",14489
+"31645","VA",51,137,"Orange County, Virginia",34073
+"31646","VA",51,139,"Page County, Virginia",23648
+"31647","VA",51,141,"Patrick County, Virginia",18037
+"31648","VA",51,143,"Pittsylvania County, Virginia",61986
+"31649","VA",51,145,"Powhatan County, Virginia",25621
+"31650","VA",51,147,"Prince Edward County, Virginia",22299
+"31651","VA",51,149,"Prince George County, Virginia",32524
+"31652","VA",51,153,"Prince William County, Virginia",429049
+"31653","VA",51,155,"Pulaski County, Virginia",33589
+"31654","VA",51,157,"Rappahannock County, Virginia",7413
+"31655","VA",51,159,"Richmond County, Virginia",7104
+"31656","VA",51,161,"Roanoke County, Virginia",92069
+"31657","VA",51,163,"Rockbridge County, Virginia",22265
+"31658","VA",51,165,"Rockingham County, Virginia",77411
+"31659","VA",51,167,"Russell County, Virginia",28019
+"31660","VA",51,169,"Scott County, Virginia",21949
+"31661","VA",51,171,"Shenandoah County, Virginia",42272
+"31662","VA",51,173,"Smyth County, Virginia",31198
+"31663","VA",51,175,"Southampton County, Virginia",16872
+"31664","VA",51,177,"Spotsylvania County, Virginia",126780
+"31665","VA",51,179,"Stafford County, Virginia",131108
+"31666","VA",51,181,"Surry County, Virginia",6823
+"31667","VA",51,183,"Sussex County, Virginia",6626
+"31668","VA",51,185,"Tazewell County, Virginia",42700
+"31669","VA",51,187,"Warren County, Virginia",38112
+"31670","VA",51,191,"Washington County, Virginia",54120
+"31671","VA",51,193,"Westmoreland County, Virginia",17403
+"31672","VA",51,195,"Wise County, Virginia",38320
+"31673","VA",51,197,"Wythe County, Virginia",28917
+"31674","VA",51,199,"York County, Virginia",63478
+"31675","VA",51,510,"Alexandria city, Virginia",146228
+"31676","VA",51,520,"Bristol city, Virginia",17367
+"31677","VA",51,530,"Buena Vista city, Virginia",6590
+"31678","VA",51,540,"Charlottesville city, Virginia",44706
+"31679","VA",51,550,"Chesapeake city, Virginia",218437
+"31680","VA",51,570,"Colonial Heights city, Virginia",17268
+"31681","VA",51,580,"Covington city, Virginia",5556
+"31682","VA",51,590,"Danville city, Virginia",41309
+"31683","VA",51,595,"Emporia city, Virginia",5457
+"31684","VA",51,600,"Fairfax city, Virginia",22898
+"31685","VA",51,610,"Falls Church city, Virginia",13211
+"31686","VA",51,620,"Franklin city, Virginia",8327
+"31687","VA",51,630,"Fredericksburg city, Virginia",27148
+"31688","VA",51,640,"Galax city, Virginia",6586
+"31689","VA",51,650,"Hampton city, Virginia",131770
+"31690","VA",51,660,"Harrisonburg city, Virginia",50672
+"31691","VA",51,670,"Hopewell city, Virginia",21948
+"31692","VA",51,678,"Lexington city, Virginia",5643
+"31693","VA",51,680,"Lynchburg city, Virginia",76635
+"31694","VA",51,683,"Manassas city, Virginia",40689
+"31695","VA",51,685,"Manassas Park city, Virginia",15539
+"31696","VA",51,690,"Martinsville city, Virginia",13271
+"31697","VA",51,700,"Newport News city, Virginia",172212
+"31698","VA",51,710,"Norfolk city, Virginia",219275
+"31699","VA",51,720,"Norton city, Virginia",3949
+"31700","VA",51,730,"Petersburg city, Virginia",31239
+"31701","VA",51,735,"Poquoson city, Virginia",11937
+"31702","VA",51,740,"Portsmouth city, Virginia",92298
+"31703","VA",51,750,"Radford city, Virginia",16886
+"31704","VA",51,760,"Richmond city, Virginia",211150
+"31705","VA",51,770,"Roanoke city, Virginia",97442
+"31706","VA",51,775,"Salem city, Virginia",24495
+"31707","VA",51,790,"Staunton city, Virginia",23645
+"31708","VA",51,800,"Suffolk city, Virginia",83818
+"31709","VA",51,810,"Virginia Beach city, Virginia",422939
+"31710","VA",51,820,"Waynesboro city, Virginia",21009
+"31711","VA",51,830,"Williamsburg city, Virginia",14572
+"31712","VA",51,840,"Winchester city, Virginia",26906
+"32344","VT",50,1,"Addison County, Vermont",36714
+"32345","VT",50,3,"Bennington County, Vermont",36104
+"32346","VT",50,5,"Caledonia County, Vermont",30621
+"32347","VT",50,7,"Chittenden County, Vermont",158543
+"32348","VT",50,9,"Essex County, Vermont",6207
+"32349","VT",50,11,"Franklin County, Vermont",47875
+"32350","VT",50,13,"Grand Isle County, Vermont",6952
+"32351","VT",50,15,"Lamoille County, Vermont",24932
+"32352","VT",50,17,"Orange County, Vermont",28842
+"32353","VT",50,19,"Orleans County, Vermont",26503
+"32354","VT",50,21,"Rutland County, Vermont",59848
+"32355","VT",50,23,"Washington County, Vermont",58630
+"32356","VT",50,25,"Windham County, Vermont",43417
+"32357","VT",50,27,"Windsor County, Vermont",55269
+"32498","WA",53,1,"Adams County, Washington",18848
+"32499","WA",53,3,"Asotin County, Washington",21857
+"32500","WA",53,5,"Benton County, Washington",183388
+"32501","WA",53,7,"Chelan County, Washington",73694
+"32502","WA",53,9,"Clallam County, Washington",71421
+"32503","WA",53,11,"Clark County, Washington",442053
+"32504","WA",53,13,"Columbia County, Washington",3929
+"32505","WA",53,15,"Cowlitz County, Washington",101330
+"32506","WA",53,17,"Douglas County, Washington",39468
+"32507","WA",53,19,"Ferry County, Washington",7580
+"32508","WA",53,21,"Franklin County, Washington",84275
+"32509","WA",53,23,"Garfield County, Washington",2202
+"32510","WA",53,25,"Grant County, Washington",91556
+"32511","WA",53,27,"Grays Harbor County, Washington",68542
+"32512","WA",53,29,"Island County, Washington",74364
+"32513","WA",53,31,"Jefferson County, Washington",29364
+"32514","WA",53,33,"King County, Washington",2032142
+"32515","WA",53,35,"Kitsap County, Washington",241615
+"32516","WA",53,37,"Kittitas County, Washington",41897
+"32517","WA",53,39,"Klickitat County, Washington",20777
+"32518","WA",53,41,"Lewis County, Washington",74674
+"32519","WA",53,43,"Lincoln County, Washington",10234
+"32520","WA",53,45,"Mason County, Washington",59332
+"32521","WA",53,47,"Okanogan County, Washington",40817
+"32522","WA",53,49,"Pacific County, Washington",20398
+"32523","WA",53,51,"Pend Oreille County, Washington",12857
+"32524","WA",53,53,"Pierce County, Washington",799506
+"32525","WA",53,55,"San Juan County, Washington",15901
+"32526","WA",53,57,"Skagit County, Washington",118092
+"32527","WA",53,59,"Skamania County, Washington",11205
+"32528","WA",53,61,"Snohomish County, Washington",737109
+"32529","WA",53,63,"Spokane County, Washington",471824
+"32530","WA",53,65,"Stevens County, Washington",43286
+"32531","WA",53,67,"Thurston County, Washington",256560
+"32532","WA",53,69,"Wahkiakum County, Washington",3973
+"32533","WA",53,71,"Walla Walla County, Washington",56365
+"32534","WA",53,73,"Whatcom County, Washington",205396
+"32535","WA",53,75,"Whitman County, Washington",46502
+"32536","WA",53,77,"Yakima County, Washington",244521
+"33208","WI",55,1,"Adams County, Wisconsin",19253
+"33209","WI",55,3,"Ashland County, Wisconsin",15758
+"33210","WI",55,5,"Barron County, Wisconsin",45096
+"33211","WI",55,7,"Bayfield County, Wisconsin",14926
+"33212","WI",55,9,"Brown County, Wisconsin",251575
+"33213","WI",55,11,"Buffalo County, Wisconsin",13232
+"33214","WI",55,13,"Burnett County, Wisconsin",15202
+"33215","WI",55,15,"Calumet County, Wisconsin",49491
+"33216","WI",55,17,"Chippewa County, Wisconsin",60973
+"33217","WI",55,19,"Clark County, Wisconsin",34018
+"33218","WI",55,21,"Columbia County, Wisconsin",55226
+"33219","WI",55,23,"Crawford County, Wisconsin",15818
+"33220","WI",55,25,"Dane County, Wisconsin",506157
+"33221","WI",55,27,"Dodge County, Wisconsin",83914
+"33222","WI",55,29,"Door County, Wisconsin",27422
+"33223","WI",55,31,"Douglas County, Wisconsin",43205
+"33224","WI",55,33,"Dunn County, Wisconsin",43818
+"33225","WI",55,35,"Eau Claire County, Wisconsin",100589
+"33226","WI",55,37,"Florence County, Wisconsin",4418
+"33227","WI",55,39,"Fond du Lac County, Wisconsin",100260
+"33228","WI",55,41,"Forest County, Wisconsin",8951
+"33229","WI",55,43,"Grant County, Wisconsin",50375
+"33230","WI",55,45,"Green County, Wisconsin",36697
+"33231","WI",55,47,"Green Lake County, Wisconsin",18767
+"33232","WI",55,49,"Iowa County, Wisconsin",23589
+"33233","WI",55,51,"Iron County, Wisconsin",5802
+"33234","WI",55,53,"Jackson County, Wisconsin",19337
+"33235","WI",55,55,"Jefferson County, Wisconsin",83864
+"33236","WI",55,57,"Juneau County, Wisconsin",24988
+"33237","WI",55,59,"Kenosha County, Wisconsin",165871
+"33238","WI",55,61,"Kewaunee County, Wisconsin",20343
+"33239","WI",55,63,"La Crosse County, Wisconsin",115788
+"33240","WI",55,65,"Lafayette County, Wisconsin",16735
+"33241","WI",55,67,"Langlade County, Wisconsin",19305
+"33242","WI",55,69,"Lincoln County, Wisconsin",27729
+"33243","WI",55,71,"Manitowoc County, Wisconsin",79942
+"33244","WI",55,73,"Marathon County, Wisconsin",134001
+"33245","WI",55,75,"Marinette County, Wisconsin",40738
+"33246","WI",55,77,"Marquette County, Wisconsin",14981
+"33247","WI",55,78,"Menominee County, Wisconsin",4398
+"33248","WI",55,79,"Milwaukee County, Wisconsin",946726
+"33249","WI",55,81,"Monroe County, Wisconsin",44277
+"33250","WI",55,83,"Oconto County, Wisconsin",37211
+"33251","WI",55,85,"Oneida County, Wisconsin",35123
+"33252","WI",55,87,"Outagamie County, Wisconsin",178942
+"33253","WI",55,89,"Ozaukee County, Wisconsin",86716
+"33254","WI",55,91,"Pepin County, Wisconsin",7254
+"33255","WI",55,93,"Pierce County, Wisconsin",40550
+"33256","WI",55,95,"Polk County, Wisconsin",43131
+"33257","WI",55,97,"Portage County, Wisconsin",70114
+"33258","WI",55,99,"Price County, Wisconsin",13604
+"33259","WI",55,101,"Racine County, Wisconsin",190768
+"33260","WI",55,103,"Richland County, Wisconsin",17605
+"33261","WI",55,105,"Rock County, Wisconsin",159341
+"33262","WI",55,107,"Rusk County, Wisconsin",14219
+"33263","WI",55,109,"St. Croix County, Wisconsin",85357
+"33264","WI",55,111,"Sauk County, Wisconsin",62264
+"33265","WI",55,113,"Sawyer County, Wisconsin",16175
+"33266","WI",55,115,"Shawano County, Wisconsin",40958
+"33267","WI",55,117,"Sheboygan County, Wisconsin",112918
+"33268","WI",55,119,"Taylor County, Wisconsin",20338
+"33269","WI",55,121,"Trempealeau County, Wisconsin",28984
+"33270","WI",55,123,"Vernon County, Wisconsin",29971
+"33271","WI",55,125,"Vilas County, Wisconsin",21178
+"33272","WI",55,127,"Walworth County, Wisconsin",102234
+"33273","WI",55,129,"Washburn County, Wisconsin",15513
+"33274","WI",55,131,"Washington County, Wisconsin",131975
+"33275","WI",55,133,"Waukesha County, Wisconsin",391307
+"33276","WI",55,135,"Waupaca County, Wisconsin",50642
+"33277","WI",55,137,"Waushara County, Wisconsin",23169
+"33278","WI",55,139,"Winnebago County, Wisconsin",163911
+"33279","WI",55,141,"Wood County, Wisconsin",73336
+"34105","WV",54,1,"Barbour County, West Virginia",16574
+"34106","WV",54,3,"Berkeley County, West Virginia",108065
+"34107","WV",54,5,"Boone County, West Virginia",23884
+"34108","WV",54,7,"Braxton County, West Virginia",14109
+"34109","WV",54,9,"Brooke County, West Virginia",23473
+"34110","WV",54,11,"Cabell County, West Virginia",95396
+"34111","WV",54,13,"Calhoun County, West Virginia",7534
+"34112","WV",54,15,"Clay County, West Virginia",9082
+"34113","WV",54,17,"Doddridge County, West Virginia",7616
+"34114","WV",54,19,"Fayette County, West Virginia",44209
+"34115","WV",54,21,"Gilmer County, West Virginia",7064
+"34116","WV",54,23,"Grant County, West Virginia",11705
+"34117","WV",54,25,"Greenbrier County, West Virginia",35035
+"34118","WV",54,27,"Hampshire County, West Virginia",23011
+"34119","WV",54,29,"Hancock County, West Virginia",29973
+"34120","WV",54,31,"Hardy County, West Virginia",13878
+"34121","WV",54,33,"Harrison County, West Virginia",68409
+"34122","WV",54,35,"Jackson County, West Virginia",29080
+"34123","WV",54,37,"Jefferson County, West Virginia",54948
+"34124","WV",54,39,"Kanawha County, West Virginia",189041
+"34125","WV",54,41,"Lewis County, West Virginia",16348
+"34126","WV",54,43,"Lincoln County, West Virginia",21500
+"34127","WV",54,45,"Logan County, West Virginia",35188
+"34128","WV",54,47,"McDowell County, West Virginia",19600
+"34129","WV",54,49,"Marion County, West Virginia",56423
+"34130","WV",54,51,"Marshall County, West Virginia",32081
+"34131","WV",54,53,"Mason County, West Virginia",26500
+"34132","WV",54,55,"Mercer County, West Virginia",61459
+"34133","WV",54,57,"Mineral County, West Virginia",27549
+"34134","WV",54,59,"Mingo County, West Virginia",25847
+"34135","WV",54,61,"Monongalia County, West Virginia",100051
+"34136","WV",54,63,"Monroe County, West Virginia",13407
+"34137","WV",54,65,"Morgan County, West Virginia",17309
+"34138","WV",54,67,"Nicholas County, West Virginia",25786
+"34139","WV",54,69,"Ohio County, West Virginia",43077
+"34140","WV",54,71,"Pendleton County, West Virginia",7229
+"34141","WV",54,73,"Pleasants County, West Virginia",7016
+"34142","WV",54,75,"Pocahontas County, West Virginia",8392
+"34143","WV",54,77,"Preston County, West Virginia",31484
+"34144","WV",54,79,"Putnam County, West Virginia",56261
+"34145","WV",54,81,"Raleigh County, West Virginia",75498
+"34146","WV",54,83,"Randolph County, West Virginia",27548
+"34147","WV",54,85,"Ritchie County, West Virginia",10073
+"34148","WV",54,87,"Roane County, West Virginia",14542
+"34149","WV",54,89,"Summers County, West Virginia",12443
+"34150","WV",54,91,"Taylor County, West Virginia",16532
+"34151","WV",54,93,"Tucker County, West Virginia",6800
+"34152","WV",54,95,"Tyler County, West Virginia",8959
+"34153","WV",54,97,"Upshur County, West Virginia",24403
+"34154","WV",54,99,"Wayne County, West Virginia",41381
+"34155","WV",54,101,"Webster County, West Virginia",8869
+"34156","WV",54,103,"Wetzel County, West Virginia",16059
+"34157","WV",54,105,"Wirt County, West Virginia",5841
+"34158","WV",54,107,"Wood County, West Virginia",86071
+"34159","WV",54,109,"Wyoming County, West Virginia",22788
+"34597","WY",56,1,"Albany County, Wyoming",37368
+"34598","WY",56,3,"Big Horn County, Wyoming",11672
+"34599","WY",56,5,"Campbell County, Wyoming",47640
+"34600","WY",56,7,"Carbon County, Wyoming",14962
+"34601","WY",56,9,"Converse County, Wyoming",14038
+"34602","WY",56,11,"Crook County, Wyoming",7180
+"34603","WY",56,13,"Fremont County, Wyoming",40146
+"34604","WY",56,15,"Goshen County, Wyoming",12928
+"34605","WY",56,17,"Hot Springs County, Wyoming",4704
+"34606","WY",56,19,"Johnson County, Wyoming",8546
+"34607","WY",56,21,"Laramie County, Wyoming",92440
+"34608","WY",56,23,"Lincoln County, Wyoming",18187
+"34609","WY",56,25,"Natrona County, Wyoming",78909
+"34610","WY",56,27,"Niobrara County, Wyoming",2232
+"34611","WY",56,29,"Park County, Wyoming",28719
+"34612","WY",56,31,"Platte County, Wyoming",8640
+"34613","WY",56,33,"Sheridan County, Wyoming",29273
+"34614","WY",56,35,"Sublette County, Wyoming",10095
+"34615","WY",56,37,"Sweetwater County, Wyoming",44492
+"34616","WY",56,39,"Teton County, Wyoming",22253
+"34617","WY",56,41,"Uinta County, Wyoming",20759
+"34618","WY",56,43,"Washakie County, Wyoming",8233
+"34619","WY",56,45,"Weston County, Wyoming",6782
